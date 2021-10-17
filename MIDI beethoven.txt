@@ -1,0 +1,7113 @@
+key sig E flat major
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 prog 0
+0: ch 0 prog 0
+0: ch 0 prog 0
+720: ch 0 on C4 40
+0: ch 0 on C3 36
+240: ch 0 off C3 64
+0: ch 0 off C4 64
+0: ch 0 on B3 45
+0: ch 0 on B2 38
+78: ch 0 cntl 64 127
+162: ch 0 off B2 64
+0: ch 0 off B3 64
+0: ch 0 on C4 40
+0: ch 0 on C3 35
+12: ch 0 cntl 64 0
+tempo 286396 msecs per qnote (209.50013268341738 bpm)
+0: ch 0 off C3 64
+0: ch 0 off C4 64
+0: ch 0 on F4 45
+0: ch 0 on F3 38
+120: ch 0 off F3 64
+0: ch 0 off F4 64
+tempo 349854 msecs per qnote (171.50011147507246 bpm)
+0: ch 0 on F4 38
+0: ch 0 on F3 34
+120: ch 0 off F3 64
+0: ch 0 off F4 64
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 on D#4 45
+0: ch 0 on D#3 38
+480: ch 0 off D#3 64
+0: ch 0 off D#4 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on C4 40
+0: ch 0 on C3 36
+240: ch 0 off C3 64
+0: ch 0 off C4 64
+0: ch 0 on B3 45
+0: ch 0 on B2 38
+78: ch 0 cntl 64 127
+162: ch 0 off B2 64
+0: ch 0 off B3 64
+0: ch 0 on C4 40
+0: ch 0 on C3 35
+17: ch 0 cntl 64 0
+tempo 287081 msecs per qnote (209.00024731695933 bpm)
+0: ch 0 off C3 64
+0: ch 0 off C4 64
+0: ch 0 on G#4 45
+0: ch 0 on G#3 38
+120: ch 0 off G#3 64
+0: ch 0 off G#4 64
+tempo 350877 msecs per qnote (171.00009405005173 bpm)
+0: ch 0 on G#4 38
+0: ch 0 on G#3 34
+120: ch 0 off G#3 64
+0: ch 0 off G#4 64
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 on G4 45
+0: ch 0 on G3 38
+480: ch 0 off G3 64
+0: ch 0 off G4 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on C4 40
+240: ch 0 off C4 64
+0: ch 0 on B3 45
+85: ch 0 cntl 64 127
+155: ch 0 off B3 64
+0: ch 0 on C4 40
+21: ch 0 cntl 64 0
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C4 64
+0: ch 0 on C5 45
+120: ch 0 off C5 64
+tempo 345821 msecs per qnote (173.50016337932053 bpm)
+0: ch 0 on C5 38
+120: ch 0 off C5 64
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 on C5 45
+0: ch 0 on G#3 38
+0: ch 0 on C4 38
+0: ch 0 on F#4 38
+3: ch 0 cntl 64 127
+237: ch 0 off C5 64
+0: ch 0 on D5 45
+60: ch 0 off D5 64
+0: ch 0 on C5 45
+60: ch 0 off C5 64
+0: ch 0 on B4 40
+60: ch 0 off B4 64
+0: ch 0 on C5 45
+60: ch 0 off C5 64
+0: ch 0 on D#5 50
+11: ch 0 cntl 64 0
+55: ch 0 cntl 64 127
+174: ch 0 off D#5 64
+0: ch 0 on D5 45
+tempo 320856 msecs per qnote (186.9997756002693 bpm)
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off D5 64
+0: ch 0 on F5 56
+23: ch 0 cntl 64 0
+63: ch 0 cntl 64 127
+154: ch 0 off F5 64
+0: ch 0 on D#5 53
+240: ch 0 off D#5 64
+0: ch 0 on D5 50
+11: ch 0 cntl 64 0
+29: ch 0 cntl 64 127
+tempo 338983 msecs per qnote (177.00002655000398 bpm)
+0: ch 0 off D5 64
+0: ch 0 on C5 47
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 off C5 64
+0: ch 0 off G#3 64
+0: ch 0 off C4 64
+0: ch 0 off F#4 64
+0: ch 0 on B4 51
+0: ch 0 on G4 38
+0: ch 0 on D4 32
+0: ch 0 on G3 32
+0: ch 0 cntl 64 0
+480: ch 0 off G3 64
+0: ch 0 off B4 64
+0: ch 0 off G4 64
+0: ch 0 off D4 64
+240: ch 0 on G3 40
+0: ch 0 on G2 36
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 on F#3 45
+0: ch 0 on F#2 38
+113: ch 0 cntl 64 127
+127: ch 0 off F#2 64
+0: ch 0 off F#3 64
+0: ch 0 on G3 40
+0: ch 0 on G2 35
+15: ch 0 cntl 64 0
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 on C4 45
+0: ch 0 on C3 38
+120: ch 0 off C3 64
+0: ch 0 off C4 64
+tempo 338983 msecs per qnote (177.00002655000398 bpm)
+0: ch 0 on C4 38
+0: ch 0 on C3 34
+120: ch 0 off C3 64
+0: ch 0 off C4 64
+tempo 291971 msecs per qnote (205.49986128759363 bpm)
+0: ch 0 on B3 45
+0: ch 0 on B2 38
+480: ch 0 off B2 64
+0: ch 0 off B3 64
+240: ch 0 on G3 40
+0: ch 0 on G2 36
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 on F#3 45
+0: ch 0 on F#2 38
+50: ch 0 cntl 64 127
+190: ch 0 off F#2 64
+0: ch 0 off F#3 64
+0: ch 0 on G3 40
+0: ch 0 on G2 35
+16: ch 0 cntl 64 0
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 on D#4 45
+0: ch 0 on D#3 38
+120: ch 0 off D#3 64
+0: ch 0 off D#4 64
+tempo 342857 msecs per qnote (175.00007291669704 bpm)
+0: ch 0 on D#4 38
+0: ch 0 on D#3 34
+120: ch 0 off D#3 64
+0: ch 0 off D#4 64
+tempo 296296 msecs per qnote (202.5002025002025 bpm)
+0: ch 0 on D4 45
+0: ch 0 on D3 38
+480: ch 0 off D3 64
+0: ch 0 off D4 64
+240: ch 0 on G3 45
+0: ch 0 on G2 37
+120: ch 0 off G2 64
+0: ch 0 off G3 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 on B3 51
+0: ch 0 on B2 43
+120: ch 0 off B2 64
+0: ch 0 off B3 64
+120: ch 0 on D4 45
+0: ch 0 on D3 37
+120: ch 0 off D3 64
+0: ch 0 off D4 64
+120: ch 0 on F4 45
+0: ch 0 on F3 37
+120: ch 0 off F3 64
+0: ch 0 off F4 64
+120: ch 0 on G#4 45
+0: ch 0 on G#3 37
+120: ch 0 off G#3 64
+0: ch 0 off G#4 64
+120: ch 0 on B4 55
+0: ch 0 on B3 46
+120: ch 0 off B3 64
+0: ch 0 off B4 64
+120: ch 0 on D5 53
+0: ch 0 on D4 45
+120: ch 0 off D4 64
+0: ch 0 off D5 64
+120: ch 0 on F5 56
+0: ch 0 on F4 47
+120: ch 0 off F4 64
+0: ch 0 off F5 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 on G#5 60
+0: ch 0 on G#4 50
+120: ch 0 off G#4 64
+0: ch 0 off G#5 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on G5 63
+0: ch 0 on G4 53
+120: ch 0 off G4 64
+0: ch 0 off G5 64
+120: ch 0 on F5 59
+0: ch 0 on F4 50
+120: ch 0 off F4 64
+0: ch 0 off F5 64
+120: ch 0 on D#5 55
+0: ch 0 on D#4 46
+120: ch 0 off D#4 64
+0: ch 0 off D#5 64
+tempo 338028 msecs per qnote (177.50008875004437 bpm)
+0: ch 0 on D5 54
+0: ch 0 on D4 45
+120: ch 0 off D4 64
+0: ch 0 off D5 64
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 on C5 62
+0: ch 0 on C4 42
+0: ch 0 cntl 64 127
+120: ch 0 off C4 64
+120: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+120: ch 0 off C5 64
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+120: ch 0 on C5 50
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+tempo 295567 msecs per qnote (202.99965828390856 bpm)
+0: ch 0 off C5 64
+0: ch 0 on B4 57
+0: ch 0 on C4 42
+7: ch 0 cntl 64 0
+68: ch 0 cntl 64 127
+45: ch 0 off C4 64
+120: ch 0 off B4 64
+0: ch 0 on C5 53
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+13: ch 0 cntl 64 0
+107: ch 0 off A#4 64
+0: ch 0 off G4 64
+0: ch 0 off E4 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C5 64
+0: ch 0 on C6 60
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+120: ch 0 off A#4 64
+0: ch 0 off C6 64
+0: ch 0 off E4 64
+0: ch 0 off G4 64
+tempo 337079 msecs per qnote (177.99981606685674 bpm)
+0: ch 0 on C6 52
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+120: ch 0 off A#4 64
+0: ch 0 off C6 64
+0: ch 0 off E4 64
+0: ch 0 off G4 64
+tempo 294118 msecs per qnote (203.99975520029375 bpm)
+0: ch 0 on C6 60
+0: ch 0 on C4 42
+21: ch 0 cntl 64 127
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C4 64
+120: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 off C6 64
+0: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 on F6 59
+0: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 off F6 64
+0: ch 0 on D#6 65
+0: ch 0 on C4 42
+17: ch 0 cntl 64 0
+74: ch 0 cntl 64 127
+29: ch 0 off C4 64
+120: ch 0 off D#6 64
+0: ch 0 on D6 60
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+120: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 off D6 64
+0: ch 0 on C6 66
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+10: ch 0 cntl 64 0
+61: ch 0 cntl 64 127
+49: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 314961 msecs per qnote (190.499776162763 bpm)
+0: ch 0 off C6 64
+0: ch 0 on B5 60
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+120: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 off B5 64
+0: ch 0 on D6 69
+0: ch 0 on C4 42
+17: ch 0 cntl 64 0
+46: ch 0 cntl 64 127
+57: ch 0 off C4 64
+120: ch 0 off D6 64
+0: ch 0 on C6 60
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+10: ch 0 cntl 64 0
+110: ch 0 off G4 64
+0: ch 0 off D#4 64
+120: ch 0 off C6 64
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+120: ch 0 on C5 50
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 off C5 64
+0: ch 0 on B4 57
+0: ch 0 on C4 42
+52: ch 0 cntl 64 127
+68: ch 0 off C4 64
+120: ch 0 off B4 64
+0: ch 0 on C5 53
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+10: ch 0 cntl 64 0
+110: ch 0 off A#4 64
+0: ch 0 off G4 64
+0: ch 0 off E4 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C5 64
+0: ch 0 on C6 60
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+120: ch 0 off A#4 64
+0: ch 0 off C6 64
+0: ch 0 off E4 64
+0: ch 0 off G4 64
+tempo 338028 msecs per qnote (177.50008875004437 bpm)
+0: ch 0 on C6 52
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+120: ch 0 off A#4 64
+0: ch 0 off C6 64
+0: ch 0 off E4 64
+0: ch 0 off G4 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 on C6 60
+0: ch 0 on C4 42
+20: ch 0 cntl 64 127
+100: ch 0 off C4 64
+120: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+0: ch 0 off C6 64
+0: ch 0 on D6 60
+0: ch 0 on F4 32
+0: ch 0 on G#4 38
+15: ch 0 cntl 64 0
+34: ch 0 cntl 64 127
+11: ch 0 off D6 64
+0: ch 0 on C6 60
+60: ch 0 off C6 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+0: ch 0 on B5 60
+60: ch 0 off B5 64
+0: ch 0 on C6 60
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C6 64
+0: ch 0 on F6 59
+0: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 291971 msecs per qnote (205.49986128759363 bpm)
+0: ch 0 off F6 64
+0: ch 0 on D#6 65
+0: ch 0 on C4 42
+20: ch 0 cntl 64 0
+52: ch 0 cntl 64 127
+48: ch 0 off C4 64
+120: ch 0 off D#6 64
+0: ch 0 on D6 60
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+120: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 off D6 64
+0: ch 0 on C6 66
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+8: ch 0 cntl 64 0
+49: ch 0 cntl 64 127
+63: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 313316 msecs per qnote (191.4999553166771 bpm)
+0: ch 0 off C6 64
+0: ch 0 on B5 60
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+120: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 off B5 64
+0: ch 0 on C6 69
+0: ch 0 on C4 36
+0: ch 0 on D#4 36
+0: ch 0 on G4 36
+0: ch 0 cntl 64 0
+7: ch 0 on C5 44
+85: ch 0 cntl 64 127
+28: ch 0 off C6 64
+0: ch 0 on D6 63
+120: ch 0 off D6 64
+0: ch 0 on C6 63
+120: ch 0 off C6 64
+0: ch 0 on B5 63
+120: ch 0 off B5 64
+0: ch 0 off C4 64
+0: ch 0 off G4 64
+0: ch 0 off D#4 64
+0: ch 0 on C6 69
+0: ch 0 cntl 64 0
+7: ch 0 off C5 64
+113: ch 0 off C6 64
+0: ch 0 on D#6 73
+120: ch 0 off D#6 64
+0: ch 0 on D6 72
+0: ch 0 on F#4 42
+63: ch 0 cntl 64 127
+tempo 366972 msecs per qnote (163.5002125502763 bpm)
+0: ch 0 off D6 64
+0: ch 0 on C6 71
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C6 64
+0: ch 0 off F#4 64
+0: ch 0 on B5 72
+0: ch 0 on G4 52
+9: ch 0 cntl 64 0
+77: ch 0 cntl 64 127
+34: ch 0 off B5 64
+0: ch 0 on C6 65
+120: ch 0 off C6 64
+0: ch 0 on B5 65
+120: ch 0 off B5 64
+0: ch 0 on G#5 65
+69: ch 0 cntl 64 0
+51: ch 0 off G#5 64
+0: ch 0 off G4 64
+0: ch 0 on G5 69
+120: ch 0 off G5 64
+0: ch 0 on F5 63
+120: ch 0 off F5 64
+0: ch 0 on D#5 63
+0: ch 0 on B3 48
+57: ch 0 cntl 64 127
+tempo 366972 msecs per qnote (163.5002125502763 bpm)
+0: ch 0 off D#5 64
+0: ch 0 on D5 63
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 off D5 64
+0: ch 0 off B3 64
+0: ch 0 on C5 69
+0: ch 0 on C4 57
+0: ch 0 cntl 64 0
+80: ch 0 cntl 64 127
+40: ch 0 off C5 64
+0: ch 0 on D5 63
+120: ch 0 off D5 64
+0: ch 0 on C5 63
+10: ch 0 cntl 64 0
+110: ch 0 off C5 64
+0: ch 0 on B4 61
+120: ch 0 off B4 64
+0: ch 0 off C4 64
+0: ch 0 on C5 66
+120: ch 0 off C5 64
+0: ch 0 on D#5 72
+120: ch 0 off D#5 64
+0: ch 0 on D5 70
+0: ch 0 on F#3 54
+34: ch 0 cntl 64 127
+tempo 368098 msecs per qnote (163.00007063336395 bpm)
+0: ch 0 off D5 64
+0: ch 0 on C5 67
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C5 64
+0: ch 0 off F#3 64
+0: ch 0 on B4 69
+0: ch 0 on G3 63
+9: ch 0 cntl 64 0
+111: ch 0 off B4 64
+0: ch 0 on C5 63
+17: ch 0 cntl 64 127
+103: ch 0 off C5 64
+0: ch 0 on B4 63
+10: ch 0 cntl 64 0
+110: ch 0 off B4 64
+0: ch 0 on G#4 63
+120: ch 0 off G#4 64
+0: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 on F4 63
+120: ch 0 off F4 64
+0: ch 0 on D#4 63
+0: ch 0 on B2 57
+69: ch 0 cntl 64 127
+tempo 366972 msecs per qnote (163.5002125502763 bpm)
+0: ch 0 off D#4 64
+0: ch 0 on D4 63
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off D4 64
+0: ch 0 off B2 64
+0: ch 0 on C4 77
+0: ch 0 on C3 66
+15: ch 0 cntl 64 0
+82: ch 0 cntl 64 127
+23: ch 0 off C4 64
+0: ch 0 on D4 69
+120: ch 0 off D4 64
+0: ch 0 on C4 69
+11: ch 0 cntl 64 0
+109: ch 0 off C4 64
+0: ch 0 on B3 69
+120: ch 0 off B3 64
+0: ch 0 off C3 64
+0: ch 0 on C4 77
+120: ch 0 off C4 64
+0: ch 0 on D#4 69
+120: ch 0 off D#4 64
+0: ch 0 on D4 69
+0: ch 0 on F#2 58
+46: ch 0 cntl 64 127
+tempo 365854 msecs per qnote (163.9998469334762 bpm)
+0: ch 0 off D4 64
+0: ch 0 on C4 69
+tempo 298507 msecs per qnote (201.0003115504829 bpm)
+0: ch 0 off C4 64
+0: ch 0 off F#2 64
+0: ch 0 on B3 77
+0: ch 0 on G2 67
+23: ch 0 cntl 64 0
+92: ch 0 cntl 64 127
+5: ch 0 off B3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 on D4 69
+120: ch 0 off D4 64
+0: ch 0 on B3 69
+120: ch 0 off B3 64
+0: ch 0 off G2 64
+0: ch 0 on G3 79
+0: ch 0 on C2 82
+0: ch 0 on C3 96
+6: ch 0 cntl 64 0
+74: ch 0 cntl 64 127
+40: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off C3 64
+0: ch 0 off C2 64
+0: ch 0 on D#4 69
+120: ch 0 off D#4 64
+0: ch 0 on C4 69
+120: ch 0 off C4 64
+0: ch 0 on G3 81
+0: ch 0 on G1 55
+0: ch 0 on G2 66
+0: ch 0 cntl 64 0
+69: ch 0 cntl 64 127
+51: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off G2 64
+0: ch 0 off G1 64
+0: ch 0 on D4 69
+14: ch 0 cntl 64 0
+43: ch 0 cntl 64 127
+63: ch 0 off D4 64
+0: ch 0 on B3 69
+120: ch 0 off B3 64
+0: ch 0 on G3 80
+0: ch 0 on C2 82
+0: ch 0 on C3 97
+19: ch 0 cntl 64 0
+67: ch 0 cntl 64 127
+34: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off C3 64
+0: ch 0 off C2 64
+0: ch 0 on D#4 69
+13: ch 0 cntl 64 0
+67: ch 0 cntl 64 127
+40: ch 0 off D#4 64
+0: ch 0 on C4 69
+120: ch 0 off C4 64
+0: ch 0 on G3 80
+0: ch 0 on G1 57
+0: ch 0 on G2 68
+20: ch 0 cntl 64 0
+60: ch 0 cntl 64 127
+40: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off G2 64
+0: ch 0 off G1 64
+0: ch 0 on D4 69
+17: ch 0 cntl 64 0
+80: ch 0 cntl 64 127
+23: ch 0 off D4 64
+0: ch 0 on B3 69
+120: ch 0 off B3 64
+0: ch 0 on G3 80
+0: ch 0 on C2 82
+0: ch 0 on C3 97
+17: ch 0 cntl 64 0
+75: ch 0 cntl 64 127
+28: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off C3 64
+0: ch 0 off C2 64
+0: ch 0 on D#4 69
+15: ch 0 cntl 64 0
+100: ch 0 cntl 64 127
+tempo 358209 msecs per qnote (167.4999790625026 bpm)
+0: ch 0 off D#4 64
+0: ch 0 on C4 69
+tempo 550459 msecs per qnote (108.99994368336243 bpm)
+0: ch 0 off C4 64
+0: ch 0 on G3 74
+0: ch 0 on B3 74
+0: ch 0 on D4 74
+0: ch 0 on G4 89
+0: ch 0 on G1 66
+0: ch 0 on B1 66
+0: ch 0 on D2 66
+0: ch 0 on G2 78
+0: ch 0 cntl 64 0
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 off G1 64
+0: ch 0 off B3 64
+0: ch 0 off D4 64
+0: ch 0 off G4 64
+0: ch 0 off B1 64
+0: ch 0 off D2 64
+240: ch 0 on A#3 40
+120: ch 0 off A#3 64
+120: ch 0 on C4 37
+120: ch 0 off C4 64
+120: ch 0 on D4 37
+120: ch 0 off D4 64
+120: ch 0 on G3 39
+0: ch 0 on A#3 39
+0: ch 0 on D#4 46
+0: ch 0 on D#2 26
+0: ch 0 on D#3 31
+120: ch 0 off D#4 64
+120: ch 0 on F4 40
+120: ch 0 off F4 64
+tempo 326087 msecs per qnote (183.99997546666995 bpm)
+0: ch 0 on G4 40
+120: ch 0 off G4 64
+tempo 320000 msecs per qnote (187.5 bpm)
+0: ch 0 off D#2 64
+0: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D#3 64
+0: ch 0 on A#3 38
+0: ch 0 on D4 38
+0: ch 0 on F4 45
+0: ch 0 on G#2 25
+0: ch 0 on G#3 30
+120: ch 0 off G#3 64
+0: ch 0 off F4 64
+0: ch 0 off A#3 64
+0: ch 0 off D4 64
+0: ch 0 off G#2 64
+360: ch 0 on A#3 33
+0: ch 0 on D#4 39
+0: ch 0 on G2 23
+0: ch 0 on G3 27
+120: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D#4 64
+0: ch 0 off G2 64
+tempo 390879 msecs per qnote (153.50018803773034 bpm)
+tempo 319149 msecs per qnote (187.99996240000752 bpm)
+0: ch 0 on G#3 37
+0: ch 0 on A#3 37
+0: ch 0 on D4 37
+0: ch 0 on G#4 45
+0: ch 0 on A#2 27
+0: ch 0 on F2 27
+0: ch 0 on F3 32
+960: ch 0 off F3 64
+0: ch 0 off A#2 64
+0: ch 0 off A#3 64
+0: ch 0 off D4 64
+0: ch 0 off G#3 64
+0: ch 0 off F2 64
+0: ch 0 off G#4 64
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+0: ch 0 on A#3 40
+120: ch 0 off A#3 64
+120: ch 0 on C4 37
+120: ch 0 off C4 64
+120: ch 0 on D4 37
+120: ch 0 off D4 64
+120: ch 0 on G3 39
+0: ch 0 on A#3 39
+0: ch 0 on D#4 46
+0: ch 0 on D#2 26
+0: ch 0 on D#3 31
+120: ch 0 off D#4 64
+120: ch 0 on F4 40
+120: ch 0 off F4 64
+tempo 326087 msecs per qnote (183.99997546666995 bpm)
+0: ch 0 on G4 40
+120: ch 0 off G4 64
+tempo 320000 msecs per qnote (187.5 bpm)
+0: ch 0 off D#2 64
+0: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D#3 64
+0: ch 0 on F3 38
+0: ch 0 on C4 38
+0: ch 0 on F4 45
+0: ch 0 on G#1 25
+0: ch 0 on G#2 30
+120: ch 0 off G#2 64
+0: ch 0 off F4 64
+0: ch 0 off F3 64
+0: ch 0 off C4 64
+0: ch 0 off G#1 64
+360: ch 0 on C4 33
+0: ch 0 on F3 33
+0: ch 0 on D#4 39
+0: ch 0 on A1 23
+0: ch 0 on A2 27
+120: ch 0 off A2 64
+0: ch 0 off D#4 64
+0: ch 0 off C4 64
+0: ch 0 off F3 64
+0: ch 0 off A1 64
+tempo 390879 msecs per qnote (153.50018803773034 bpm)
+tempo 320000 msecs per qnote (187.5 bpm)
+0: ch 0 on D3 31
+0: ch 0 on F3 31
+0: ch 0 on A#3 37
+0: ch 0 on A#1 22
+0: ch 0 on A#2 27
+960: ch 0 off A#2 64
+0: ch 0 off A#3 64
+0: ch 0 off D3 64
+0: ch 0 off F3 64
+0: ch 0 off A#1 64
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+0: ch 0 on A#3 40
+120: ch 0 off A#3 64
+120: ch 0 on C4 37
+120: ch 0 off C4 64
+120: ch 0 on D4 37
+120: ch 0 off D4 64
+120: ch 0 on G3 39
+0: ch 0 on A#3 39
+0: ch 0 on D#4 46
+0: ch 0 on D#2 26
+0: ch 0 on D#3 31
+120: ch 0 off D#4 64
+120: ch 0 on F4 40
+120: ch 0 off F4 64
+tempo 326087 msecs per qnote (183.99997546666995 bpm)
+0: ch 0 on G4 40
+120: ch 0 off G4 64
+tempo 320000 msecs per qnote (187.5 bpm)
+0: ch 0 off D#2 64
+0: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D#3 64
+0: ch 0 on A#3 38
+0: ch 0 on D4 38
+0: ch 0 on F4 45
+0: ch 0 on G#2 25
+0: ch 0 on G#3 30
+120: ch 0 off G#3 64
+0: ch 0 off F4 64
+0: ch 0 off A#3 64
+0: ch 0 off D4 64
+0: ch 0 off G#2 64
+360: ch 0 on A#3 33
+0: ch 0 on D#4 39
+0: ch 0 on G2 23
+0: ch 0 on G3 27
+120: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D#4 64
+0: ch 0 off G2 64
+tempo 502092 msecs per qnote (119.5000119500012 bpm)
+tempo 353982 msecs per qnote (169.50014407512248 bpm)
+15: ch 0 on G#2 28
+15: ch 0 on C3 32
+15: ch 0 on D#3 36
+15: ch 0 on G#3 40
+15: ch 0 on C4 45
+15: ch 0 on D#4 50
+15: ch 0 on G#4 63
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 on C5 72
+480: ch 0 off G#3 64
+0: ch 0 off D#3 64
+0: ch 0 off G#2 64
+0: ch 0 off C3 64
+480: ch 0 off C4 64
+0: ch 0 off G#4 64
+0: ch 0 off D#4 64
+240: ch 0 off C5 64
+0: ch 0 on C5 48
+120: ch 0 off C5 64
+120: ch 0 on A#4 53
+120: ch 0 off A#4 64
+tempo 349854 msecs per qnote (171.50011147507246 bpm)
+0: ch 0 on G#4 50
+120: ch 0 off G#4 64
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+0: ch 0 on G4 53
+0: ch 0 on A#2 80
+240: ch 0 off G4 64
+0: ch 0 on F4 48
+240: ch 0 off F4 64
+0: ch 0 on D#4 48
+120: ch 0 off D#4 64
+120: ch 0 on D4 48
+120: ch 0 off D4 64
+120: ch 0 on F3 45
+0: ch 0 on G#3 45
+0: ch 0 on C4 53
+240: ch 0 on A#1 49
+120: ch 0 off A#1 64
+120: ch 0 off C4 64
+0: ch 0 on A#3 49
+0: ch 0 on C2 53
+120: ch 0 off C2 64
+tempo 319149 msecs per qnote (187.99996240000752 bpm)
+0: ch 0 on D2 45
+120: ch 0 off D2 64
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+0: ch 0 off A#3 64
+0: ch 0 off G#3 64
+0: ch 0 off F3 64
+0: ch 0 on D#3 41
+0: ch 0 on G3 41
+0: ch 0 on A#3 49
+0: ch 0 on D#2 53
+120: ch 0 off D#2 64
+120: ch 0 on F2 49
+120: ch 0 off F2 64
+120: ch 0 on G2 51
+120: ch 0 off G2 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+0: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D#3 64
+0: ch 0 on F2 53
+240: ch 0 on A#4 48
+120: ch 0 off A#4 64
+120: ch 0 off F2 64
+0: ch 0 on G#4 53
+0: ch 0 on D#2 50
+120: ch 0 off G#4 64
+tempo 339943 msecs per qnote (176.5001779710128 bpm)
+0: ch 0 on G4 50
+120: ch 0 off G4 64
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+0: ch 0 off D#2 64
+0: ch 0 off A#2 64
+0: ch 0 on G4 53
+0: ch 0 on A#2 80
+240: ch 0 off G4 64
+0: ch 0 on F4 48
+240: ch 0 off F4 64
+0: ch 0 on D#4 48
+120: ch 0 off D#4 64
+120: ch 0 on D4 48
+120: ch 0 off D4 64
+120: ch 0 on F3 45
+0: ch 0 on G#3 45
+0: ch 0 on C4 53
+240: ch 0 on A#1 49
+120: ch 0 off A#1 64
+120: ch 0 off C4 64
+0: ch 0 on A#3 49
+0: ch 0 on C2 53
+120: ch 0 off C2 64
+tempo 315789 msecs per qnote (190.0002850004275 bpm)
+0: ch 0 on D2 45
+120: ch 0 off D2 64
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+0: ch 0 off A#3 64
+0: ch 0 off G#3 64
+0: ch 0 off F3 64
+0: ch 0 on D#3 54
+0: ch 0 on G3 54
+0: ch 0 on A#3 54
+0: ch 0 on D#2 53
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+0: ch 0 off D#2 64
+120: ch 0 on F2 49
+120: ch 0 off F2 64
+120: ch 0 on G2 51
+120: ch 0 off G2 64
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D#3 64
+0: ch 0 on F2 53
+240: ch 0 on A#5 48
+0: ch 0 on A#4 48
+120: ch 0 off A#4 64
+0: ch 0 off A#5 64
+120: ch 0 off F2 64
+0: ch 0 on G#5 53
+0: ch 0 on G#4 53
+0: ch 0 on D#2 50
+120: ch 0 off G#4 64
+0: ch 0 off G#5 64
+tempo 320856 msecs per qnote (186.9997756002693 bpm)
+0: ch 0 on G5 50
+0: ch 0 on G4 50
+120: ch 0 off G4 64
+0: ch 0 off G5 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 off A#2 64
+0: ch 0 off D#2 64
+0: ch 0 on G5 55
+0: ch 0 on G4 55
+0: ch 0 on G#2 45
+0: ch 0 on C3 45
+0: ch 0 on F3 53
+240: ch 0 off G4 64
+0: ch 0 off G5 64
+0: ch 0 on F5 48
+0: ch 0 on F4 48
+240: ch 0 off F4 64
+0: ch 0 off C3 64
+0: ch 0 off F3 64
+0: ch 0 off G#2 64
+0: ch 0 off F5 64
+0: ch 0 on D#5 48
+0: ch 0 on D#4 48
+120: ch 0 off D#4 64
+0: ch 0 off D#5 64
+120: ch 0 on D5 48
+0: ch 0 on D4 48
+120: ch 0 off D4 64
+0: ch 0 off D5 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+0: ch 0 on C4 55
+0: ch 0 on C5 55
+0: ch 0 on A#2 42
+0: ch 0 on F3 42
+0: ch 0 on G#3 50
+120: ch 0 off C5 64
+0: ch 0 off C4 64
+120: ch 0 on A#3 48
+0: ch 0 on A#4 48
+120: ch 0 off A#4 64
+0: ch 0 off A#3 64
+120: ch 0 off G#3 64
+0: ch 0 off A#2 64
+0: ch 0 off F3 64
+0: ch 0 on C4 48
+0: ch 0 on C5 48
+120: ch 0 off C5 64
+0: ch 0 off C4 64
+tempo 326975 msecs per qnote (183.5002676045569 bpm)
+0: ch 0 on D4 48
+0: ch 0 on D5 48
+120: ch 0 off D5 64
+0: ch 0 off D4 64
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+10: ch 0 on D#4 48
+0: ch 0 on G3 58
+0: ch 0 on D#3 49
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+14: ch 0 cntl 64 127
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 43
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+10: ch 0 off D#5 64
+0: ch 0 on D#4 48
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 42
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+70: ch 0 off D#5 64
+0: ch 0 off D#3 64
+0: ch 0 off G3 64
+0: ch 0 on D#4 49
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 43
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#5 64
+0: ch 0 on D#4 50
+0: ch 0 on D#3 54
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 45
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#5 64
+0: ch 0 off D#3 64
+0: ch 0 on D#4 51
+0: ch 0 on D3 60
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+6: ch 0 cntl 64 0
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+12: ch 0 cntl 64 127
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+25: ch 0 off D#4 64
+0: ch 0 on D#5 44
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+40: ch 0 off D#5 64
+0: ch 0 off D3 64
+0: ch 0 on D#4 52
+0: ch 0 on D#3 55
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 47
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#5 64
+0: ch 0 off D#3 64
+0: ch 0 on D#4 53
+0: ch 0 on C3 52
+0: ch 0 on G#3 62
+10: ch 0 cntl 64 0
+61: ch 0 cntl 64 127
+49: ch 0 off G#3 64
+0: ch 0 off C3 64
+0: ch 0 off D#4 64
+0: ch 0 on D#5 47
+tempo 316623 msecs per qnote (189.49981523768014 bpm)
+0: ch 0 off D#5 64
+0: ch 0 on D#4 53
+0: ch 0 on C3 48
+0: ch 0 on G#3 57
+120: ch 0 off G#3 64
+0: ch 0 off C3 64
+0: ch 0 off D#4 64
+0: ch 0 on D#5 47
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 off D#5 64
+0: ch 0 on D#4 54
+0: ch 0 on G3 65
+0: ch 0 on A#2 55
+0: ch 0 cntl 64 0
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 48
+60: ch 0 cntl 64 127
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+10: ch 0 off D#5 64
+0: ch 0 on D#4 55
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 48
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+70: ch 0 off D#5 64
+0: ch 0 off A#2 64
+0: ch 0 off G3 64
+0: ch 0 on D#4 55
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 48
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#5 64
+0: ch 0 on D#4 56
+0: ch 0 on D#3 61
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 51
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#5 64
+0: ch 0 off D#3 64
+0: ch 0 on D#4 57
+0: ch 0 on D3 68
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+6: ch 0 cntl 64 0
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+12: ch 0 cntl 64 127
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+25: ch 0 off D#4 64
+0: ch 0 on D#5 49
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+40: ch 0 off D#5 64
+0: ch 0 off D3 64
+0: ch 0 on D#4 58
+0: ch 0 on D#3 63
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 53
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#5 64
+0: ch 0 off D#3 64
+0: ch 0 on D#4 59
+0: ch 0 on G#3 58
+0: ch 0 on C4 69
+10: ch 0 cntl 64 0
+61: ch 0 cntl 64 127
+49: ch 0 off C4 64
+0: ch 0 off G#3 64
+0: ch 0 off D#4 64
+0: ch 0 on D#5 54
+tempo 316623 msecs per qnote (189.49981523768014 bpm)
+0: ch 0 off D#5 64
+0: ch 0 on D#4 60
+0: ch 0 on G#3 54
+0: ch 0 on C4 64
+120: ch 0 off C4 64
+0: ch 0 off G#3 64
+0: ch 0 off D#4 64
+0: ch 0 on D#5 54
+120: ch 0 off D#5 64
+0: ch 0 on D#4 70
+0: ch 0 on D#5 70
+0: ch 0 on A#3 71
+0: ch 0 on G3 71
+0: ch 0 cntl 64 0
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+6: ch 0 cntl 64 127
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+27: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 on D#3 62
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+57: ch 0 off D#3 64
+0: ch 0 on D#4 54
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+27: ch 0 off D#4 64
+0: ch 0 off D#5 64
+0: ch 0 off D#4 64
+0: ch 0 on D#3 63
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+27: ch 0 off D#3 64
+0: ch 0 on D#4 56
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+57: ch 0 off D#4 64
+0: ch 0 on D#5 74
+0: ch 0 on D#3 63
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+57: ch 0 off D#3 64
+0: ch 0 on D#4 57
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+87: ch 0 off D#4 64
+0: ch 0 off D#5 64
+0: ch 0 on D5 84
+0: ch 0 on D#3 63
+14: ch 0 cntl 64 0
+78: ch 0 cntl 64 127
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+27: ch 0 off D#3 64
+0: ch 0 on D#4 55
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+87: ch 0 off D#4 64
+0: ch 0 off D5 64
+0: ch 0 on D#5 77
+0: ch 0 on D#3 64
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+27: ch 0 off D#3 64
+0: ch 0 on D#4 59
+tempo 338028 msecs per qnote (177.50008875004437 bpm)
+0: ch 0 off D#4 64
+0: ch 0 off D#5 64
+0: ch 0 on C6 86
+0: ch 0 on G#5 86
+0: ch 0 on D#3 65
+6: ch 0 cntl 64 0
+72: ch 0 cntl 64 127
+42: ch 0 off D#3 64
+0: ch 0 off G#5 64
+0: ch 0 off C6 64
+0: ch 0 on D#4 58
+tempo 463320 msecs per qnote (129.5001295001295 bpm)
+0: ch 0 off D#4 64
+0: ch 0 on G#5 79
+0: ch 0 on C6 79
+0: ch 0 on D#3 66
+120: ch 0 off D#3 64
+0: ch 0 off C6 64
+0: ch 0 off G#5 64
+0: ch 0 on D#4 61
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+27: ch 0 off D#4 64
+0: ch 0 on G#5 92
+0: ch 0 on C6 92
+0: ch 0 on D3 49
+0: ch 0 on F3 49
+0: ch 0 on G#3 49
+0: ch 0 on A#3 49
+0: ch 0 cntl 64 0
+27: ch 0 on D4 66
+173: ch 0 cntl 64 127
+280: ch 0 off G#5 64
+120: ch 0 off C6 64
+0: ch 0 on A#5 74
+120: ch 0 off A#5 64
+0: ch 0 on G#5 73
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+107: ch 0 off G#5 64
+0: ch 0 on G5 72
+120: ch 0 off G5 64
+0: ch 0 on F5 72
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+47: ch 0 off F5 64
+0: ch 0 on D#5 72
+120: ch 0 off D#5 64
+0: ch 0 on D5 71
+120: ch 0 off D5 64
+0: ch 0 on C5 70
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+107: ch 0 off C5 64
+0: ch 0 on B4 69
+120: ch 0 off B4 64
+0: ch 0 on A#4 68
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+47: ch 0 off A#4 64
+0: ch 0 on A4 67
+120: ch 0 off A4 64
+0: ch 0 on G#4 66
+120: ch 0 off G#4 64
+0: ch 0 off A#3 64
+0: ch 0 off G#3 64
+0: ch 0 off F3 64
+0: ch 0 off D3 64
+0: ch 0 on G4 66
+0: ch 0 on D#3 49
+0: ch 0 on G3 49
+0: ch 0 on A#3 49
+0: ch 0 on D#4 66
+0: ch 0 cntl 64 0
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+14: ch 0 off D4 64
+133: ch 0 off G4 64
+0: ch 0 on G#4 62
+24: ch 0 cntl 64 127
+136: ch 0 off G#4 64
+0: ch 0 on A#4 62
+160: ch 0 off A#4 64
+0: ch 0 off A#3 64
+0: ch 0 off G3 64
+0: ch 0 off D#4 64
+0: ch 0 off D#3 64
+0: ch 0 on G#4 66
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+27: ch 0 off G#4 64
+0: ch 0 on G4 62
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+67: ch 0 off G4 64
+0: ch 0 on F4 62
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+107: ch 0 off F4 64
+0: ch 0 on D#4 66
+5: ch 0 cntl 64 0
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+65: ch 0 cntl 64 127
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+27: ch 0 off D#4 64
+0: ch 0 on D4 62
+160: ch 0 off D4 64
+0: ch 0 on C4 62
+160: ch 0 off C4 64
+0: ch 0 on A#3 66
+160: ch 0 off A#3 64
+0: ch 0 on G#3 60
+tempo 318302 msecs per qnote (188.5002293419457 bpm)
+80: ch 0 off G#3 64
+0: ch 0 on G3 63
+tempo 320856 msecs per qnote (186.9997756002693 bpm)
+0: ch 0 off G3 64
+0: ch 0 on G#1 73
+0: ch 0 on G#2 73
+0: ch 0 cntl 64 0
+92: ch 0 cntl 64 127
+28: ch 0 on F3 59
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off F3 64
+0: ch 0 off G#2 64
+0: ch 0 off G#1 64
+0: ch 0 on G#3 63
+120: ch 0 off G#3 64
+0: ch 0 on C4 67
+120: ch 0 off C4 64
+0: ch 0 on F4 72
+16: ch 0 cntl 64 0
+224: ch 0 off F4 64
+0: ch 0 on G#1 63
+0: ch 0 on G#2 63
+120: ch 0 off G#2 64
+0: ch 0 off G#1 64
+tempo 318302 msecs per qnote (188.5002293419457 bpm)
+0: ch 0 on A#1 70
+0: ch 0 on A#2 70
+78: ch 0 cntl 64 127
+42: ch 0 on F3 63
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off F3 64
+0: ch 0 off A#2 64
+0: ch 0 off A#1 64
+0: ch 0 on G#3 66
+120: ch 0 off G#3 64
+0: ch 0 on A#3 69
+120: ch 0 off A#3 64
+0: ch 0 on D4 72
+14: ch 0 cntl 64 0
+tempo 324324 msecs per qnote (185.000185000185 bpm)
+0: ch 0 off D4 64
+0: ch 0 on A#1 63
+0: ch 0 on A#2 63
+120: ch 0 off A#2 64
+0: ch 0 off A#1 64
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+22: ch 0 on D5 67
+0: ch 0 cntl 64 127
+120: ch 0 off D5 64
+0: ch 0 on D6 60
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+82: ch 0 off D6 64
+0: ch 0 on D5 67
+0: ch 0 on G#4 63
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+52: ch 0 off G#4 64
+0: ch 0 off D5 64
+0: ch 0 on D6 60
+0: ch 0 on A#4 65
+120: ch 0 off A#4 64
+0: ch 0 off D6 64
+0: ch 0 on D5 67
+0: ch 0 on C5 69
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+112: ch 0 off C5 64
+0: ch 0 off D5 64
+0: ch 0 on D6 59
+0: ch 0 on A#4 67
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+82: ch 0 off A#4 64
+0: ch 0 off D6 64
+0: ch 0 on D5 67
+0: ch 0 on G#4 65
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+82: ch 0 off G#4 64
+0: ch 0 off D5 64
+0: ch 0 on D6 61
+0: ch 0 on G4 64
+120: ch 0 off G4 64
+0: ch 0 off D6 64
+0: ch 0 on D5 67
+0: ch 0 on F4 67
+120: ch 0 off D5 64
+0: ch 0 on D6 59
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+32: ch 0 off F4 64
+0: ch 0 on D#4 61
+80: ch 0 off D6 64
+0: ch 0 on D5 67
+80: ch 0 off D#4 64
+0: ch 0 on D4 61
+40: ch 0 off D5 64
+0: ch 0 on D6 59
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+22: ch 0 off D6 64
+0: ch 0 off D4 64
+0: ch 0 on D5 67
+0: ch 0 on C4 67
+120: ch 0 off D5 64
+0: ch 0 on D6 59
+40: ch 0 off C4 64
+0: ch 0 on A#3 62
+80: ch 0 off D6 64
+0: ch 0 on D5 67
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+12: ch 0 off A#3 64
+0: ch 0 on G#3 62
+40: ch 0 off D5 64
+0: ch 0 on D6 60
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 off D6 64
+0: ch 0 off G#3 64
+0: ch 0 on D#5 67
+0: ch 0 on G3 67
+12: ch 0 cntl 64 0
+80: ch 0 cntl 64 127
+28: ch 0 off D#5 64
+0: ch 0 on D#6 60
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+2: ch 0 off G3 64
+0: ch 0 on G#3 63
+80: ch 0 off D#6 64
+0: ch 0 on D#5 69
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+12: ch 0 off G#3 64
+0: ch 0 on A#3 63
+40: ch 0 off D#5 64
+0: ch 0 on D#6 62
+120: ch 0 off D#6 64
+0: ch 0 off A#3 64
+0: ch 0 on D#5 71
+0: ch 0 on G#3 67
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+112: ch 0 off D#5 64
+0: ch 0 on D#6 63
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+2: ch 0 off G#3 64
+0: ch 0 on G3 60
+80: ch 0 off D#6 64
+0: ch 0 on D#5 72
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+42: ch 0 off G3 64
+0: ch 0 on F3 60
+40: ch 0 off D#5 64
+0: ch 0 on D#6 67
+120: ch 0 off D#6 64
+0: ch 0 off F3 64
+0: ch 0 on D#5 75
+0: ch 0 on D#3 70
+19: ch 0 cntl 64 0
+90: ch 0 cntl 64 127
+11: ch 0 off D#5 64
+0: ch 0 on D#6 67
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+32: ch 0 off D#3 64
+0: ch 0 on D3 63
+80: ch 0 off D#6 64
+0: ch 0 on D#5 77
+80: ch 0 off D3 64
+0: ch 0 on C3 66
+40: ch 0 off D#5 64
+0: ch 0 on D#6 69
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+22: ch 0 off D#6 64
+0: ch 0 off C3 64
+0: ch 0 on E5 80
+0: ch 0 on A#2 74
+20: ch 0 cntl 64 0
+100: ch 0 off E5 64
+0: ch 0 on E6 71
+0: ch 0 cntl 64 127
+40: ch 0 off A#2 64
+0: ch 0 on G#2 67
+80: ch 0 off E6 64
+0: ch 0 on E5 81
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+12: ch 0 off G#2 64
+0: ch 0 on G2 67
+40: ch 0 off E5 64
+0: ch 0 on E6 73
+tempo 320856 msecs per qnote (186.9997756002693 bpm)
+0: ch 0 off E6 64
+0: ch 0 off G2 64
+0: ch 0 on G#1 73
+0: ch 0 on G#2 73
+0: ch 0 cntl 64 0
+92: ch 0 cntl 64 127
+28: ch 0 on F5 71
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off F5 64
+0: ch 0 off G#2 64
+0: ch 0 off G#1 64
+0: ch 0 on G#5 76
+120: ch 0 off G#5 64
+0: ch 0 on C6 81
+120: ch 0 off C6 64
+0: ch 0 on F6 86
+16: ch 0 cntl 64 0
+224: ch 0 off F6 64
+0: ch 0 on G#1 63
+0: ch 0 on G#2 63
+120: ch 0 off G#2 64
+0: ch 0 off G#1 64
+tempo 318302 msecs per qnote (188.5002293419457 bpm)
+0: ch 0 on A#1 70
+0: ch 0 on A#2 70
+78: ch 0 cntl 64 127
+42: ch 0 on D5 75
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off D5 64
+0: ch 0 off A#2 64
+0: ch 0 off A#1 64
+0: ch 0 on F5 79
+120: ch 0 off F5 64
+0: ch 0 on G#5 82
+120: ch 0 off G#5 64
+0: ch 0 on D6 86
+14: ch 0 cntl 64 0
+tempo 324324 msecs per qnote (185.000185000185 bpm)
+0: ch 0 off D6 64
+0: ch 0 on A#1 63
+0: ch 0 on A#2 63
+120: ch 0 off A#2 64
+0: ch 0 off A#1 64
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 on D#5 80
+0: ch 0 on A#5 80
+0: ch 0 on G5 80
+0: ch 0 on D#6 94
+0: ch 0 on D#2 59
+0: ch 0 on G2 59
+0: ch 0 on A#2 59
+0: ch 0 on D#3 70
+tempo 297767 msecs per qnote (201.49983040430942 bpm)
+0: ch 0 off D#3 64
+0: ch 0 off D#5 64
+0: ch 0 off D#2 64
+0: ch 0 off A#5 64
+0: ch 0 off G5 64
+0: ch 0 off D#6 64
+0: ch 0 off G2 64
+0: ch 0 off A#2 64
+0: ch 0 on A#5 63
+0: ch 0 on E4 53
+0: ch 0 on G4 63
+120: ch 0 off G4 64
+0: ch 0 off E4 64
+0: ch 0 off A#5 64
+tempo 314136 msecs per qnote (191.00007640003057 bpm)
+0: ch 0 on A#5 63
+0: ch 0 on E4 53
+0: ch 0 on G4 63
+120: ch 0 off G4 64
+0: ch 0 off E4 64
+0: ch 0 off A#5 64
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+0: ch 0 on A#5 70
+0: ch 0 on F4 59
+0: ch 0 on G#4 70
+240: ch 0 off G#4 64
+0: ch 0 off F4 64
+0: ch 0 off A#5 64
+tempo 297767 msecs per qnote (201.49983040430942 bpm)
+0: ch 0 on A#5 63
+0: ch 0 on E4 53
+0: ch 0 on G4 63
+120: ch 0 off G4 64
+0: ch 0 off E4 64
+0: ch 0 off A#5 64
+tempo 314136 msecs per qnote (191.00007640003057 bpm)
+0: ch 0 on A#5 63
+0: ch 0 on E4 53
+0: ch 0 on G4 63
+120: ch 0 off G4 64
+0: ch 0 off E4 64
+0: ch 0 off A#5 64
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 on A#5 69
+0: ch 0 on F4 59
+0: ch 0 on G#4 70
+240: ch 0 off G#4 64
+0: ch 0 off F4 64
+0: ch 0 off A#5 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 on F3 60
+0: ch 0 on G#3 60
+0: ch 0 on D4 72
+0: ch 0 on A#1 63
+0: ch 0 on A#2 74
+240: ch 0 off A#2 64
+0: ch 0 off D4 64
+0: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 off A#1 64
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+0: ch 0 on F3 33
+0: ch 0 on G#3 33
+0: ch 0 on D4 39
+0: ch 0 on B1 30
+0: ch 0 on B2 36
+120: ch 0 off B2 64
+0: ch 0 off D4 64
+0: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 off B1 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+0: ch 0 on G3 37
+0: ch 0 on D#4 45
+0: ch 0 on C2 32
+0: ch 0 on C3 38
+120: ch 0 off C3 64
+0: ch 0 off G3 64
+0: ch 0 off D#4 64
+0: ch 0 off C2 64
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+0: ch 0 on C4 35
+0: ch 0 on D#4 35
+0: ch 0 on F4 41
+0: ch 0 on A1 30
+0: ch 0 on A2 36
+120: ch 0 off A2 64
+0: ch 0 off F4 64
+0: ch 0 off C4 64
+0: ch 0 off D#4 64
+0: ch 0 off A1 64
+360: ch 0 on A#3 37
+0: ch 0 on D#4 37
+0: ch 0 on G4 45
+0: ch 0 on A#1 32
+0: ch 0 on A#2 38
+120: ch 0 off A#2 64
+0: ch 0 off G4 64
+0: ch 0 off A#3 64
+0: ch 0 off D#4 64
+0: ch 0 off A#1 64
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+0: ch 0 on G#3 33
+0: ch 0 on D4 33
+0: ch 0 on F4 39
+0: ch 0 on A#1 27
+0: ch 0 on A#2 33
+120: ch 0 off A#2 64
+0: ch 0 off F4 64
+0: ch 0 off G#3 64
+0: ch 0 off D4 64
+0: ch 0 off A#1 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 on G3 37
+0: ch 0 on D#4 45
+0: ch 0 on D#2 32
+0: ch 0 on D#3 38
+120: ch 0 off D#3 64
+0: ch 0 off G3 64
+0: ch 0 off D#4 64
+0: ch 0 off D#2 64
+tempo 297767 msecs per qnote (201.49983040430942 bpm)
+0: ch 0 on A#5 63
+0: ch 0 on E4 53
+0: ch 0 on G4 63
+120: ch 0 off G4 64
+0: ch 0 off E4 64
+0: ch 0 off A#5 64
+0: ch 0 on C6 59
+tempo 314136 msecs per qnote (191.00007640003057 bpm)
+0: ch 0 off C6 64
+0: ch 0 on A#5 63
+0: ch 0 on E4 53
+0: ch 0 on G4 63
+120: ch 0 off G4 64
+0: ch 0 off E4 64
+0: ch 0 off A#5 64
+0: ch 0 on A5 59
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+0: ch 0 off A5 64
+0: ch 0 on A#5 70
+0: ch 0 on F4 59
+0: ch 0 on G#4 70
+240: ch 0 off G#4 64
+0: ch 0 off F4 64
+0: ch 0 off A#5 64
+tempo 297767 msecs per qnote (201.49983040430942 bpm)
+0: ch 0 on A#5 63
+0: ch 0 on E4 53
+0: ch 0 on G4 63
+120: ch 0 off G4 64
+0: ch 0 off E4 64
+0: ch 0 off A#5 64
+0: ch 0 on C6 58
+tempo 314136 msecs per qnote (191.00007640003057 bpm)
+0: ch 0 off C6 64
+0: ch 0 on A#5 63
+0: ch 0 on E4 53
+0: ch 0 on G4 63
+120: ch 0 off G4 64
+0: ch 0 off E4 64
+0: ch 0 off A#5 64
+0: ch 0 on A5 57
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 off A5 64
+0: ch 0 on A#5 69
+0: ch 0 on F4 59
+0: ch 0 on G#4 70
+240: ch 0 off G#4 64
+0: ch 0 off F4 64
+0: ch 0 off A#5 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 on F3 60
+0: ch 0 on G#3 60
+0: ch 0 on D4 72
+0: ch 0 on A#1 63
+0: ch 0 on A#2 74
+240: ch 0 off A#2 64
+0: ch 0 off D4 64
+0: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 off A#1 64
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+0: ch 0 on D#3 55
+0: ch 0 on F#3 55
+0: ch 0 on A3 55
+0: ch 0 on D#4 66
+0: ch 0 on B1 55
+0: ch 0 on D#2 55
+0: ch 0 on F#2 55
+0: ch 0 on B2 65
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+0: ch 0 off B2 64
+0: ch 0 off D#3 64
+0: ch 0 off B1 64
+0: ch 0 off F#3 64
+0: ch 0 off A3 64
+0: ch 0 off D#4 64
+0: ch 0 off D#2 64
+0: ch 0 off F#2 64
+0: ch 0 on C4 35
+0: ch 0 on D#4 35
+0: ch 0 on F4 41
+0: ch 0 on A1 30
+0: ch 0 on A2 36
+120: ch 0 off A2 64
+0: ch 0 off F4 64
+0: ch 0 off C4 64
+0: ch 0 off D#4 64
+0: ch 0 off A1 64
+360: ch 0 on A#3 37
+0: ch 0 on D#4 37
+0: ch 0 on G4 45
+0: ch 0 on A#1 32
+0: ch 0 on A#2 38
+120: ch 0 off A#2 64
+0: ch 0 off G4 64
+0: ch 0 off A#3 64
+0: ch 0 off D#4 64
+0: ch 0 off A#1 64
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+0: ch 0 on G#3 33
+0: ch 0 on D4 33
+0: ch 0 on F4 39
+0: ch 0 on A#1 27
+0: ch 0 on A#2 33
+120: ch 0 off A#2 64
+0: ch 0 off F4 64
+0: ch 0 off G#3 64
+0: ch 0 off D4 64
+0: ch 0 off A#1 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 on G3 37
+0: ch 0 on D#4 45
+0: ch 0 on D#2 32
+28: ch 0 cntl 64 127
+212: ch 0 off D#2 64
+0: ch 0 off D#4 64
+0: ch 0 off G3 64
+0: ch 0 on D#3 27
+tempo 300000 msecs per qnote (200.0 bpm)
+0: ch 0 off D#3 64
+0: ch 0 on D4 30
+0: ch 0 on G#4 36
+14: ch 0 cntl 64 0
+170: ch 0 cntl 64 127
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+0: ch 0 off G#4 64
+0: ch 0 off D4 64
+0: ch 0 on D#4 27
+0: ch 0 on G4 32
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 off G4 64
+0: ch 0 off D#4 64
+0: ch 0 on D#2 32
+12: ch 0 cntl 64 0
+144: ch 0 cntl 64 127
+84: ch 0 off D#2 64
+0: ch 0 on D#3 28
+tempo 296296 msecs per qnote (202.5002025002025 bpm)
+0: ch 0 off D#3 64
+0: ch 0 on G#4 31
+0: ch 0 on D5 37
+12: ch 0 cntl 64 0
+129: ch 0 cntl 64 127
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+0: ch 0 off D5 64
+0: ch 0 off G#4 64
+0: ch 0 on G4 27
+0: ch 0 on D#5 32
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+0: ch 0 off D#5 64
+0: ch 0 off G4 64
+0: ch 0 on D#2 32
+4: ch 0 cntl 64 0
+123: ch 0 cntl 64 127
+113: ch 0 off D#2 64
+0: ch 0 on D#3 28
+tempo 298507 msecs per qnote (201.0003115504829 bpm)
+0: ch 0 off D#3 64
+0: ch 0 on G#5 37
+0: ch 0 on D5 31
+14: ch 0 cntl 64 0
+113: ch 0 cntl 64 127
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+0: ch 0 off D5 64
+0: ch 0 off G#5 64
+0: ch 0 on D#5 27
+0: ch 0 on G5 32
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+0: ch 0 off G5 64
+0: ch 0 off D#5 64
+0: ch 0 on D#2 32
+12: ch 0 cntl 64 0
+129: ch 0 cntl 64 127
+99: ch 0 off D#2 64
+0: ch 0 on D#3 27
+tempo 300000 msecs per qnote (200.0 bpm)
+0: ch 0 off D#3 64
+0: ch 0 on D6 43
+0: ch 0 on G#5 36
+7: ch 0 cntl 64 0
+149: ch 0 cntl 64 127
+tempo 317460 msecs per qnote (189.000189000189 bpm)
+0: ch 0 off G#5 64
+0: ch 0 off D6 64
+0: ch 0 on G5 30
+0: ch 0 on D#6 36
+tempo 323450 msecs per qnote (185.50007729169886 bpm)
+0: ch 0 off D#6 64
+0: ch 0 off G5 64
+0: ch 0 on D#2 32
+0: ch 0 cntl 64 0
+240: ch 0 cntl 64 127
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off D#2 64
+0: ch 0 on G3 48
+0: ch 0 on A#3 48
+0: ch 0 on D#4 57
+480: ch 0 off D#4 64
+0: ch 0 off A#3 64
+0: ch 0 off G3 64
+134: ch 0 cntl 64 0
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on C4 40
+0: ch 0 on C3 36
+240: ch 0 off C3 64
+0: ch 0 off C4 64
+0: ch 0 on B3 45
+0: ch 0 on B2 38
+78: ch 0 cntl 64 127
+162: ch 0 off B2 64
+0: ch 0 off B3 64
+0: ch 0 on C4 40
+0: ch 0 on C3 35
+12: ch 0 cntl 64 0
+tempo 286396 msecs per qnote (209.50013268341738 bpm)
+0: ch 0 off C3 64
+0: ch 0 off C4 64
+0: ch 0 on F4 45
+0: ch 0 on F3 38
+120: ch 0 off F3 64
+0: ch 0 off F4 64
+tempo 349854 msecs per qnote (171.50011147507246 bpm)
+0: ch 0 on F4 38
+0: ch 0 on F3 34
+120: ch 0 off F3 64
+0: ch 0 off F4 64
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 on D#4 45
+0: ch 0 on D#3 38
+480: ch 0 off D#3 64
+0: ch 0 off D#4 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on C4 40
+0: ch 0 on C3 36
+240: ch 0 off C3 64
+0: ch 0 off C4 64
+0: ch 0 on B3 45
+0: ch 0 on B2 38
+78: ch 0 cntl 64 127
+162: ch 0 off B2 64
+0: ch 0 off B3 64
+0: ch 0 on C4 40
+0: ch 0 on C3 35
+17: ch 0 cntl 64 0
+tempo 287081 msecs per qnote (209.00024731695933 bpm)
+0: ch 0 off C3 64
+0: ch 0 off C4 64
+0: ch 0 on G#4 45
+0: ch 0 on G#3 38
+120: ch 0 off G#3 64
+0: ch 0 off G#4 64
+tempo 350877 msecs per qnote (171.00009405005173 bpm)
+0: ch 0 on G#4 38
+0: ch 0 on G#3 34
+120: ch 0 off G#3 64
+0: ch 0 off G#4 64
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 on G4 45
+0: ch 0 on G3 38
+480: ch 0 off G3 64
+0: ch 0 off G4 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on C4 40
+240: ch 0 off C4 64
+0: ch 0 on B3 45
+85: ch 0 cntl 64 127
+155: ch 0 off B3 64
+0: ch 0 on C4 40
+21: ch 0 cntl 64 0
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C4 64
+0: ch 0 on C5 45
+120: ch 0 off C5 64
+tempo 345821 msecs per qnote (173.50016337932053 bpm)
+0: ch 0 on C5 38
+120: ch 0 off C5 64
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 on C5 45
+0: ch 0 on G#3 38
+0: ch 0 on C4 38
+0: ch 0 on F#4 38
+3: ch 0 cntl 64 127
+237: ch 0 off C5 64
+0: ch 0 on D5 45
+60: ch 0 off D5 64
+0: ch 0 on C5 45
+60: ch 0 off C5 64
+0: ch 0 on B4 40
+60: ch 0 off B4 64
+0: ch 0 on C5 45
+60: ch 0 off C5 64
+0: ch 0 on D#5 50
+11: ch 0 cntl 64 0
+55: ch 0 cntl 64 127
+174: ch 0 off D#5 64
+0: ch 0 on D5 45
+tempo 320856 msecs per qnote (186.9997756002693 bpm)
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off D5 64
+0: ch 0 on F5 56
+23: ch 0 cntl 64 0
+63: ch 0 cntl 64 127
+154: ch 0 off F5 64
+0: ch 0 on D#5 53
+240: ch 0 off D#5 64
+0: ch 0 on D5 50
+11: ch 0 cntl 64 0
+29: ch 0 cntl 64 127
+tempo 338983 msecs per qnote (177.00002655000398 bpm)
+0: ch 0 off D5 64
+0: ch 0 on C5 47
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 off C5 64
+0: ch 0 off G#3 64
+0: ch 0 off C4 64
+0: ch 0 off F#4 64
+0: ch 0 on B4 51
+0: ch 0 on G4 38
+0: ch 0 on D4 32
+0: ch 0 on G3 32
+0: ch 0 cntl 64 0
+480: ch 0 off G3 64
+0: ch 0 off B4 64
+0: ch 0 off G4 64
+0: ch 0 off D4 64
+240: ch 0 on G3 40
+0: ch 0 on G2 36
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 on F#3 45
+0: ch 0 on F#2 38
+113: ch 0 cntl 64 127
+127: ch 0 off F#2 64
+0: ch 0 off F#3 64
+0: ch 0 on G3 40
+0: ch 0 on G2 35
+15: ch 0 cntl 64 0
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 on C4 45
+0: ch 0 on C3 38
+120: ch 0 off C3 64
+0: ch 0 off C4 64
+tempo 338983 msecs per qnote (177.00002655000398 bpm)
+0: ch 0 on C4 38
+0: ch 0 on C3 34
+120: ch 0 off C3 64
+0: ch 0 off C4 64
+tempo 291971 msecs per qnote (205.49986128759363 bpm)
+0: ch 0 on B3 45
+0: ch 0 on B2 38
+480: ch 0 off B2 64
+0: ch 0 off B3 64
+240: ch 0 on G3 40
+0: ch 0 on G2 36
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 on F#3 45
+0: ch 0 on F#2 38
+50: ch 0 cntl 64 127
+190: ch 0 off F#2 64
+0: ch 0 off F#3 64
+0: ch 0 on G3 40
+0: ch 0 on G2 35
+16: ch 0 cntl 64 0
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 on D#4 45
+0: ch 0 on D#3 38
+120: ch 0 off D#3 64
+0: ch 0 off D#4 64
+tempo 342857 msecs per qnote (175.00007291669704 bpm)
+0: ch 0 on D#4 38
+0: ch 0 on D#3 34
+120: ch 0 off D#3 64
+0: ch 0 off D#4 64
+tempo 296296 msecs per qnote (202.5002025002025 bpm)
+0: ch 0 on D4 45
+0: ch 0 on D3 38
+480: ch 0 off D3 64
+0: ch 0 off D4 64
+240: ch 0 on G3 45
+0: ch 0 on G2 37
+120: ch 0 off G2 64
+0: ch 0 off G3 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 on B3 51
+0: ch 0 on B2 43
+120: ch 0 off B2 64
+0: ch 0 off B3 64
+120: ch 0 on D4 45
+0: ch 0 on D3 37
+120: ch 0 off D3 64
+0: ch 0 off D4 64
+120: ch 0 on F4 45
+0: ch 0 on F3 37
+120: ch 0 off F3 64
+0: ch 0 off F4 64
+120: ch 0 on G#4 45
+0: ch 0 on G#3 37
+120: ch 0 off G#3 64
+0: ch 0 off G#4 64
+120: ch 0 on B4 55
+0: ch 0 on B3 46
+120: ch 0 off B3 64
+0: ch 0 off B4 64
+120: ch 0 on D5 53
+0: ch 0 on D4 45
+120: ch 0 off D4 64
+0: ch 0 off D5 64
+120: ch 0 on F5 56
+0: ch 0 on F4 47
+120: ch 0 off F4 64
+0: ch 0 off F5 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 on G#5 60
+0: ch 0 on G#4 50
+120: ch 0 off G#4 64
+0: ch 0 off G#5 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on G5 63
+0: ch 0 on G4 53
+120: ch 0 off G4 64
+0: ch 0 off G5 64
+120: ch 0 on F5 59
+0: ch 0 on F4 50
+120: ch 0 off F4 64
+0: ch 0 off F5 64
+120: ch 0 on D#5 55
+0: ch 0 on D#4 46
+120: ch 0 off D#4 64
+0: ch 0 off D#5 64
+tempo 338028 msecs per qnote (177.50008875004437 bpm)
+0: ch 0 on D5 54
+0: ch 0 on D4 45
+120: ch 0 off D4 64
+0: ch 0 off D5 64
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 on C5 62
+0: ch 0 on C4 42
+0: ch 0 cntl 64 127
+120: ch 0 off C4 64
+120: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+120: ch 0 off C5 64
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+120: ch 0 on C5 50
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+tempo 295567 msecs per qnote (202.99965828390856 bpm)
+0: ch 0 off C5 64
+0: ch 0 on B4 57
+0: ch 0 on C4 42
+7: ch 0 cntl 64 0
+68: ch 0 cntl 64 127
+45: ch 0 off C4 64
+120: ch 0 off B4 64
+0: ch 0 on C5 53
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+13: ch 0 cntl 64 0
+107: ch 0 off A#4 64
+0: ch 0 off G4 64
+0: ch 0 off E4 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C5 64
+0: ch 0 on C6 60
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+120: ch 0 off A#4 64
+0: ch 0 off C6 64
+0: ch 0 off E4 64
+0: ch 0 off G4 64
+tempo 337079 msecs per qnote (177.99981606685674 bpm)
+0: ch 0 on C6 52
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+120: ch 0 off A#4 64
+0: ch 0 off C6 64
+0: ch 0 off E4 64
+0: ch 0 off G4 64
+tempo 294118 msecs per qnote (203.99975520029375 bpm)
+0: ch 0 on C6 60
+0: ch 0 on C4 42
+21: ch 0 cntl 64 127
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C4 64
+120: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 off C6 64
+0: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 on F6 59
+0: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 off F6 64
+0: ch 0 on D#6 65
+0: ch 0 on C4 42
+17: ch 0 cntl 64 0
+74: ch 0 cntl 64 127
+29: ch 0 off C4 64
+120: ch 0 off D#6 64
+0: ch 0 on D6 60
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+120: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 off D6 64
+0: ch 0 on C6 66
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+10: ch 0 cntl 64 0
+61: ch 0 cntl 64 127
+49: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 314961 msecs per qnote (190.499776162763 bpm)
+0: ch 0 off C6 64
+0: ch 0 on B5 60
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+120: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 off B5 64
+0: ch 0 on D6 69
+0: ch 0 on C4 42
+17: ch 0 cntl 64 0
+46: ch 0 cntl 64 127
+57: ch 0 off C4 64
+120: ch 0 off D6 64
+0: ch 0 on C6 60
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+10: ch 0 cntl 64 0
+110: ch 0 off G4 64
+0: ch 0 off D#4 64
+120: ch 0 off C6 64
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+120: ch 0 on C5 50
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 off C5 64
+0: ch 0 on B4 57
+0: ch 0 on C4 42
+52: ch 0 cntl 64 127
+68: ch 0 off C4 64
+120: ch 0 off B4 64
+0: ch 0 on C5 53
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+10: ch 0 cntl 64 0
+110: ch 0 off A#4 64
+0: ch 0 off G4 64
+0: ch 0 off E4 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C5 64
+0: ch 0 on C6 60
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+120: ch 0 off A#4 64
+0: ch 0 off C6 64
+0: ch 0 off E4 64
+0: ch 0 off G4 64
+tempo 338028 msecs per qnote (177.50008875004437 bpm)
+0: ch 0 on C6 52
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+120: ch 0 off A#4 64
+0: ch 0 off C6 64
+0: ch 0 off E4 64
+0: ch 0 off G4 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 on C6 60
+0: ch 0 on C4 42
+20: ch 0 cntl 64 127
+100: ch 0 off C4 64
+120: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+0: ch 0 off C6 64
+0: ch 0 on D6 60
+0: ch 0 on F4 32
+0: ch 0 on G#4 38
+15: ch 0 cntl 64 0
+34: ch 0 cntl 64 127
+11: ch 0 off D6 64
+0: ch 0 on C6 60
+60: ch 0 off C6 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+0: ch 0 on B5 60
+60: ch 0 off B5 64
+0: ch 0 on C6 60
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C6 64
+0: ch 0 on F6 59
+0: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 291971 msecs per qnote (205.49986128759363 bpm)
+0: ch 0 off F6 64
+0: ch 0 on D#6 65
+0: ch 0 on C4 42
+20: ch 0 cntl 64 0
+52: ch 0 cntl 64 127
+48: ch 0 off C4 64
+120: ch 0 off D#6 64
+0: ch 0 on D6 60
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+120: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 off D6 64
+0: ch 0 on C6 66
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+8: ch 0 cntl 64 0
+49: ch 0 cntl 64 127
+63: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 313316 msecs per qnote (191.4999553166771 bpm)
+0: ch 0 off C6 64
+0: ch 0 on B5 60
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+120: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 off B5 64
+0: ch 0 on C6 69
+0: ch 0 on C4 36
+0: ch 0 on D#4 36
+0: ch 0 on G4 36
+0: ch 0 cntl 64 0
+7: ch 0 on C5 44
+85: ch 0 cntl 64 127
+28: ch 0 off C6 64
+0: ch 0 on D6 63
+120: ch 0 off D6 64
+0: ch 0 on C6 63
+120: ch 0 off C6 64
+0: ch 0 on B5 63
+120: ch 0 off B5 64
+0: ch 0 off C4 64
+0: ch 0 off G4 64
+0: ch 0 off D#4 64
+0: ch 0 on C6 69
+0: ch 0 cntl 64 0
+7: ch 0 off C5 64
+113: ch 0 off C6 64
+0: ch 0 on D#6 73
+120: ch 0 off D#6 64
+0: ch 0 on D6 72
+0: ch 0 on F#4 42
+63: ch 0 cntl 64 127
+tempo 366972 msecs per qnote (163.5002125502763 bpm)
+0: ch 0 off D6 64
+0: ch 0 on C6 71
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C6 64
+0: ch 0 off F#4 64
+0: ch 0 on B5 72
+0: ch 0 on G4 52
+9: ch 0 cntl 64 0
+77: ch 0 cntl 64 127
+34: ch 0 off B5 64
+0: ch 0 on C6 65
+120: ch 0 off C6 64
+0: ch 0 on B5 65
+120: ch 0 off B5 64
+0: ch 0 on G#5 65
+69: ch 0 cntl 64 0
+51: ch 0 off G#5 64
+0: ch 0 off G4 64
+0: ch 0 on G5 69
+120: ch 0 off G5 64
+0: ch 0 on F5 63
+120: ch 0 off F5 64
+0: ch 0 on D#5 63
+0: ch 0 on B3 48
+57: ch 0 cntl 64 127
+tempo 366972 msecs per qnote (163.5002125502763 bpm)
+0: ch 0 off D#5 64
+0: ch 0 on D5 63
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 off D5 64
+0: ch 0 off B3 64
+0: ch 0 on C5 69
+0: ch 0 on C4 57
+0: ch 0 cntl 64 0
+80: ch 0 cntl 64 127
+40: ch 0 off C5 64
+0: ch 0 on D5 63
+120: ch 0 off D5 64
+0: ch 0 on C5 63
+10: ch 0 cntl 64 0
+110: ch 0 off C5 64
+0: ch 0 on B4 61
+120: ch 0 off B4 64
+0: ch 0 off C4 64
+0: ch 0 on C5 66
+120: ch 0 off C5 64
+0: ch 0 on D#5 72
+120: ch 0 off D#5 64
+0: ch 0 on D5 70
+0: ch 0 on F#3 54
+34: ch 0 cntl 64 127
+tempo 368098 msecs per qnote (163.00007063336395 bpm)
+0: ch 0 off D5 64
+0: ch 0 on C5 67
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C5 64
+0: ch 0 off F#3 64
+0: ch 0 on B4 69
+0: ch 0 on G3 63
+9: ch 0 cntl 64 0
+111: ch 0 off B4 64
+0: ch 0 on C5 63
+17: ch 0 cntl 64 127
+103: ch 0 off C5 64
+0: ch 0 on B4 63
+10: ch 0 cntl 64 0
+110: ch 0 off B4 64
+0: ch 0 on G#4 63
+120: ch 0 off G#4 64
+0: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 on F4 63
+120: ch 0 off F4 64
+0: ch 0 on D#4 63
+0: ch 0 on B2 57
+69: ch 0 cntl 64 127
+tempo 366972 msecs per qnote (163.5002125502763 bpm)
+0: ch 0 off D#4 64
+0: ch 0 on D4 63
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off D4 64
+0: ch 0 off B2 64
+0: ch 0 on C4 77
+0: ch 0 on C3 66
+15: ch 0 cntl 64 0
+82: ch 0 cntl 64 127
+23: ch 0 off C4 64
+0: ch 0 on D4 69
+120: ch 0 off D4 64
+0: ch 0 on C4 69
+11: ch 0 cntl 64 0
+109: ch 0 off C4 64
+0: ch 0 on B3 69
+120: ch 0 off B3 64
+0: ch 0 off C3 64
+0: ch 0 on C4 77
+120: ch 0 off C4 64
+0: ch 0 on D#4 69
+120: ch 0 off D#4 64
+0: ch 0 on D4 69
+0: ch 0 on F#2 58
+46: ch 0 cntl 64 127
+tempo 365854 msecs per qnote (163.9998469334762 bpm)
+0: ch 0 off D4 64
+0: ch 0 on C4 69
+tempo 298507 msecs per qnote (201.0003115504829 bpm)
+0: ch 0 off C4 64
+0: ch 0 off F#2 64
+0: ch 0 on B3 77
+0: ch 0 on G2 67
+23: ch 0 cntl 64 0
+92: ch 0 cntl 64 127
+5: ch 0 off B3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 on D4 69
+120: ch 0 off D4 64
+0: ch 0 on B3 69
+120: ch 0 off B3 64
+0: ch 0 off G2 64
+0: ch 0 on G3 79
+0: ch 0 on C2 82
+0: ch 0 on C3 96
+6: ch 0 cntl 64 0
+74: ch 0 cntl 64 127
+40: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off C3 64
+0: ch 0 off C2 64
+0: ch 0 on D#4 69
+120: ch 0 off D#4 64
+0: ch 0 on C4 69
+120: ch 0 off C4 64
+0: ch 0 on G3 81
+0: ch 0 on G1 55
+0: ch 0 on G2 66
+0: ch 0 cntl 64 0
+69: ch 0 cntl 64 127
+51: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off G2 64
+0: ch 0 off G1 64
+0: ch 0 on D4 69
+14: ch 0 cntl 64 0
+43: ch 0 cntl 64 127
+63: ch 0 off D4 64
+0: ch 0 on B3 69
+120: ch 0 off B3 64
+0: ch 0 on G3 80
+0: ch 0 on C2 82
+0: ch 0 on C3 97
+19: ch 0 cntl 64 0
+67: ch 0 cntl 64 127
+34: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off C3 64
+0: ch 0 off C2 64
+0: ch 0 on D#4 69
+13: ch 0 cntl 64 0
+67: ch 0 cntl 64 127
+40: ch 0 off D#4 64
+0: ch 0 on C4 69
+120: ch 0 off C4 64
+0: ch 0 on G3 80
+0: ch 0 on G1 57
+0: ch 0 on G2 68
+20: ch 0 cntl 64 0
+60: ch 0 cntl 64 127
+40: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off G2 64
+0: ch 0 off G1 64
+0: ch 0 on D4 69
+17: ch 0 cntl 64 0
+80: ch 0 cntl 64 127
+23: ch 0 off D4 64
+0: ch 0 on B3 69
+120: ch 0 off B3 64
+0: ch 0 on G3 80
+0: ch 0 on C2 82
+0: ch 0 on C3 97
+17: ch 0 cntl 64 0
+75: ch 0 cntl 64 127
+28: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off C3 64
+0: ch 0 off C2 64
+0: ch 0 on D#4 69
+15: ch 0 cntl 64 0
+100: ch 0 cntl 64 127
+tempo 358209 msecs per qnote (167.4999790625026 bpm)
+0: ch 0 off D#4 64
+0: ch 0 on C4 69
+tempo 550459 msecs per qnote (108.99994368336243 bpm)
+0: ch 0 off C4 64
+0: ch 0 on G3 74
+0: ch 0 on B3 74
+0: ch 0 on D4 74
+0: ch 0 on G4 89
+0: ch 0 on G1 66
+0: ch 0 on B1 66
+0: ch 0 on D2 66
+0: ch 0 on G2 78
+0: ch 0 cntl 64 0
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 off G1 64
+0: ch 0 off B3 64
+0: ch 0 off D4 64
+0: ch 0 off G4 64
+0: ch 0 off B1 64
+0: ch 0 off D2 64
+240: ch 0 on A#3 40
+120: ch 0 off A#3 64
+120: ch 0 on C4 37
+120: ch 0 off C4 64
+120: ch 0 on D4 37
+120: ch 0 off D4 64
+120: ch 0 on G3 39
+0: ch 0 on A#3 39
+0: ch 0 on D#4 46
+0: ch 0 on D#2 26
+0: ch 0 on D#3 31
+120: ch 0 off D#4 64
+120: ch 0 on F4 40
+120: ch 0 off F4 64
+tempo 326087 msecs per qnote (183.99997546666995 bpm)
+0: ch 0 on G4 40
+120: ch 0 off G4 64
+tempo 320000 msecs per qnote (187.5 bpm)
+0: ch 0 off D#2 64
+0: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D#3 64
+0: ch 0 on A#3 38
+0: ch 0 on D4 38
+0: ch 0 on F4 45
+0: ch 0 on G#2 25
+0: ch 0 on G#3 30
+120: ch 0 off G#3 64
+0: ch 0 off F4 64
+0: ch 0 off A#3 64
+0: ch 0 off D4 64
+0: ch 0 off G#2 64
+360: ch 0 on A#3 33
+0: ch 0 on D#4 39
+0: ch 0 on G2 23
+0: ch 0 on G3 27
+120: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D#4 64
+0: ch 0 off G2 64
+tempo 390879 msecs per qnote (153.50018803773034 bpm)
+tempo 319149 msecs per qnote (187.99996240000752 bpm)
+0: ch 0 on G#3 37
+0: ch 0 on A#3 37
+0: ch 0 on D4 37
+0: ch 0 on G#4 45
+0: ch 0 on A#2 27
+0: ch 0 on F2 27
+0: ch 0 on F3 32
+960: ch 0 off F3 64
+0: ch 0 off A#2 64
+0: ch 0 off A#3 64
+0: ch 0 off D4 64
+0: ch 0 off G#3 64
+0: ch 0 off F2 64
+0: ch 0 off G#4 64
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+0: ch 0 on A#3 40
+120: ch 0 off A#3 64
+120: ch 0 on C4 37
+120: ch 0 off C4 64
+120: ch 0 on D4 37
+120: ch 0 off D4 64
+120: ch 0 on G3 39
+0: ch 0 on A#3 39
+0: ch 0 on D#4 46
+0: ch 0 on D#2 26
+0: ch 0 on D#3 31
+120: ch 0 off D#4 64
+120: ch 0 on F4 40
+120: ch 0 off F4 64
+tempo 326087 msecs per qnote (183.99997546666995 bpm)
+0: ch 0 on G4 40
+120: ch 0 off G4 64
+tempo 320000 msecs per qnote (187.5 bpm)
+0: ch 0 off D#2 64
+0: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D#3 64
+0: ch 0 on F3 38
+0: ch 0 on C4 38
+0: ch 0 on F4 45
+0: ch 0 on G#1 25
+0: ch 0 on G#2 30
+120: ch 0 off G#2 64
+0: ch 0 off F4 64
+0: ch 0 off F3 64
+0: ch 0 off C4 64
+0: ch 0 off G#1 64
+360: ch 0 on C4 33
+0: ch 0 on F3 33
+0: ch 0 on D#4 39
+0: ch 0 on A1 23
+0: ch 0 on A2 27
+120: ch 0 off A2 64
+0: ch 0 off D#4 64
+0: ch 0 off C4 64
+0: ch 0 off F3 64
+0: ch 0 off A1 64
+tempo 390879 msecs per qnote (153.50018803773034 bpm)
+tempo 320000 msecs per qnote (187.5 bpm)
+0: ch 0 on D3 31
+0: ch 0 on F3 31
+0: ch 0 on A#3 37
+0: ch 0 on A#1 22
+0: ch 0 on A#2 27
+960: ch 0 off A#2 64
+0: ch 0 off A#3 64
+0: ch 0 off D3 64
+0: ch 0 off F3 64
+0: ch 0 off A#1 64
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+0: ch 0 on A#3 40
+120: ch 0 off A#3 64
+120: ch 0 on C4 37
+120: ch 0 off C4 64
+120: ch 0 on D4 37
+120: ch 0 off D4 64
+120: ch 0 on G3 39
+0: ch 0 on A#3 39
+0: ch 0 on D#4 46
+0: ch 0 on D#2 26
+0: ch 0 on D#3 31
+120: ch 0 off D#4 64
+120: ch 0 on F4 40
+120: ch 0 off F4 64
+tempo 326087 msecs per qnote (183.99997546666995 bpm)
+0: ch 0 on G4 40
+120: ch 0 off G4 64
+tempo 320000 msecs per qnote (187.5 bpm)
+0: ch 0 off D#2 64
+0: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D#3 64
+0: ch 0 on A#3 38
+0: ch 0 on D4 38
+0: ch 0 on F4 45
+0: ch 0 on G#2 25
+0: ch 0 on G#3 30
+120: ch 0 off G#3 64
+0: ch 0 off F4 64
+0: ch 0 off A#3 64
+0: ch 0 off D4 64
+0: ch 0 off G#2 64
+360: ch 0 on A#3 33
+0: ch 0 on D#4 39
+0: ch 0 on G2 23
+0: ch 0 on G3 27
+120: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D#4 64
+0: ch 0 off G2 64
+tempo 502092 msecs per qnote (119.5000119500012 bpm)
+tempo 353982 msecs per qnote (169.50014407512248 bpm)
+15: ch 0 on G#2 28
+15: ch 0 on C3 32
+15: ch 0 on D#3 36
+15: ch 0 on G#3 40
+15: ch 0 on C4 45
+15: ch 0 on D#4 50
+15: ch 0 on G#4 63
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 on C5 72
+480: ch 0 off G#3 64
+0: ch 0 off D#3 64
+0: ch 0 off G#2 64
+0: ch 0 off C3 64
+480: ch 0 off C4 64
+0: ch 0 off G#4 64
+0: ch 0 off D#4 64
+240: ch 0 off C5 64
+0: ch 0 on C5 48
+120: ch 0 off C5 64
+120: ch 0 on A#4 53
+120: ch 0 off A#4 64
+tempo 349854 msecs per qnote (171.50011147507246 bpm)
+0: ch 0 on G#4 50
+120: ch 0 off G#4 64
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+0: ch 0 on G4 53
+0: ch 0 on A#2 80
+240: ch 0 off G4 64
+0: ch 0 on F4 48
+240: ch 0 off F4 64
+0: ch 0 on D#4 48
+120: ch 0 off D#4 64
+120: ch 0 on D4 48
+120: ch 0 off D4 64
+120: ch 0 on F3 45
+0: ch 0 on G#3 45
+0: ch 0 on C4 53
+240: ch 0 on A#1 49
+120: ch 0 off A#1 64
+120: ch 0 off C4 64
+0: ch 0 on A#3 49
+0: ch 0 on C2 53
+120: ch 0 off C2 64
+tempo 319149 msecs per qnote (187.99996240000752 bpm)
+0: ch 0 on D2 45
+120: ch 0 off D2 64
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+0: ch 0 off A#3 64
+0: ch 0 off G#3 64
+0: ch 0 off F3 64
+0: ch 0 on D#3 41
+0: ch 0 on G3 41
+0: ch 0 on A#3 49
+0: ch 0 on D#2 53
+120: ch 0 off D#2 64
+120: ch 0 on F2 49
+120: ch 0 off F2 64
+120: ch 0 on G2 51
+120: ch 0 off G2 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+0: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D#3 64
+0: ch 0 on F2 53
+240: ch 0 on A#4 48
+120: ch 0 off A#4 64
+120: ch 0 off F2 64
+0: ch 0 on G#4 53
+0: ch 0 on D#2 50
+120: ch 0 off G#4 64
+tempo 339943 msecs per qnote (176.5001779710128 bpm)
+0: ch 0 on G4 50
+120: ch 0 off G4 64
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+0: ch 0 off D#2 64
+0: ch 0 off A#2 64
+0: ch 0 on G4 53
+0: ch 0 on A#2 80
+240: ch 0 off G4 64
+0: ch 0 on F4 48
+240: ch 0 off F4 64
+0: ch 0 on D#4 48
+120: ch 0 off D#4 64
+120: ch 0 on D4 48
+120: ch 0 off D4 64
+120: ch 0 on F3 45
+0: ch 0 on G#3 45
+0: ch 0 on C4 53
+240: ch 0 on A#1 49
+120: ch 0 off A#1 64
+120: ch 0 off C4 64
+0: ch 0 on A#3 49
+0: ch 0 on C2 53
+120: ch 0 off C2 64
+tempo 315789 msecs per qnote (190.0002850004275 bpm)
+0: ch 0 on D2 45
+120: ch 0 off D2 64
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+0: ch 0 off A#3 64
+0: ch 0 off G#3 64
+0: ch 0 off F3 64
+0: ch 0 on D#3 54
+0: ch 0 on G3 54
+0: ch 0 on A#3 54
+0: ch 0 on D#2 53
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+0: ch 0 off D#2 64
+120: ch 0 on F2 49
+120: ch 0 off F2 64
+120: ch 0 on G2 51
+120: ch 0 off G2 64
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D#3 64
+0: ch 0 on F2 53
+240: ch 0 on A#5 48
+0: ch 0 on A#4 48
+120: ch 0 off A#4 64
+0: ch 0 off A#5 64
+120: ch 0 off F2 64
+0: ch 0 on G#5 53
+0: ch 0 on G#4 53
+0: ch 0 on D#2 50
+120: ch 0 off G#4 64
+0: ch 0 off G#5 64
+tempo 320856 msecs per qnote (186.9997756002693 bpm)
+0: ch 0 on G5 50
+0: ch 0 on G4 50
+120: ch 0 off G4 64
+0: ch 0 off G5 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 off A#2 64
+0: ch 0 off D#2 64
+0: ch 0 on G5 55
+0: ch 0 on G4 55
+0: ch 0 on G#2 45
+0: ch 0 on C3 45
+0: ch 0 on F3 53
+240: ch 0 off G4 64
+0: ch 0 off G5 64
+0: ch 0 on F5 48
+0: ch 0 on F4 48
+240: ch 0 off F4 64
+0: ch 0 off C3 64
+0: ch 0 off F3 64
+0: ch 0 off G#2 64
+0: ch 0 off F5 64
+0: ch 0 on D#5 48
+0: ch 0 on D#4 48
+120: ch 0 off D#4 64
+0: ch 0 off D#5 64
+120: ch 0 on D5 48
+0: ch 0 on D4 48
+120: ch 0 off D4 64
+0: ch 0 off D5 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+0: ch 0 on C4 55
+0: ch 0 on C5 55
+0: ch 0 on F3 42
+0: ch 0 on A#2 42
+0: ch 0 on G#3 50
+120: ch 0 off C5 64
+0: ch 0 off C4 64
+120: ch 0 on A#3 48
+0: ch 0 on A#4 48
+120: ch 0 off A#4 64
+0: ch 0 off A#3 64
+120: ch 0 off G#3 64
+0: ch 0 off F3 64
+0: ch 0 off A#2 64
+0: ch 0 on C4 48
+0: ch 0 on C5 48
+120: ch 0 off C5 64
+0: ch 0 off C4 64
+tempo 326975 msecs per qnote (183.5002676045569 bpm)
+0: ch 0 on D4 48
+0: ch 0 on D5 48
+120: ch 0 off D5 64
+0: ch 0 off D4 64
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+10: ch 0 on D#4 48
+0: ch 0 on D#3 49
+0: ch 0 on G3 58
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+14: ch 0 cntl 64 127
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 43
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+10: ch 0 off D#5 64
+0: ch 0 on D#4 48
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 42
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+70: ch 0 off D#5 64
+0: ch 0 off G3 64
+0: ch 0 off D#3 64
+0: ch 0 on D#4 49
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 43
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#5 64
+0: ch 0 on D#4 50
+0: ch 0 on D#3 54
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 45
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#5 64
+0: ch 0 off D#3 64
+0: ch 0 on D#4 51
+0: ch 0 on D3 60
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+6: ch 0 cntl 64 0
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+12: ch 0 cntl 64 127
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+25: ch 0 off D#4 64
+0: ch 0 on D#5 44
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+40: ch 0 off D#5 64
+0: ch 0 off D3 64
+0: ch 0 on D#4 52
+0: ch 0 on D#3 55
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 47
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#5 64
+0: ch 0 off D#3 64
+0: ch 0 on D#4 53
+0: ch 0 on C3 52
+0: ch 0 on G#3 62
+10: ch 0 cntl 64 0
+61: ch 0 cntl 64 127
+49: ch 0 off G#3 64
+0: ch 0 off C3 64
+0: ch 0 off D#4 64
+0: ch 0 on D#5 47
+tempo 316623 msecs per qnote (189.49981523768014 bpm)
+0: ch 0 off D#5 64
+0: ch 0 on D#4 53
+0: ch 0 on G#3 57
+0: ch 0 on C3 48
+120: ch 0 off C3 64
+0: ch 0 off G#3 64
+0: ch 0 off D#4 64
+0: ch 0 on D#5 47
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 off D#5 64
+0: ch 0 on D#4 54
+0: ch 0 on G3 65
+0: ch 0 on A#2 55
+0: ch 0 cntl 64 0
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 48
+60: ch 0 cntl 64 127
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+10: ch 0 off D#5 64
+0: ch 0 on D#4 55
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 48
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+70: ch 0 off D#5 64
+0: ch 0 off A#2 64
+0: ch 0 off G3 64
+0: ch 0 on D#4 55
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 48
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#5 64
+0: ch 0 on D#4 56
+0: ch 0 on D#3 61
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 51
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#5 64
+0: ch 0 off D#3 64
+0: ch 0 on D#4 57
+0: ch 0 on D3 68
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+6: ch 0 cntl 64 0
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+12: ch 0 cntl 64 127
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+25: ch 0 off D#4 64
+0: ch 0 on D#5 49
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+40: ch 0 off D#5 64
+0: ch 0 off D3 64
+0: ch 0 on D#4 58
+0: ch 0 on D#3 63
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+10: ch 0 off D#4 64
+0: ch 0 on D#5 53
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off D#5 64
+0: ch 0 off D#3 64
+0: ch 0 on D#4 59
+0: ch 0 on G#3 58
+0: ch 0 on C4 69
+10: ch 0 cntl 64 0
+61: ch 0 cntl 64 127
+49: ch 0 off C4 64
+0: ch 0 off G#3 64
+0: ch 0 off D#4 64
+0: ch 0 on D#5 54
+tempo 316623 msecs per qnote (189.49981523768014 bpm)
+0: ch 0 off D#5 64
+0: ch 0 on D#4 60
+0: ch 0 on G#3 54
+0: ch 0 on C4 64
+120: ch 0 off C4 64
+0: ch 0 off G#3 64
+0: ch 0 off D#4 64
+0: ch 0 on D#5 54
+120: ch 0 off D#5 64
+0: ch 0 on D#4 70
+0: ch 0 on D#5 70
+0: ch 0 on G3 71
+0: ch 0 on A#3 71
+0: ch 0 cntl 64 0
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+6: ch 0 cntl 64 127
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+27: ch 0 off A#3 64
+0: ch 0 off G3 64
+0: ch 0 on D#3 62
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+57: ch 0 off D#3 64
+0: ch 0 on D#4 54
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+27: ch 0 off D#4 64
+0: ch 0 off D#5 64
+0: ch 0 off D#4 64
+0: ch 0 on D#3 63
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+27: ch 0 off D#3 64
+0: ch 0 on D#4 56
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+57: ch 0 off D#4 64
+0: ch 0 on D#5 74
+0: ch 0 on D#3 63
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+57: ch 0 off D#3 64
+0: ch 0 on D#4 57
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+87: ch 0 off D#4 64
+0: ch 0 off D#5 64
+0: ch 0 on D5 84
+0: ch 0 on D#3 63
+14: ch 0 cntl 64 0
+78: ch 0 cntl 64 127
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+27: ch 0 off D#3 64
+0: ch 0 on D#4 55
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+87: ch 0 off D#4 64
+0: ch 0 off D5 64
+0: ch 0 on D#5 77
+0: ch 0 on D#3 64
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+27: ch 0 off D#3 64
+0: ch 0 on D#4 59
+tempo 341880 msecs per qnote (175.5001755001755 bpm)
+0: ch 0 off D#4 64
+0: ch 0 off D#5 64
+0: ch 0 on C6 86
+0: ch 0 on G#5 86
+0: ch 0 on D#3 65
+6: ch 0 cntl 64 0
+72: ch 0 cntl 64 127
+42: ch 0 off D#3 64
+0: ch 0 off G#5 64
+0: ch 0 off C6 64
+0: ch 0 on D#4 58
+tempo 465116 msecs per qnote (129.00007740004645 bpm)
+0: ch 0 off D#4 64
+0: ch 0 on G#5 79
+0: ch 0 on C6 79
+0: ch 0 on D#3 66
+120: ch 0 off D#3 64
+0: ch 0 off C6 64
+0: ch 0 off G#5 64
+0: ch 0 on D#4 61
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+27: ch 0 off D#4 64
+0: ch 0 on G#5 92
+0: ch 0 on C6 92
+0: ch 0 on F3 49
+0: ch 0 on D3 49
+0: ch 0 on G#3 49
+0: ch 0 on A#3 49
+0: ch 0 cntl 64 0
+27: ch 0 on D4 66
+179: ch 0 cntl 64 127
+274: ch 0 off G#5 64
+120: ch 0 off C6 64
+0: ch 0 on A#5 74
+120: ch 0 off A#5 64
+0: ch 0 on G#5 73
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+107: ch 0 off G#5 64
+0: ch 0 on G5 72
+120: ch 0 off G5 64
+0: ch 0 on F5 72
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+47: ch 0 off F5 64
+0: ch 0 on D#5 72
+120: ch 0 off D#5 64
+0: ch 0 on D5 71
+120: ch 0 off D5 64
+0: ch 0 on C5 70
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+107: ch 0 off C5 64
+0: ch 0 on B4 69
+120: ch 0 off B4 64
+0: ch 0 on A#4 68
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+47: ch 0 off A#4 64
+0: ch 0 on A4 67
+120: ch 0 off A4 64
+0: ch 0 on G#4 66
+120: ch 0 off G#4 64
+0: ch 0 off A#3 64
+0: ch 0 off G#3 64
+0: ch 0 off D3 64
+0: ch 0 off F3 64
+0: ch 0 on G4 66
+0: ch 0 on G3 49
+0: ch 0 on D#3 49
+0: ch 0 on D#4 66
+0: ch 0 on A#3 49
+0: ch 0 cntl 64 0
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+14: ch 0 off D4 64
+133: ch 0 off G4 64
+0: ch 0 on G#4 62
+24: ch 0 cntl 64 127
+136: ch 0 off G#4 64
+0: ch 0 on A#4 62
+160: ch 0 off A#4 64
+0: ch 0 off D#4 64
+0: ch 0 off D#3 64
+0: ch 0 off A#3 64
+0: ch 0 off G3 64
+0: ch 0 on G#4 66
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+27: ch 0 off G#4 64
+0: ch 0 on G4 62
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+67: ch 0 off G4 64
+0: ch 0 on F4 62
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+107: ch 0 off F4 64
+0: ch 0 on D#4 66
+5: ch 0 cntl 64 0
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+65: ch 0 cntl 64 127
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+27: ch 0 off D#4 64
+0: ch 0 on D4 62
+160: ch 0 off D4 64
+0: ch 0 on C4 62
+160: ch 0 off C4 64
+0: ch 0 on A#3 66
+160: ch 0 off A#3 64
+0: ch 0 on G#3 60
+tempo 318302 msecs per qnote (188.5002293419457 bpm)
+80: ch 0 off G#3 64
+0: ch 0 on G3 63
+tempo 320856 msecs per qnote (186.9997756002693 bpm)
+0: ch 0 off G3 64
+0: ch 0 on G#2 73
+0: ch 0 on G#1 73
+0: ch 0 cntl 64 0
+92: ch 0 cntl 64 127
+28: ch 0 on F3 59
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off F3 64
+0: ch 0 off G#1 64
+0: ch 0 off G#2 64
+0: ch 0 on G#3 63
+120: ch 0 off G#3 64
+0: ch 0 on C4 67
+120: ch 0 off C4 64
+0: ch 0 on F4 72
+16: ch 0 cntl 64 0
+224: ch 0 off F4 64
+0: ch 0 on G#2 63
+0: ch 0 on G#1 63
+120: ch 0 off G#1 64
+0: ch 0 off G#2 64
+tempo 318302 msecs per qnote (188.5002293419457 bpm)
+0: ch 0 on A#1 70
+0: ch 0 on A#2 70
+78: ch 0 cntl 64 127
+42: ch 0 on F3 63
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off F3 64
+0: ch 0 off A#2 64
+0: ch 0 off A#1 64
+0: ch 0 on G#3 66
+120: ch 0 off G#3 64
+0: ch 0 on A#3 69
+120: ch 0 off A#3 64
+0: ch 0 on D4 72
+14: ch 0 cntl 64 0
+tempo 324324 msecs per qnote (185.000185000185 bpm)
+0: ch 0 off D4 64
+0: ch 0 on A#2 63
+0: ch 0 on A#1 63
+120: ch 0 off A#1 64
+0: ch 0 off A#2 64
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+22: ch 0 on D5 67
+0: ch 0 cntl 64 127
+120: ch 0 off D5 64
+0: ch 0 on D6 60
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+82: ch 0 off D6 64
+0: ch 0 on D5 67
+0: ch 0 on G#4 63
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+52: ch 0 off G#4 64
+0: ch 0 off D5 64
+0: ch 0 on D6 60
+0: ch 0 on A#4 65
+120: ch 0 off A#4 64
+0: ch 0 off D6 64
+0: ch 0 on D5 67
+0: ch 0 on C5 69
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+112: ch 0 off C5 64
+0: ch 0 off D5 64
+0: ch 0 on D6 59
+0: ch 0 on A#4 67
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+82: ch 0 off A#4 64
+0: ch 0 off D6 64
+0: ch 0 on D5 67
+0: ch 0 on G#4 65
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+82: ch 0 off G#4 64
+0: ch 0 off D5 64
+0: ch 0 on D6 61
+0: ch 0 on G4 64
+120: ch 0 off G4 64
+0: ch 0 off D6 64
+0: ch 0 on D5 67
+0: ch 0 on F4 67
+120: ch 0 off D5 64
+0: ch 0 on D6 59
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+32: ch 0 off F4 64
+0: ch 0 on D#4 61
+80: ch 0 off D6 64
+0: ch 0 on D5 67
+80: ch 0 off D#4 64
+0: ch 0 on D4 61
+40: ch 0 off D5 64
+0: ch 0 on D6 59
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+22: ch 0 off D6 64
+0: ch 0 off D4 64
+0: ch 0 on D5 67
+0: ch 0 on C4 67
+120: ch 0 off D5 64
+0: ch 0 on D6 59
+40: ch 0 off C4 64
+0: ch 0 on A#3 62
+80: ch 0 off D6 64
+0: ch 0 on D5 67
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+12: ch 0 off A#3 64
+0: ch 0 on G#3 62
+40: ch 0 off D5 64
+0: ch 0 on D6 60
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 off D6 64
+0: ch 0 off G#3 64
+0: ch 0 on D#5 67
+0: ch 0 on G3 67
+12: ch 0 cntl 64 0
+80: ch 0 cntl 64 127
+28: ch 0 off D#5 64
+0: ch 0 on D#6 60
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+2: ch 0 off G3 64
+0: ch 0 on G#3 63
+80: ch 0 off D#6 64
+0: ch 0 on D#5 69
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+12: ch 0 off G#3 64
+0: ch 0 on A#3 63
+40: ch 0 off D#5 64
+0: ch 0 on D#6 62
+120: ch 0 off D#6 64
+0: ch 0 off A#3 64
+0: ch 0 on D#5 71
+0: ch 0 on G#3 67
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+112: ch 0 off D#5 64
+0: ch 0 on D#6 63
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+2: ch 0 off G#3 64
+0: ch 0 on G3 60
+80: ch 0 off D#6 64
+0: ch 0 on D#5 72
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+42: ch 0 off G3 64
+0: ch 0 on F3 60
+40: ch 0 off D#5 64
+0: ch 0 on D#6 67
+120: ch 0 off D#6 64
+0: ch 0 off F3 64
+0: ch 0 on D#5 75
+0: ch 0 on D#3 70
+19: ch 0 cntl 64 0
+90: ch 0 cntl 64 127
+11: ch 0 off D#5 64
+0: ch 0 on D#6 67
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+32: ch 0 off D#3 64
+0: ch 0 on D3 63
+80: ch 0 off D#6 64
+0: ch 0 on D#5 77
+80: ch 0 off D3 64
+0: ch 0 on C3 66
+40: ch 0 off D#5 64
+0: ch 0 on D#6 69
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+22: ch 0 off D#6 64
+0: ch 0 off C3 64
+0: ch 0 on E5 80
+0: ch 0 on A#2 74
+20: ch 0 cntl 64 0
+100: ch 0 off E5 64
+0: ch 0 on E6 71
+0: ch 0 cntl 64 127
+40: ch 0 off A#2 64
+0: ch 0 on G#2 67
+80: ch 0 off E6 64
+0: ch 0 on E5 81
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+12: ch 0 off G#2 64
+0: ch 0 on G2 67
+40: ch 0 off E5 64
+0: ch 0 on E6 73
+tempo 320856 msecs per qnote (186.9997756002693 bpm)
+0: ch 0 off E6 64
+0: ch 0 off G2 64
+0: ch 0 on G#2 73
+0: ch 0 on G#1 73
+0: ch 0 cntl 64 0
+92: ch 0 cntl 64 127
+28: ch 0 on F5 71
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off F5 64
+0: ch 0 off G#1 64
+0: ch 0 off G#2 64
+0: ch 0 on G#5 76
+120: ch 0 off G#5 64
+0: ch 0 on C6 81
+120: ch 0 off C6 64
+0: ch 0 on F6 86
+16: ch 0 cntl 64 0
+224: ch 0 off F6 64
+0: ch 0 on G#1 63
+0: ch 0 on G#2 63
+120: ch 0 off G#2 64
+0: ch 0 off G#1 64
+tempo 318302 msecs per qnote (188.5002293419457 bpm)
+0: ch 0 on A#1 70
+0: ch 0 on A#2 70
+78: ch 0 cntl 64 127
+42: ch 0 on D5 75
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off D5 64
+0: ch 0 off A#2 64
+0: ch 0 off A#1 64
+0: ch 0 on F5 79
+120: ch 0 off F5 64
+0: ch 0 on G#5 82
+120: ch 0 off G#5 64
+0: ch 0 on D6 86
+14: ch 0 cntl 64 0
+tempo 324324 msecs per qnote (185.000185000185 bpm)
+0: ch 0 off D6 64
+0: ch 0 on A#2 63
+0: ch 0 on A#1 63
+120: ch 0 off A#1 64
+0: ch 0 off A#2 64
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 on D#5 80
+0: ch 0 on A#5 80
+0: ch 0 on G5 80
+0: ch 0 on D#6 94
+0: ch 0 on D#3 70
+0: ch 0 on D#2 59
+0: ch 0 on G2 59
+0: ch 0 on A#2 59
+tempo 297767 msecs per qnote (201.49983040430942 bpm)
+0: ch 0 off A#2 64
+0: ch 0 off D#5 64
+0: ch 0 off D#3 64
+0: ch 0 off A#5 64
+0: ch 0 off G5 64
+0: ch 0 off D#6 64
+0: ch 0 off D#2 64
+0: ch 0 off G2 64
+0: ch 0 on A#5 63
+0: ch 0 on G4 63
+0: ch 0 on E4 53
+120: ch 0 off E4 64
+0: ch 0 off G4 64
+0: ch 0 off A#5 64
+tempo 314136 msecs per qnote (191.00007640003057 bpm)
+0: ch 0 on A#5 63
+0: ch 0 on E4 53
+0: ch 0 on G4 63
+120: ch 0 off G4 64
+0: ch 0 off E4 64
+0: ch 0 off A#5 64
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+0: ch 0 on A#5 70
+0: ch 0 on G#4 70
+0: ch 0 on F4 59
+240: ch 0 off F4 64
+0: ch 0 off G#4 64
+0: ch 0 off A#5 64
+tempo 297767 msecs per qnote (201.49983040430942 bpm)
+0: ch 0 on A#5 63
+0: ch 0 on E4 53
+0: ch 0 on G4 63
+120: ch 0 off G4 64
+0: ch 0 off E4 64
+0: ch 0 off A#5 64
+tempo 314136 msecs per qnote (191.00007640003057 bpm)
+0: ch 0 on A#5 63
+0: ch 0 on E4 53
+0: ch 0 on G4 63
+120: ch 0 off G4 64
+0: ch 0 off E4 64
+0: ch 0 off A#5 64
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 on A#5 69
+0: ch 0 on G#4 70
+0: ch 0 on F4 59
+240: ch 0 off F4 64
+0: ch 0 off G#4 64
+0: ch 0 off A#5 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 on F3 60
+0: ch 0 on G#3 60
+0: ch 0 on D4 72
+0: ch 0 on A#1 63
+0: ch 0 on A#2 74
+240: ch 0 off A#2 64
+0: ch 0 off D4 64
+0: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 off A#1 64
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+0: ch 0 on F3 33
+0: ch 0 on G#3 33
+0: ch 0 on D4 39
+0: ch 0 on B2 36
+0: ch 0 on B1 30
+120: ch 0 off B1 64
+0: ch 0 off D4 64
+0: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 off B2 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+0: ch 0 on G3 37
+0: ch 0 on D#4 45
+0: ch 0 on C2 32
+0: ch 0 on C3 38
+120: ch 0 off C3 64
+0: ch 0 off G3 64
+0: ch 0 off D#4 64
+0: ch 0 off C2 64
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+0: ch 0 on C4 35
+0: ch 0 on D#4 35
+0: ch 0 on F4 41
+0: ch 0 on A2 36
+0: ch 0 on A1 30
+120: ch 0 off A1 64
+0: ch 0 off F4 64
+0: ch 0 off C4 64
+0: ch 0 off D#4 64
+0: ch 0 off A2 64
+360: ch 0 on A#3 37
+0: ch 0 on D#4 37
+0: ch 0 on G4 45
+0: ch 0 on A#2 38
+0: ch 0 on A#1 32
+120: ch 0 off A#1 64
+0: ch 0 off G4 64
+0: ch 0 off A#3 64
+0: ch 0 off D#4 64
+0: ch 0 off A#2 64
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+0: ch 0 on G#3 33
+0: ch 0 on D4 33
+0: ch 0 on F4 39
+0: ch 0 on A#1 27
+0: ch 0 on A#2 33
+120: ch 0 off A#2 64
+0: ch 0 off F4 64
+0: ch 0 off G#3 64
+0: ch 0 off D4 64
+0: ch 0 off A#1 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 on G3 37
+0: ch 0 on D#4 45
+0: ch 0 on D#2 32
+0: ch 0 on D#3 38
+120: ch 0 off D#3 64
+0: ch 0 off G3 64
+0: ch 0 off D#4 64
+0: ch 0 off D#2 64
+tempo 297767 msecs per qnote (201.49983040430942 bpm)
+0: ch 0 on A#5 63
+0: ch 0 on G4 63
+0: ch 0 on E4 53
+120: ch 0 off E4 64
+0: ch 0 off G4 64
+0: ch 0 off A#5 64
+0: ch 0 on C6 59
+tempo 314136 msecs per qnote (191.00007640003057 bpm)
+0: ch 0 off C6 64
+0: ch 0 on A#5 63
+0: ch 0 on E4 53
+0: ch 0 on G4 63
+120: ch 0 off G4 64
+0: ch 0 off E4 64
+0: ch 0 off A#5 64
+0: ch 0 on A5 59
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+0: ch 0 off A5 64
+0: ch 0 on A#5 70
+0: ch 0 on G#4 70
+0: ch 0 on F4 59
+240: ch 0 off F4 64
+0: ch 0 off G#4 64
+0: ch 0 off A#5 64
+tempo 297767 msecs per qnote (201.49983040430942 bpm)
+0: ch 0 on A#5 63
+0: ch 0 on E4 53
+0: ch 0 on G4 63
+120: ch 0 off G4 64
+0: ch 0 off E4 64
+0: ch 0 off A#5 64
+0: ch 0 on C6 58
+tempo 314136 msecs per qnote (191.00007640003057 bpm)
+0: ch 0 off C6 64
+0: ch 0 on A#5 63
+0: ch 0 on E4 53
+0: ch 0 on G4 63
+120: ch 0 off G4 64
+0: ch 0 off E4 64
+0: ch 0 off A#5 64
+0: ch 0 on A5 57
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 off A5 64
+0: ch 0 on A#5 69
+0: ch 0 on G#4 70
+0: ch 0 on F4 59
+240: ch 0 off F4 64
+0: ch 0 off G#4 64
+0: ch 0 off A#5 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 on F3 60
+0: ch 0 on G#3 60
+0: ch 0 on D4 72
+0: ch 0 on A#2 74
+0: ch 0 on A#1 63
+240: ch 0 off A#1 64
+0: ch 0 off D4 64
+0: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 off A#2 64
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+0: ch 0 on D#3 55
+0: ch 0 on F#3 55
+0: ch 0 on A3 55
+0: ch 0 on D#4 66
+0: ch 0 on D#2 55
+0: ch 0 on F#2 55
+0: ch 0 on B2 65
+0: ch 0 on B1 55
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+0: ch 0 off B1 64
+0: ch 0 off D#3 64
+0: ch 0 off D#2 64
+0: ch 0 off F#3 64
+0: ch 0 off A3 64
+0: ch 0 off D#4 64
+0: ch 0 off F#2 64
+0: ch 0 off B2 64
+0: ch 0 on C4 35
+0: ch 0 on D#4 35
+0: ch 0 on F4 41
+0: ch 0 on A1 30
+0: ch 0 on A2 36
+120: ch 0 off A2 64
+0: ch 0 off F4 64
+0: ch 0 off C4 64
+0: ch 0 off D#4 64
+0: ch 0 off A1 64
+360: ch 0 on A#3 37
+0: ch 0 on D#4 37
+0: ch 0 on G4 45
+0: ch 0 on A#2 38
+0: ch 0 on A#1 32
+120: ch 0 off A#1 64
+0: ch 0 off G4 64
+0: ch 0 off A#3 64
+0: ch 0 off D#4 64
+0: ch 0 off A#2 64
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+0: ch 0 on G#3 33
+0: ch 0 on D4 33
+0: ch 0 on F4 39
+0: ch 0 on A#1 27
+0: ch 0 on A#2 33
+120: ch 0 off A#2 64
+0: ch 0 off F4 64
+0: ch 0 off G#3 64
+0: ch 0 off D4 64
+0: ch 0 off A#1 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 on G3 37
+0: ch 0 on D#4 45
+0: ch 0 on D#2 32
+28: ch 0 cntl 64 127
+212: ch 0 off D#2 64
+0: ch 0 off D#4 64
+0: ch 0 off G3 64
+0: ch 0 on D#3 27
+tempo 300000 msecs per qnote (200.0 bpm)
+0: ch 0 off D#3 64
+0: ch 0 on D4 30
+0: ch 0 on G#4 36
+14: ch 0 cntl 64 0
+170: ch 0 cntl 64 127
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+0: ch 0 off G#4 64
+0: ch 0 off D4 64
+0: ch 0 on D#4 27
+0: ch 0 on G4 32
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 off G4 64
+0: ch 0 off D#4 64
+0: ch 0 on D#2 32
+12: ch 0 cntl 64 0
+144: ch 0 cntl 64 127
+84: ch 0 off D#2 64
+0: ch 0 on D#3 28
+tempo 296296 msecs per qnote (202.5002025002025 bpm)
+0: ch 0 off D#3 64
+0: ch 0 on G#4 31
+0: ch 0 on D5 37
+12: ch 0 cntl 64 0
+129: ch 0 cntl 64 127
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+0: ch 0 off D5 64
+0: ch 0 off G#4 64
+0: ch 0 on G4 27
+0: ch 0 on D#5 32
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+0: ch 0 off D#5 64
+0: ch 0 off G4 64
+0: ch 0 on D#2 32
+4: ch 0 cntl 64 0
+123: ch 0 cntl 64 127
+113: ch 0 off D#2 64
+0: ch 0 on D#3 28
+tempo 298507 msecs per qnote (201.0003115504829 bpm)
+0: ch 0 off D#3 64
+0: ch 0 on G#5 37
+0: ch 0 on D5 31
+14: ch 0 cntl 64 0
+113: ch 0 cntl 64 127
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+0: ch 0 off D5 64
+0: ch 0 off G#5 64
+0: ch 0 on D#5 27
+0: ch 0 on G5 32
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+0: ch 0 off G5 64
+0: ch 0 off D#5 64
+0: ch 0 on D#2 32
+12: ch 0 cntl 64 0
+129: ch 0 cntl 64 127
+99: ch 0 off D#2 64
+0: ch 0 on D#3 27
+tempo 300000 msecs per qnote (200.0 bpm)
+0: ch 0 off D#3 64
+0: ch 0 on D6 43
+0: ch 0 on G#5 36
+7: ch 0 cntl 64 0
+149: ch 0 cntl 64 127
+tempo 317460 msecs per qnote (189.000189000189 bpm)
+0: ch 0 off G#5 64
+0: ch 0 off D6 64
+0: ch 0 on G5 30
+0: ch 0 on D#6 36
+tempo 323450 msecs per qnote (185.50007729169886 bpm)
+0: ch 0 off D#6 64
+0: ch 0 off G5 64
+0: ch 0 on D#2 32
+0: ch 0 cntl 64 0
+240: ch 0 cntl 64 127
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off D#2 64
+0: ch 0 on G3 48
+0: ch 0 on A#3 48
+0: ch 0 on D#4 57
+480: ch 0 off D#4 64
+0: ch 0 off A#3 64
+0: ch 0 off G3 64
+134: ch 0 cntl 64 0
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on C3 36
+240: ch 0 off C3 64
+0: ch 0 on B2 42
+78: ch 0 cntl 64 127
+162: ch 0 off B2 64
+0: ch 0 on C3 35
+12: ch 0 cntl 64 0
+tempo 286396 msecs per qnote (209.50013268341738 bpm)
+0: ch 0 off C3 64
+0: ch 0 on A#3 45
+0: ch 0 on G3 37
+120: ch 0 off G3 64
+0: ch 0 off A#3 64
+tempo 398936 msecs per qnote (150.40006417069404 bpm)
+0: ch 0 on A#3 42
+0: ch 0 on G3 35
+120: ch 0 off G3 64
+0: ch 0 off A#3 64
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 on A#3 77
+0: ch 0 on G3 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on D#4 40
+240: ch 0 off D#4 64
+0: ch 0 on D4 45
+78: ch 0 cntl 64 127
+162: ch 0 off D4 64
+0: ch 0 on D#4 40
+17: ch 0 cntl 64 0
+tempo 287081 msecs per qnote (209.00024731695933 bpm)
+0: ch 0 off D#4 64
+0: ch 0 on A#4 45
+120: ch 0 off A#4 64
+tempo 350877 msecs per qnote (171.00009405005173 bpm)
+0: ch 0 on A#4 38
+120: ch 0 off A#4 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 on C#4 45
+0: ch 0 on A#3 38
+0: ch 0 on G#3 32
+240: ch 0 off C#4 64
+0: ch 0 on D4 40
+tempo 287081 msecs per qnote (209.00024731695933 bpm)
+0: ch 0 off D4 64
+0: ch 0 off G#3 64
+0: ch 0 off A#3 64
+0: ch 0 on A#4 45
+120: ch 0 off A#4 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on A#4 38
+0: ch 0 on A#2 36
+120: ch 0 off A#4 64
+120: ch 0 off A#2 64
+0: ch 0 on A2 42
+78: ch 0 cntl 64 127
+162: ch 0 off A2 64
+0: ch 0 on A#2 35
+12: ch 0 cntl 64 0
+tempo 286396 msecs per qnote (209.50013268341738 bpm)
+0: ch 0 off A#2 64
+0: ch 0 on A#3 45
+0: ch 0 on G#3 37
+120: ch 0 off G#3 64
+0: ch 0 off A#3 64
+tempo 402955 msecs per qnote (148.90000124083335 bpm)
+0: ch 0 on A#3 42
+0: ch 0 on G#3 35
+120: ch 0 off G#3 64
+0: ch 0 off A#3 64
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 on A#3 77
+0: ch 0 on G#3 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on F4 40
+240: ch 0 off F4 64
+0: ch 0 on E4 45
+78: ch 0 cntl 64 127
+162: ch 0 off E4 64
+0: ch 0 on F4 40
+17: ch 0 cntl 64 0
+tempo 287081 msecs per qnote (209.00024731695933 bpm)
+0: ch 0 off F4 64
+0: ch 0 on A#4 45
+120: ch 0 off A#4 64
+tempo 350877 msecs per qnote (171.00009405005173 bpm)
+0: ch 0 on A#4 38
+120: ch 0 off A#4 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 off G#3 64
+0: ch 0 off A#3 64
+0: ch 0 on D#4 45
+0: ch 0 on A#3 38
+0: ch 0 on G3 32
+36: ch 0 cntl 64 127
+204: ch 0 off D#4 64
+0: ch 0 on E4 40
+18: ch 0 cntl 64 0
+tempo 287081 msecs per qnote (209.00024731695933 bpm)
+0: ch 0 off E4 64
+0: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 on A#4 45
+120: ch 0 off A#4 64
+tempo 350877 msecs per qnote (171.00009405005173 bpm)
+0: ch 0 on A#4 38
+120: ch 0 off A#4 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on E4 45
+0: ch 0 on A#3 33
+0: ch 0 on C#4 39
+0: ch 0 on F3 33
+36: ch 0 cntl 64 127
+204: ch 0 off E4 64
+0: ch 0 on F4 41
+18: ch 0 cntl 64 0
+tempo 287081 msecs per qnote (209.00024731695933 bpm)
+0: ch 0 off F4 64
+0: ch 0 off F3 64
+0: ch 0 off C#4 64
+0: ch 0 off A#3 64
+0: ch 0 on C#5 46
+120: ch 0 off C#5 64
+tempo 350877 msecs per qnote (171.00009405005173 bpm)
+0: ch 0 on C#5 40
+120: ch 0 off C#5 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on F#4 47
+0: ch 0 on G3 34
+0: ch 0 on A#3 34
+0: ch 0 on C4 40
+0: ch 0 on E3 34
+36: ch 0 cntl 64 127
+204: ch 0 off F#4 64
+0: ch 0 on G4 43
+18: ch 0 cntl 64 0
+tempo 287081 msecs per qnote (209.00024731695933 bpm)
+0: ch 0 off G4 64
+0: ch 0 off E3 64
+0: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off C4 64
+0: ch 0 on C#5 48
+120: ch 0 off C#5 64
+tempo 316623 msecs per qnote (189.49981523768014 bpm)
+0: ch 0 on C#5 41
+120: ch 0 off C#5 64
+tempo 295567 msecs per qnote (202.99965828390856 bpm)
+0: ch 0 on C5 49
+240: ch 0 off C5 64
+0: ch 0 on A#4 42
+240: ch 0 off A#4 64
+0: ch 0 on A4 47
+240: ch 0 off A4 64
+0: ch 0 on A#4 42
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 off A#4 64
+0: ch 0 on G4 49
+0: ch 0 on F3 43
+0: ch 0 on G#3 43
+0: ch 0 on C4 53
+36: ch 0 cntl 64 127
+204: ch 0 off G4 64
+0: ch 0 on G#4 44
+18: ch 0 cntl 64 0
+tempo 285714 msecs per qnote (210.00021000021 bpm)
+0: ch 0 off G#4 64
+0: ch 0 off C4 64
+0: ch 0 off G#3 64
+0: ch 0 off F3 64
+0: ch 0 on F5 50
+120: ch 0 off F5 64
+tempo 316623 msecs per qnote (189.49981523768014 bpm)
+0: ch 0 on F5 44
+120: ch 0 off F5 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 on B4 52
+0: ch 0 on D#3 45
+0: ch 0 on F3 45
+0: ch 0 on G#3 45
+0: ch 0 on C4 55
+36: ch 0 cntl 64 127
+204: ch 0 off B4 64
+0: ch 0 on C5 47
+18: ch 0 cntl 64 0
+tempo 283688 msecs per qnote (211.49995770000845 bpm)
+0: ch 0 off C5 64
+0: ch 0 off C4 64
+0: ch 0 off D#3 64
+0: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 on G#5 54
+120: ch 0 off G#5 64
+tempo 316623 msecs per qnote (189.49981523768014 bpm)
+0: ch 0 on G#5 47
+120: ch 0 off G#5 64
+tempo 291971 msecs per qnote (205.49986128759363 bpm)
+0: ch 0 on E5 56
+0: ch 0 on D3 49
+0: ch 0 on F3 49
+0: ch 0 on G#3 49
+0: ch 0 on B3 58
+36: ch 0 cntl 64 127
+204: ch 0 off E5 64
+0: ch 0 on F5 50
+18: ch 0 cntl 64 0
+tempo 283688 msecs per qnote (211.49995770000845 bpm)
+0: ch 0 off F5 64
+0: ch 0 off B3 64
+0: ch 0 off D3 64
+0: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 on B5 57
+120: ch 0 off B5 64
+tempo 316623 msecs per qnote (189.49981523768014 bpm)
+0: ch 0 on B5 50
+120: ch 0 off B5 64
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 on G5 63
+0: ch 0 on C3 52
+0: ch 0 on D3 52
+0: ch 0 on F3 52
+0: ch 0 on G#3 63
+36: ch 0 cntl 64 127
+204: ch 0 off G5 64
+0: ch 0 on G#5 56
+18: ch 0 cntl 64 0
+tempo 281690 msecs per qnote (213.00010650005325 bpm)
+0: ch 0 off G#5 64
+0: ch 0 off G#3 64
+0: ch 0 off C3 64
+0: ch 0 off D3 64
+0: ch 0 off F3 64
+0: ch 0 on D6 66
+120: ch 0 off D6 64
+tempo 316623 msecs per qnote (189.49981523768014 bpm)
+0: ch 0 on D6 60
+120: ch 0 off D6 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on C#6 79
+0: ch 0 on B2 58
+0: ch 0 on D3 58
+0: ch 0 on F3 58
+0: ch 0 on G#3 70
+36: ch 0 cntl 64 127
+204: ch 0 off C#6 64
+0: ch 0 on D6 72
+18: ch 0 cntl 64 0
+tempo 283019 msecs per qnote (211.99990106671282 bpm)
+0: ch 0 off D6 64
+0: ch 0 off G#3 64
+0: ch 0 off B2 64
+0: ch 0 off D3 64
+0: ch 0 off F3 64
+0: ch 0 on F6 69
+120: ch 0 off F6 64
+tempo 359281 msecs per qnote (167.00020318358054 bpm)
+0: ch 0 on F6 64
+120: ch 0 off F6 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 on F6 76
+170: ch 0 cntl 64 127
+tempo 283019 msecs per qnote (211.99990106671282 bpm)
+0: ch 0 on G#5 65
+216: ch 0 off G#5 64
+24: ch 0 on G#5 65
+216: ch 0 off G#5 64
+tempo 297767 msecs per qnote (201.49983040430942 bpm)
+0: ch 0 on G#5 65
+216: ch 0 off G#5 64
+tempo 283688 msecs per qnote (211.49995770000845 bpm)
+0: ch 0 off F6 64
+0: ch 0 on B4 69
+0: ch 0 cntl 64 0
+240: ch 0 on G#4 65
+0: ch 0 cntl 64 127
+216: ch 0 off G#4 64
+24: ch 0 on G#4 65
+216: ch 0 off G#4 64
+tempo 294118 msecs per qnote (203.99975520029375 bpm)
+0: ch 0 on G#4 65
+216: ch 0 off G#4 64
+tempo 285036 msecs per qnote (210.49972635035576 bpm)
+0: ch 0 off B4 64
+0: ch 0 on B3 74
+240: ch 0 on G#3 65
+216: ch 0 off G#3 64
+24: ch 0 on G#3 65
+216: ch 0 off G#3 64
+tempo 297767 msecs per qnote (201.49983040430942 bpm)
+0: ch 0 on G#3 65
+216: ch 0 off G#3 64
+tempo 291971 msecs per qnote (205.49986128759363 bpm)
+0: ch 0 off B3 64
+0: ch 0 on B2 69
+0: ch 0 cntl 64 0
+126: ch 0 cntl 64 127
+114: ch 0 off B2 64
+0: ch 0 on G#2 64
+0: ch 0 on G#3 64
+216: ch 0 off G#3 64
+0: ch 0 off G#2 64
+24: ch 0 on G#2 64
+0: ch 0 on G#3 64
+216: ch 0 off G#3 64
+0: ch 0 off G#2 64
+tempo 338028 msecs per qnote (177.50008875004437 bpm)
+0: ch 0 on G#2 64
+0: ch 0 on G#3 64
+216: ch 0 off G#2 64
+tempo 326087 msecs per qnote (183.99997546666995 bpm)
+0: ch 0 off G#3 64
+0: ch 0 on B1 78
+0: ch 0 on B2 75
+11: ch 0 cntl 64 0
+184: ch 0 cntl 64 127
+tempo 342857 msecs per qnote (175.00007291669704 bpm)
+0: ch 0 off B2 64
+0: ch 0 off B1 64
+0: ch 0 on G#2 70
+0: ch 0 on G#3 69
+216: ch 0 off G#3 64
+0: ch 0 off G#2 64
+24: ch 0 on G#2 70
+0: ch 0 on G#3 69
+216: ch 0 off G#3 64
+0: ch 0 off G#2 64
+tempo 528634 msecs per qnote (113.50007755838634 bpm)
+0: ch 0 on G#2 70
+0: ch 0 on G#3 69
+216: ch 0 off G#3 64
+0: ch 0 off G#2 64
+tempo 888889 msecs per qnote (67.49999156250105 bpm)
+0: ch 0 on B1 86
+0: ch 0 on B2 88
+0: ch 0 cntl 64 0
+700: ch 0 off B2 64
+0: ch 0 off B1 64
+tempo 294118 msecs per qnote (203.99975520029375 bpm)
+0: ch 0 on C4 40
+0: ch 0 on C3 36
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 off C3 64
+0: ch 0 off C4 64
+0: ch 0 on B3 45
+0: ch 0 on B2 38
+78: ch 0 cntl 64 127
+162: ch 0 off B2 64
+0: ch 0 off B3 64
+0: ch 0 on C4 40
+0: ch 0 on C3 35
+12: ch 0 cntl 64 0
+tempo 286396 msecs per qnote (209.50013268341738 bpm)
+0: ch 0 off C3 64
+0: ch 0 off C4 64
+0: ch 0 on F4 45
+0: ch 0 on F3 38
+120: ch 0 off F3 64
+0: ch 0 off F4 64
+tempo 349854 msecs per qnote (171.50011147507246 bpm)
+0: ch 0 on F4 38
+0: ch 0 on F3 34
+120: ch 0 off F3 64
+0: ch 0 off F4 64
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 on D#4 45
+0: ch 0 on D#3 38
+480: ch 0 off D#3 64
+0: ch 0 off D#4 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on C4 40
+0: ch 0 on C3 36
+240: ch 0 off C3 64
+0: ch 0 off C4 64
+0: ch 0 on B3 45
+0: ch 0 on B2 38
+78: ch 0 cntl 64 127
+162: ch 0 off B2 64
+0: ch 0 off B3 64
+0: ch 0 on C4 40
+0: ch 0 on C3 35
+17: ch 0 cntl 64 0
+tempo 287081 msecs per qnote (209.00024731695933 bpm)
+0: ch 0 off C3 64
+0: ch 0 off C4 64
+0: ch 0 on G#4 45
+0: ch 0 on G#3 38
+120: ch 0 off G#3 64
+0: ch 0 off G#4 64
+tempo 350877 msecs per qnote (171.00009405005173 bpm)
+0: ch 0 on G#4 38
+0: ch 0 on G#3 34
+120: ch 0 off G#3 64
+0: ch 0 off G#4 64
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 on G4 45
+0: ch 0 on G3 38
+480: ch 0 off G3 64
+0: ch 0 off G4 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on C4 40
+240: ch 0 off C4 64
+0: ch 0 on B3 45
+85: ch 0 cntl 64 127
+155: ch 0 off B3 64
+0: ch 0 on C4 40
+21: ch 0 cntl 64 0
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C4 64
+0: ch 0 on C5 45
+120: ch 0 off C5 64
+tempo 345821 msecs per qnote (173.50016337932053 bpm)
+0: ch 0 on C5 38
+120: ch 0 off C5 64
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 on C5 45
+0: ch 0 on G#3 38
+0: ch 0 on C4 38
+0: ch 0 on F#4 38
+3: ch 0 cntl 64 127
+237: ch 0 off C5 64
+0: ch 0 on D5 45
+60: ch 0 off D5 64
+0: ch 0 on C5 45
+60: ch 0 off C5 64
+0: ch 0 on B4 40
+60: ch 0 off B4 64
+0: ch 0 on C5 45
+60: ch 0 off C5 64
+0: ch 0 on D#5 50
+11: ch 0 cntl 64 0
+55: ch 0 cntl 64 127
+174: ch 0 off D#5 64
+0: ch 0 on D5 45
+tempo 320856 msecs per qnote (186.9997756002693 bpm)
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off D5 64
+0: ch 0 on F5 56
+23: ch 0 cntl 64 0
+63: ch 0 cntl 64 127
+154: ch 0 off F5 64
+0: ch 0 on D#5 53
+240: ch 0 off D#5 64
+0: ch 0 on D5 50
+11: ch 0 cntl 64 0
+29: ch 0 cntl 64 127
+tempo 338983 msecs per qnote (177.00002655000398 bpm)
+0: ch 0 off D5 64
+0: ch 0 on C5 47
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 off C5 64
+0: ch 0 off G#3 64
+0: ch 0 off C4 64
+0: ch 0 off F#4 64
+0: ch 0 on B4 51
+0: ch 0 on G4 38
+0: ch 0 on D4 32
+0: ch 0 on G3 32
+0: ch 0 cntl 64 0
+480: ch 0 off G3 64
+0: ch 0 off B4 64
+0: ch 0 off G4 64
+0: ch 0 off D4 64
+240: ch 0 on G3 40
+0: ch 0 on G2 36
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 on F#3 45
+0: ch 0 on F#2 38
+113: ch 0 cntl 64 127
+127: ch 0 off F#2 64
+0: ch 0 off F#3 64
+0: ch 0 on G3 40
+0: ch 0 on G2 35
+15: ch 0 cntl 64 0
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 on C4 45
+0: ch 0 on C3 38
+120: ch 0 off C3 64
+0: ch 0 off C4 64
+tempo 338983 msecs per qnote (177.00002655000398 bpm)
+0: ch 0 on C4 38
+0: ch 0 on C3 34
+120: ch 0 off C3 64
+0: ch 0 off C4 64
+tempo 291971 msecs per qnote (205.49986128759363 bpm)
+0: ch 0 on B3 45
+0: ch 0 on B2 38
+480: ch 0 off B2 64
+0: ch 0 off B3 64
+240: ch 0 on G3 40
+0: ch 0 on G2 36
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 on F#3 45
+0: ch 0 on F#2 38
+50: ch 0 cntl 64 127
+190: ch 0 off F#2 64
+0: ch 0 off F#3 64
+0: ch 0 on G3 40
+0: ch 0 on G2 35
+16: ch 0 cntl 64 0
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 on D#4 45
+0: ch 0 on D#3 38
+120: ch 0 off D#3 64
+0: ch 0 off D#4 64
+tempo 342857 msecs per qnote (175.00007291669704 bpm)
+0: ch 0 on D#4 38
+0: ch 0 on D#3 34
+120: ch 0 off D#3 64
+0: ch 0 off D#4 64
+tempo 296296 msecs per qnote (202.5002025002025 bpm)
+0: ch 0 on D4 45
+0: ch 0 on D3 38
+480: ch 0 off D3 64
+0: ch 0 off D4 64
+240: ch 0 on G3 45
+0: ch 0 on G2 37
+120: ch 0 off G2 64
+0: ch 0 off G3 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 on B3 51
+0: ch 0 on B2 43
+120: ch 0 off B2 64
+0: ch 0 off B3 64
+120: ch 0 on D4 45
+0: ch 0 on D3 37
+120: ch 0 off D3 64
+0: ch 0 off D4 64
+120: ch 0 on F4 45
+0: ch 0 on F3 37
+120: ch 0 off F3 64
+0: ch 0 off F4 64
+120: ch 0 on G#4 45
+0: ch 0 on G#3 37
+120: ch 0 off G#3 64
+0: ch 0 off G#4 64
+120: ch 0 on B4 55
+0: ch 0 on B3 46
+120: ch 0 off B3 64
+0: ch 0 off B4 64
+120: ch 0 on D5 53
+0: ch 0 on D4 45
+120: ch 0 off D4 64
+0: ch 0 off D5 64
+120: ch 0 on F5 56
+0: ch 0 on F4 47
+120: ch 0 off F4 64
+0: ch 0 off F5 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 on G#5 60
+0: ch 0 on G#4 50
+120: ch 0 off G#4 64
+0: ch 0 off G#5 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 on G5 63
+0: ch 0 on G4 53
+120: ch 0 off G4 64
+0: ch 0 off G5 64
+120: ch 0 on F5 59
+0: ch 0 on F4 50
+120: ch 0 off F4 64
+0: ch 0 off F5 64
+120: ch 0 on D#5 55
+0: ch 0 on D#4 46
+120: ch 0 off D#4 64
+0: ch 0 off D#5 64
+tempo 338028 msecs per qnote (177.50008875004437 bpm)
+0: ch 0 on D5 54
+0: ch 0 on D4 45
+120: ch 0 off D4 64
+0: ch 0 off D5 64
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 on C5 62
+0: ch 0 on C4 42
+0: ch 0 cntl 64 127
+120: ch 0 off C4 64
+120: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+120: ch 0 off C5 64
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+120: ch 0 on C5 50
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+tempo 295567 msecs per qnote (202.99965828390856 bpm)
+0: ch 0 off C5 64
+0: ch 0 on B4 57
+0: ch 0 on C4 42
+7: ch 0 cntl 64 0
+68: ch 0 cntl 64 127
+45: ch 0 off C4 64
+120: ch 0 off B4 64
+0: ch 0 on C5 53
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+13: ch 0 cntl 64 0
+107: ch 0 off A#4 64
+0: ch 0 off G4 64
+0: ch 0 off E4 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C5 64
+0: ch 0 on C6 60
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+120: ch 0 off A#4 64
+0: ch 0 off C6 64
+0: ch 0 off E4 64
+0: ch 0 off G4 64
+tempo 337079 msecs per qnote (177.99981606685674 bpm)
+0: ch 0 on C6 52
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+120: ch 0 off A#4 64
+0: ch 0 off C6 64
+0: ch 0 off E4 64
+0: ch 0 off G4 64
+tempo 294118 msecs per qnote (203.99975520029375 bpm)
+0: ch 0 on C6 60
+0: ch 0 on C4 42
+21: ch 0 cntl 64 127
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C4 64
+120: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 off C6 64
+0: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 on F6 59
+0: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 off F6 64
+0: ch 0 on D#6 65
+0: ch 0 on C4 42
+17: ch 0 cntl 64 0
+74: ch 0 cntl 64 127
+29: ch 0 off C4 64
+120: ch 0 off D#6 64
+0: ch 0 on D6 60
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+120: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 off D6 64
+0: ch 0 on C6 66
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+10: ch 0 cntl 64 0
+61: ch 0 cntl 64 127
+49: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 314961 msecs per qnote (190.499776162763 bpm)
+0: ch 0 off C6 64
+0: ch 0 on B5 60
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+120: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 291262 msecs per qnote (206.0000961333782 bpm)
+0: ch 0 off B5 64
+0: ch 0 on D6 69
+0: ch 0 on C4 42
+17: ch 0 cntl 64 0
+46: ch 0 cntl 64 127
+57: ch 0 off C4 64
+120: ch 0 off D6 64
+0: ch 0 on C6 60
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+10: ch 0 cntl 64 0
+110: ch 0 off G4 64
+0: ch 0 off D#4 64
+120: ch 0 off C6 64
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+120: ch 0 on C5 50
+0: ch 0 on D#4 32
+0: ch 0 on G4 38
+120: ch 0 off G4 64
+0: ch 0 off D#4 64
+tempo 294840 msecs per qnote (203.5002035002035 bpm)
+0: ch 0 off C5 64
+0: ch 0 on B4 54
+0: ch 0 on C4 42
+52: ch 0 cntl 64 127
+44: ch 0 off B4 64
+0: ch 0 on C5 54
+24: ch 0 off C4 64
+72: ch 0 off C5 64
+0: ch 0 on C#5 55
+48: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+48: ch 0 off C#5 64
+0: ch 0 on D5 56
+72: ch 0 off E4 64
+0: ch 0 off A#4 64
+0: ch 0 off G4 64
+24: ch 0 off D5 64
+0: ch 0 on D#5 56
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off D#5 64
+0: ch 0 on E5 57
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+18: ch 0 cntl 64 0
+53: ch 0 cntl 64 127
+49: ch 0 off A#4 64
+0: ch 0 off E5 64
+0: ch 0 off E4 64
+0: ch 0 off G4 64
+0: ch 0 on F5 58
+tempo 338028 msecs per qnote (177.50008875004437 bpm)
+0: ch 0 off F5 64
+0: ch 0 on F#5 59
+0: ch 0 on E4 31
+0: ch 0 on G4 31
+0: ch 0 on A#4 37
+120: ch 0 off A#4 64
+0: ch 0 off F#5 64
+0: ch 0 off E4 64
+0: ch 0 off G4 64
+0: ch 0 on G5 59
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off G5 64
+0: ch 0 on G#5 60
+0: ch 0 on C4 42
+0: ch 0 cntl 64 0
+54: ch 0 cntl 64 127
+66: ch 0 off C4 64
+0: ch 0 off G#5 64
+0: ch 0 on A5 61
+120: ch 0 off A5 64
+0: ch 0 on A#5 62
+0: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+0: ch 0 off A#5 64
+0: ch 0 on B5 62
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+0: ch 0 off B5 64
+0: ch 0 on C6 68
+0: ch 0 on F4 32
+0: ch 0 on G#4 38
+15: ch 0 cntl 64 0
+34: ch 0 cntl 64 127
+71: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C6 64
+0: ch 0 on F6 63
+0: ch 0 on F4 32
+0: ch 0 on G#4 38
+120: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 291971 msecs per qnote (205.49986128759363 bpm)
+0: ch 0 off F6 64
+0: ch 0 on D#6 65
+0: ch 0 on C4 42
+20: ch 0 cntl 64 0
+52: ch 0 cntl 64 127
+48: ch 0 off C4 64
+120: ch 0 off D#6 64
+0: ch 0 on D6 60
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+120: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+120: ch 0 off D6 64
+0: ch 0 on C6 66
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+8: ch 0 cntl 64 0
+49: ch 0 cntl 64 127
+63: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 313316 msecs per qnote (191.4999553166771 bpm)
+0: ch 0 off C6 64
+0: ch 0 on B5 60
+0: ch 0 on F4 31
+0: ch 0 on G#4 31
+0: ch 0 on B4 37
+120: ch 0 off B4 64
+0: ch 0 off G#4 64
+0: ch 0 off F4 64
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 off B5 64
+0: ch 0 on C6 69
+0: ch 0 on C4 36
+0: ch 0 on D#4 36
+0: ch 0 on G4 36
+0: ch 0 cntl 64 0
+7: ch 0 on C5 44
+85: ch 0 cntl 64 127
+28: ch 0 off C6 64
+0: ch 0 on D6 63
+120: ch 0 off D6 64
+0: ch 0 on C6 63
+120: ch 0 off C6 64
+0: ch 0 on B5 63
+120: ch 0 off B5 64
+0: ch 0 off C4 64
+0: ch 0 off G4 64
+0: ch 0 off D#4 64
+0: ch 0 on C6 69
+0: ch 0 cntl 64 0
+7: ch 0 off C5 64
+113: ch 0 off C6 64
+0: ch 0 on D#6 73
+120: ch 0 off D#6 64
+0: ch 0 on D6 72
+0: ch 0 on F#4 42
+63: ch 0 cntl 64 127
+tempo 366972 msecs per qnote (163.5002125502763 bpm)
+0: ch 0 off D6 64
+0: ch 0 on C6 71
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C6 64
+0: ch 0 off F#4 64
+0: ch 0 on B5 72
+0: ch 0 on G4 52
+9: ch 0 cntl 64 0
+77: ch 0 cntl 64 127
+34: ch 0 off B5 64
+0: ch 0 on C6 65
+120: ch 0 off C6 64
+0: ch 0 on B5 65
+120: ch 0 off B5 64
+0: ch 0 on G#5 65
+69: ch 0 cntl 64 0
+51: ch 0 off G#5 64
+0: ch 0 off G4 64
+0: ch 0 on G5 69
+120: ch 0 off G5 64
+0: ch 0 on F5 63
+120: ch 0 off F5 64
+0: ch 0 on D#5 63
+0: ch 0 on B3 48
+57: ch 0 cntl 64 127
+tempo 366972 msecs per qnote (163.5002125502763 bpm)
+0: ch 0 off D#5 64
+0: ch 0 on D5 63
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 off D5 64
+0: ch 0 off B3 64
+0: ch 0 on C5 69
+0: ch 0 on C4 57
+0: ch 0 cntl 64 0
+80: ch 0 cntl 64 127
+40: ch 0 off C5 64
+0: ch 0 on D5 63
+120: ch 0 off D5 64
+0: ch 0 on C5 63
+10: ch 0 cntl 64 0
+110: ch 0 off C5 64
+0: ch 0 on B4 61
+120: ch 0 off B4 64
+0: ch 0 off C4 64
+0: ch 0 on C5 66
+120: ch 0 off C5 64
+0: ch 0 on D#5 72
+120: ch 0 off D#5 64
+0: ch 0 on D5 70
+0: ch 0 on F#3 54
+34: ch 0 cntl 64 127
+tempo 368098 msecs per qnote (163.00007063336395 bpm)
+0: ch 0 off D5 64
+0: ch 0 on C5 67
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C5 64
+0: ch 0 off F#3 64
+0: ch 0 on B4 69
+0: ch 0 on G3 63
+9: ch 0 cntl 64 0
+111: ch 0 off B4 64
+0: ch 0 on C5 63
+17: ch 0 cntl 64 127
+103: ch 0 off C5 64
+0: ch 0 on B4 63
+10: ch 0 cntl 64 0
+110: ch 0 off B4 64
+0: ch 0 on G#4 63
+120: ch 0 off G#4 64
+0: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 on F4 63
+120: ch 0 off F4 64
+0: ch 0 on D#4 63
+0: ch 0 on B2 57
+69: ch 0 cntl 64 127
+tempo 366972 msecs per qnote (163.5002125502763 bpm)
+0: ch 0 off D#4 64
+0: ch 0 on D4 63
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off D4 64
+0: ch 0 off B2 64
+0: ch 0 on C4 77
+0: ch 0 on C3 66
+15: ch 0 cntl 64 0
+82: ch 0 cntl 64 127
+23: ch 0 off C4 64
+0: ch 0 on D4 69
+120: ch 0 off D4 64
+0: ch 0 on C4 69
+11: ch 0 cntl 64 0
+109: ch 0 off C4 64
+0: ch 0 on B3 69
+120: ch 0 off B3 64
+0: ch 0 off C3 64
+0: ch 0 on C4 77
+120: ch 0 off C4 64
+0: ch 0 on D#4 69
+120: ch 0 off D#4 64
+0: ch 0 on D4 69
+0: ch 0 on F#2 58
+46: ch 0 cntl 64 127
+tempo 365854 msecs per qnote (163.9998469334762 bpm)
+0: ch 0 off D4 64
+0: ch 0 on C4 69
+tempo 298507 msecs per qnote (201.0003115504829 bpm)
+0: ch 0 off C4 64
+0: ch 0 off F#2 64
+0: ch 0 on B3 77
+0: ch 0 on G2 67
+23: ch 0 cntl 64 0
+92: ch 0 cntl 64 127
+5: ch 0 off B3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 on D4 69
+120: ch 0 off D4 64
+0: ch 0 on B3 69
+120: ch 0 off B3 64
+0: ch 0 off G2 64
+0: ch 0 on G3 79
+0: ch 0 on C2 82
+0: ch 0 on C3 96
+6: ch 0 cntl 64 0
+74: ch 0 cntl 64 127
+40: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off C3 64
+0: ch 0 off C2 64
+0: ch 0 on D#4 69
+120: ch 0 off D#4 64
+0: ch 0 on C4 69
+120: ch 0 off C4 64
+0: ch 0 on G3 81
+0: ch 0 on G1 55
+0: ch 0 on G2 66
+0: ch 0 cntl 64 0
+69: ch 0 cntl 64 127
+51: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off G2 64
+0: ch 0 off G1 64
+0: ch 0 on D4 69
+14: ch 0 cntl 64 0
+43: ch 0 cntl 64 127
+63: ch 0 off D4 64
+0: ch 0 on B3 69
+120: ch 0 off B3 64
+0: ch 0 on G3 80
+0: ch 0 on C2 82
+0: ch 0 on C3 97
+19: ch 0 cntl 64 0
+67: ch 0 cntl 64 127
+34: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off C3 64
+0: ch 0 off C2 64
+0: ch 0 on D#4 69
+13: ch 0 cntl 64 0
+67: ch 0 cntl 64 127
+40: ch 0 off D#4 64
+0: ch 0 on C4 69
+120: ch 0 off C4 64
+0: ch 0 on G3 80
+0: ch 0 on G1 57
+0: ch 0 on G2 68
+20: ch 0 cntl 64 0
+60: ch 0 cntl 64 127
+40: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off G2 64
+0: ch 0 off G1 64
+0: ch 0 on D4 69
+17: ch 0 cntl 64 0
+80: ch 0 cntl 64 127
+23: ch 0 off D4 64
+0: ch 0 on B3 69
+120: ch 0 off B3 64
+0: ch 0 on G3 80
+0: ch 0 on C2 82
+0: ch 0 on C3 97
+17: ch 0 cntl 64 0
+75: ch 0 cntl 64 127
+28: ch 0 off G3 64
+0: ch 0 on G4 69
+120: ch 0 off G4 64
+0: ch 0 off C3 64
+0: ch 0 off C2 64
+0: ch 0 on D#4 69
+15: ch 0 cntl 64 0
+100: ch 0 cntl 64 127
+tempo 358209 msecs per qnote (167.4999790625026 bpm)
+0: ch 0 off D#4 64
+0: ch 0 on C4 69
+tempo 597015 msecs per qnote (100.49998743750157 bpm)
+0: ch 0 off C4 64
+0: ch 0 on G3 74
+0: ch 0 on B3 74
+0: ch 0 on D4 74
+0: ch 0 on G4 89
+0: ch 0 on G1 66
+0: ch 0 on B1 66
+0: ch 0 on D2 66
+0: ch 0 on G2 78
+0: ch 0 cntl 64 0
+960: ch 0 off G2 64
+0: ch 0 off G3 64
+0: ch 0 off G1 64
+0: ch 0 off B3 64
+0: ch 0 off D4 64
+0: ch 0 off G4 64
+0: ch 0 off B1 64
+0: ch 0 off D2 64
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+0: ch 0 on G4 40
+120: ch 0 off G4 64
+120: ch 0 on A4 37
+120: ch 0 off A4 64
+120: ch 0 on B4 37
+120: ch 0 off B4 64
+120: ch 0 on E4 39
+0: ch 0 on G4 39
+0: ch 0 on C5 46
+0: ch 0 on G3 26
+0: ch 0 on C3 26
+0: ch 0 on C4 31
+120: ch 0 off C5 64
+120: ch 0 on D5 40
+120: ch 0 off D5 64
+tempo 326087 msecs per qnote (183.99997546666995 bpm)
+0: ch 0 on E5 40
+120: ch 0 off E5 64
+tempo 320000 msecs per qnote (187.5 bpm)
+0: ch 0 off G4 64
+0: ch 0 off G3 64
+0: ch 0 off E4 64
+0: ch 0 off C4 64
+0: ch 0 off C3 64
+0: ch 0 on D4 38
+0: ch 0 on G4 38
+0: ch 0 on D5 45
+0: ch 0 on G3 25
+0: ch 0 on F3 25
+0: ch 0 on B3 30
+120: ch 0 off B3 64
+0: ch 0 off G4 64
+0: ch 0 off D5 64
+0: ch 0 off D4 64
+0: ch 0 off F3 64
+0: ch 0 off G3 64
+360: ch 0 on E4 33
+0: ch 0 on G4 33
+0: ch 0 on C5 39
+0: ch 0 on E3 23
+0: ch 0 on G3 23
+0: ch 0 on C4 27
+120: ch 0 off C4 64
+0: ch 0 off G4 64
+0: ch 0 off C5 64
+0: ch 0 off E4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+tempo 390879 msecs per qnote (153.50018803773034 bpm)
+tempo 319149 msecs per qnote (187.99996240000752 bpm)
+0: ch 0 on F4 37
+0: ch 0 on G4 37
+0: ch 0 on B4 37
+0: ch 0 on F5 45
+0: ch 0 on G3 27
+0: ch 0 on D3 27
+0: ch 0 on D4 32
+960: ch 0 off D4 64
+0: ch 0 off G3 64
+0: ch 0 off G4 64
+0: ch 0 off B4 64
+0: ch 0 off F4 64
+0: ch 0 off D3 64
+0: ch 0 off F5 64
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+0: ch 0 on G4 40
+120: ch 0 off G4 64
+120: ch 0 on A4 37
+120: ch 0 off A4 64
+120: ch 0 on B4 37
+120: ch 0 off B4 64
+120: ch 0 on E4 39
+0: ch 0 on G4 39
+0: ch 0 on C5 46
+0: ch 0 on G3 26
+0: ch 0 on C3 26
+0: ch 0 on C4 31
+120: ch 0 off C5 64
+120: ch 0 on D5 40
+120: ch 0 off D5 64
+tempo 326087 msecs per qnote (183.99997546666995 bpm)
+0: ch 0 on E5 40
+120: ch 0 off E5 64
+tempo 320000 msecs per qnote (187.5 bpm)
+0: ch 0 off G4 64
+0: ch 0 off G3 64
+0: ch 0 off E4 64
+0: ch 0 off C4 64
+0: ch 0 off C3 64
+0: ch 0 on D4 38
+0: ch 0 on A4 38
+0: ch 0 on D5 45
+0: ch 0 on F3 25
+0: ch 0 on A3 30
+120: ch 0 off A3 64
+0: ch 0 off D5 64
+0: ch 0 off D4 64
+0: ch 0 off A4 64
+0: ch 0 off F3 64
+360: ch 0 on A4 33
+0: ch 0 on D4 33
+0: ch 0 on C5 39
+0: ch 0 on F#3 23
+0: ch 0 on A3 27
+120: ch 0 off A3 64
+0: ch 0 off C5 64
+0: ch 0 off A4 64
+0: ch 0 off D4 64
+0: ch 0 off F#3 64
+tempo 390879 msecs per qnote (153.50018803773034 bpm)
+tempo 320000 msecs per qnote (187.5 bpm)
+0: ch 0 on B3 31
+0: ch 0 on D4 31
+0: ch 0 on G4 37
+0: ch 0 on G2 22
+0: ch 0 on G3 27
+960: ch 0 off G3 64
+0: ch 0 off G4 64
+0: ch 0 off B3 64
+0: ch 0 off D4 64
+0: ch 0 off G2 64
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+0: ch 0 on G4 40
+120: ch 0 off G4 64
+120: ch 0 on A4 37
+120: ch 0 off A4 64
+120: ch 0 on B4 37
+120: ch 0 off B4 64
+120: ch 0 on E4 39
+0: ch 0 on G4 39
+0: ch 0 on C5 46
+0: ch 0 on G3 26
+0: ch 0 on C3 26
+0: ch 0 on C4 31
+120: ch 0 off C5 64
+120: ch 0 on D5 40
+120: ch 0 off D5 64
+tempo 326087 msecs per qnote (183.99997546666995 bpm)
+0: ch 0 on E5 40
+120: ch 0 off E5 64
+tempo 320000 msecs per qnote (187.5 bpm)
+0: ch 0 off G4 64
+0: ch 0 off G3 64
+0: ch 0 off E4 64
+0: ch 0 off C4 64
+0: ch 0 off C3 64
+0: ch 0 on D4 38
+0: ch 0 on G4 38
+0: ch 0 on D5 45
+0: ch 0 on G3 25
+0: ch 0 on F3 25
+0: ch 0 on B3 30
+120: ch 0 off B3 64
+0: ch 0 off G4 64
+0: ch 0 off D5 64
+0: ch 0 off D4 64
+0: ch 0 off F3 64
+0: ch 0 off G3 64
+360: ch 0 on E4 33
+0: ch 0 on G4 33
+0: ch 0 on C5 39
+0: ch 0 on G3 23
+0: ch 0 on E3 23
+0: ch 0 on C4 27
+120: ch 0 off C4 64
+0: ch 0 off G4 64
+0: ch 0 off C5 64
+0: ch 0 off E4 64
+0: ch 0 off E3 64
+0: ch 0 off G3 64
+tempo 502092 msecs per qnote (119.5000119500012 bpm)
+tempo 353982 msecs per qnote (169.50014407512248 bpm)
+15: ch 0 on F3 28
+15: ch 0 on A3 32
+15: ch 0 on C4 36
+15: ch 0 on F4 40
+15: ch 0 on A4 45
+15: ch 0 on C5 50
+15: ch 0 on F5 71
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 on A5 80
+480: ch 0 off F4 64
+0: ch 0 off C4 64
+0: ch 0 off F3 64
+0: ch 0 off A3 64
+480: ch 0 off A4 64
+0: ch 0 off F5 64
+0: ch 0 off C5 64
+240: ch 0 off A5 64
+0: ch 0 on A5 48
+120: ch 0 off A5 64
+120: ch 0 on G5 53
+120: ch 0 off G5 64
+tempo 349854 msecs per qnote (171.50011147507246 bpm)
+0: ch 0 on F5 50
+120: ch 0 off F5 64
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+0: ch 0 on E5 53
+0: ch 0 on G3 80
+240: ch 0 off E5 64
+0: ch 0 on D5 48
+240: ch 0 off D5 64
+0: ch 0 on C5 48
+120: ch 0 off C5 64
+120: ch 0 on B4 48
+120: ch 0 off B4 64
+120: ch 0 on D4 45
+0: ch 0 on F4 45
+0: ch 0 on A4 53
+240: ch 0 on G2 49
+120: ch 0 off G2 64
+120: ch 0 off A4 64
+0: ch 0 on G4 49
+0: ch 0 on A2 53
+120: ch 0 off A2 64
+tempo 319149 msecs per qnote (187.99996240000752 bpm)
+0: ch 0 on B2 45
+120: ch 0 off B2 64
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+0: ch 0 off G4 64
+0: ch 0 off F4 64
+0: ch 0 off D4 64
+0: ch 0 on C4 41
+0: ch 0 on E4 41
+0: ch 0 on G4 49
+0: ch 0 on C3 53
+120: ch 0 off C3 64
+120: ch 0 on D3 49
+120: ch 0 off D3 64
+120: ch 0 on E3 51
+120: ch 0 off E3 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+0: ch 0 off E4 64
+0: ch 0 off G4 64
+0: ch 0 off C4 64
+0: ch 0 on D3 53
+240: ch 0 on G5 48
+120: ch 0 off G5 64
+120: ch 0 off D3 64
+0: ch 0 on F5 53
+0: ch 0 on C3 50
+120: ch 0 off F5 64
+tempo 339943 msecs per qnote (176.5001779710128 bpm)
+0: ch 0 on E5 50
+120: ch 0 off E5 64
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+0: ch 0 off C3 64
+0: ch 0 off G3 64
+0: ch 0 on E5 53
+0: ch 0 on G3 80
+240: ch 0 off E5 64
+0: ch 0 on D5 48
+240: ch 0 off D5 64
+0: ch 0 on C5 48
+120: ch 0 off C5 64
+120: ch 0 on B4 48
+120: ch 0 off B4 64
+120: ch 0 on D4 45
+0: ch 0 on F4 45
+0: ch 0 on G#4 53
+240: ch 0 on G2 49
+120: ch 0 off G2 64
+120: ch 0 off G#4 64
+0: ch 0 on G4 49
+0: ch 0 on A2 53
+120: ch 0 off A2 64
+tempo 315789 msecs per qnote (190.0002850004275 bpm)
+0: ch 0 on B2 45
+120: ch 0 off B2 64
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+0: ch 0 off G4 64
+0: ch 0 off F4 64
+0: ch 0 off D4 64
+0: ch 0 on C4 54
+0: ch 0 on D#4 54
+0: ch 0 on G4 54
+0: ch 0 on C3 53
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+0: ch 0 off C3 64
+120: ch 0 on D3 49
+120: ch 0 off D3 64
+120: ch 0 on D#3 51
+120: ch 0 off D#3 64
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off D#4 64
+0: ch 0 off G4 64
+0: ch 0 off C4 64
+0: ch 0 on D3 53
+240: ch 0 on G5 48
+0: ch 0 on G4 48
+120: ch 0 off G4 64
+0: ch 0 off G5 64
+120: ch 0 off D3 64
+0: ch 0 on F5 53
+0: ch 0 on F4 53
+0: ch 0 on C3 50
+120: ch 0 off F4 64
+0: ch 0 off F5 64
+tempo 320856 msecs per qnote (186.9997756002693 bpm)
+0: ch 0 on D#5 50
+0: ch 0 on D#4 50
+120: ch 0 off D#4 64
+0: ch 0 off D#5 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 off G3 64
+0: ch 0 off C3 64
+0: ch 0 on D#5 55
+0: ch 0 on D#4 55
+0: ch 0 on D3 45
+0: ch 0 on F3 53
+0: ch 0 on F2 45
+0: ch 0 on G#2 45
+240: ch 0 off D#4 64
+0: ch 0 off D#5 64
+0: ch 0 on D5 48
+0: ch 0 on D4 48
+240: ch 0 off D4 64
+0: ch 0 off G#2 64
+0: ch 0 off D3 64
+0: ch 0 off F3 64
+0: ch 0 off D5 64
+0: ch 0 off F2 64
+0: ch 0 on C5 48
+0: ch 0 on C4 48
+120: ch 0 off C4 64
+0: ch 0 off C5 64
+120: ch 0 on B4 48
+0: ch 0 on B3 48
+120: ch 0 off B3 64
+0: ch 0 off B4 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+0: ch 0 on G#3 55
+0: ch 0 on G#4 55
+0: ch 0 on B2 42
+0: ch 0 on G2 42
+0: ch 0 on D3 42
+0: ch 0 on F3 50
+120: ch 0 off G#4 64
+0: ch 0 off G#3 64
+120: ch 0 on G3 48
+0: ch 0 on G4 48
+120: ch 0 off G4 64
+0: ch 0 off G3 64
+120: ch 0 off B2 64
+0: ch 0 off G2 64
+0: ch 0 off F3 64
+0: ch 0 off D3 64
+0: ch 0 on A3 48
+0: ch 0 on A4 48
+120: ch 0 off A4 64
+0: ch 0 off A3 64
+tempo 326975 msecs per qnote (183.5002676045569 bpm)
+0: ch 0 on B3 48
+0: ch 0 on B4 48
+120: ch 0 off B4 64
+0: ch 0 off B3 64
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 on C4 49
+0: ch 0 on C5 58
+0: ch 0 on D#3 58
+0: ch 0 on C3 49
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+10: ch 0 cntl 64 127
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+10: ch 0 off C3 64
+0: ch 0 off D#3 64
+0: ch 0 on G3 48
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+10: ch 0 off G3 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+70: ch 0 off C5 64
+0: ch 0 off C4 64
+0: ch 0 on G3 48
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+10: ch 0 off G3 64
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 on C5 54
+0: ch 0 on G3 48
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off G3 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off C5 64
+0: ch 0 on B4 60
+0: ch 0 on G3 54
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+12: ch 0 cntl 64 0
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+0: ch 0 cntl 64 127
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+40: ch 0 off G3 64
+0: ch 0 off B4 64
+0: ch 0 on C5 55
+0: ch 0 on G3 47
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+10: ch 0 off G3 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off C5 64
+0: ch 0 on D5 52
+0: ch 0 on F5 62
+0: ch 0 on B2 47
+3: ch 0 cntl 64 0
+89: ch 0 cntl 64 127
+28: ch 0 off B2 64
+0: ch 0 off F5 64
+0: ch 0 off D5 64
+tempo 316623 msecs per qnote (189.49981523768014 bpm)
+0: ch 0 on D5 48
+0: ch 0 on F5 57
+0: ch 0 on G3 47
+120: ch 0 off G3 64
+0: ch 0 off F5 64
+0: ch 0 off D5 64
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 on C5 55
+0: ch 0 on D#5 65
+0: ch 0 on C3 63
+0: ch 0 cntl 64 0
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+10: ch 0 cntl 64 127
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+10: ch 0 off C3 64
+0: ch 0 on G3 52
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+10: ch 0 off G3 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+70: ch 0 off D#5 64
+0: ch 0 off C5 64
+0: ch 0 on G3 52
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+10: ch 0 off G3 64
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 on C5 61
+0: ch 0 on G3 52
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off G3 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off C5 64
+0: ch 0 on B4 68
+0: ch 0 on G3 59
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+2: ch 0 cntl 64 0
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+11: ch 0 cntl 64 127
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+40: ch 0 off G3 64
+0: ch 0 off B4 64
+0: ch 0 on C5 63
+0: ch 0 on G3 52
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+10: ch 0 off G3 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+10: ch 0 off C5 64
+0: ch 0 on F5 58
+0: ch 0 on G#5 69
+0: ch 0 on B2 52
+13: ch 0 cntl 64 0
+84: ch 0 cntl 64 127
+23: ch 0 off B2 64
+0: ch 0 off G#5 64
+0: ch 0 off F5 64
+tempo 316623 msecs per qnote (189.49981523768014 bpm)
+0: ch 0 on F5 54
+0: ch 0 on G#5 64
+0: ch 0 on G3 52
+120: ch 0 off G3 64
+0: ch 0 off G#5 64
+0: ch 0 off F5 64
+120: ch 0 on D#5 70
+0: ch 0 on G5 70
+0: ch 0 on C3 69
+0: ch 0 cntl 64 0
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+21: ch 0 cntl 64 127
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+27: ch 0 off C3 64
+0: ch 0 on G3 55
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+57: ch 0 off G3 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+27: ch 0 off G5 64
+0: ch 0 off D#5 64
+0: ch 0 on G3 55
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+27: ch 0 off G3 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+57: ch 0 on C6 74
+0: ch 0 on G3 55
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+57: ch 0 off G3 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+87: ch 0 off C6 64
+0: ch 0 on B5 84
+0: ch 0 on G3 71
+18: ch 0 cntl 64 0
+44: ch 0 cntl 64 127
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+87: ch 0 off G3 64
+0: ch 0 off B5 64
+0: ch 0 on C6 77
+0: ch 0 on G3 62
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+tempo 342661 msecs per qnote (175.10017189000206 bpm)
+0: ch 0 off G3 64
+tempo 409277 msecs per qnote (146.59997996466942 bpm)
+0: ch 0 off C6 64
+0: ch 0 on F6 94
+0: ch 0 on D6 94
+0: ch 0 on B2 57
+0: ch 0 on D3 57
+0: ch 0 on F3 57
+0: ch 0 on G3 68
+8: ch 0 cntl 64 0
+54: ch 0 cntl 64 127
+58: ch 0 off G3 64
+0: ch 0 off D6 64
+0: ch 0 off B2 64
+0: ch 0 off F6 64
+0: ch 0 off F3 64
+0: ch 0 off D3 64
+tempo 526316 msecs per qnote (113.99995440001824 bpm)
+0: ch 0 on D6 86
+0: ch 0 on F6 86
+0: ch 0 on B2 58
+0: ch 0 on D3 58
+0: ch 0 on F3 58
+0: ch 0 on G3 69
+120: ch 0 off G3 64
+0: ch 0 off F6 64
+0: ch 0 off B2 64
+0: ch 0 off D6 64
+0: ch 0 off F3 64
+0: ch 0 off D3 64
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+0: ch 0 on D6 101
+0: ch 0 on F6 101
+0: ch 0 on G3 72
+0: ch 0 on B2 53
+0: ch 0 on D3 53
+0: ch 0 on F3 53
+0: ch 0 cntl 64 0
+0: ch 0 cntl 64 0
+149: ch 0 cntl 64 127
+331: ch 0 off D6 64
+120: ch 0 off F6 64
+0: ch 0 on D#6 74
+120: ch 0 off D#6 64
+0: ch 0 on D6 73
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+107: ch 0 off D6 64
+0: ch 0 on C6 72
+120: ch 0 off C6 64
+0: ch 0 on B5 72
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+47: ch 0 off B5 64
+0: ch 0 on C6 72
+120: ch 0 off C6 64
+0: ch 0 on D6 71
+120: ch 0 off D6 64
+0: ch 0 on C6 70
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+107: ch 0 off C6 64
+0: ch 0 on B5 69
+120: ch 0 off B5 64
+0: ch 0 on G#5 68
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+47: ch 0 off G#5 64
+0: ch 0 on G5 67
+120: ch 0 off G5 64
+0: ch 0 on F5 66
+120: ch 0 off F5 64
+0: ch 0 off G3 64
+0: ch 0 off B2 64
+0: ch 0 off F3 64
+0: ch 0 off D3 64
+0: ch 0 on D#5 66
+0: ch 0 on C3 49
+0: ch 0 on D#3 49
+0: ch 0 on G3 66
+0: ch 0 cntl 64 0
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+147: ch 0 off D#5 64
+0: ch 0 on F5 62
+24: ch 0 cntl 64 127
+136: ch 0 off F5 64
+0: ch 0 on G5 62
+160: ch 0 off G5 64
+0: ch 0 off C3 64
+0: ch 0 off D#3 64
+0: ch 0 off G3 64
+0: ch 0 on F5 66
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+27: ch 0 off F5 64
+0: ch 0 on D#5 62
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+67: ch 0 off D#5 64
+0: ch 0 on D5 62
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+107: ch 0 off D5 64
+0: ch 0 on C5 66
+5: ch 0 cntl 64 0
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+65: ch 0 cntl 64 127
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+27: ch 0 off C5 64
+0: ch 0 on A#4 62
+160: ch 0 off A#4 64
+0: ch 0 on G#4 62
+160: ch 0 off G#4 64
+0: ch 0 on G4 66
+160: ch 0 off G4 64
+0: ch 0 on F4 60
+tempo 318302 msecs per qnote (188.5002293419457 bpm)
+80: ch 0 off F4 64
+0: ch 0 on D#4 63
+tempo 320856 msecs per qnote (186.9997756002693 bpm)
+0: ch 0 off D#4 64
+0: ch 0 on F2 73
+0: ch 0 cntl 64 0
+92: ch 0 cntl 64 127
+28: ch 0 on D4 59
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off D4 64
+0: ch 0 off F2 64
+0: ch 0 on F4 63
+120: ch 0 off F4 64
+0: ch 0 on G#4 67
+120: ch 0 off G#4 64
+0: ch 0 on D5 72
+16: ch 0 cntl 64 0
+224: ch 0 off D5 64
+0: ch 0 on F3 63
+120: ch 0 off F3 64
+tempo 318302 msecs per qnote (188.5002293419457 bpm)
+0: ch 0 on G2 70
+78: ch 0 cntl 64 127
+42: ch 0 on B3 63
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off B3 64
+0: ch 0 off G2 64
+0: ch 0 on D4 66
+120: ch 0 off D4 64
+0: ch 0 on F4 69
+120: ch 0 off F4 64
+0: ch 0 on B4 72
+14: ch 0 cntl 64 0
+tempo 324324 msecs per qnote (185.000185000185 bpm)
+0: ch 0 off B4 64
+0: ch 0 on G3 63
+120: ch 0 off G3 64
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+22: ch 0 on B4 67
+0: ch 0 cntl 64 127
+120: ch 0 off B4 64
+0: ch 0 on B5 60
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+82: ch 0 off B5 64
+0: ch 0 on B4 67
+0: ch 0 on F4 63
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+52: ch 0 off F4 64
+0: ch 0 off B4 64
+0: ch 0 on B5 60
+0: ch 0 on G4 65
+120: ch 0 off G4 64
+0: ch 0 off B5 64
+0: ch 0 on B4 67
+0: ch 0 on G#4 69
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+112: ch 0 off G#4 64
+0: ch 0 off B4 64
+0: ch 0 on B5 59
+0: ch 0 on G4 67
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+82: ch 0 off G4 64
+0: ch 0 off B5 64
+0: ch 0 on B4 67
+0: ch 0 on F4 65
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+82: ch 0 off F4 64
+0: ch 0 off B4 64
+0: ch 0 on B5 61
+0: ch 0 on D#4 64
+120: ch 0 off D#4 64
+0: ch 0 off B5 64
+0: ch 0 on B4 67
+0: ch 0 on D4 67
+120: ch 0 off B4 64
+0: ch 0 on B5 59
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+32: ch 0 off D4 64
+0: ch 0 on C4 61
+80: ch 0 off B5 64
+0: ch 0 on B4 67
+80: ch 0 off C4 64
+0: ch 0 on B3 61
+40: ch 0 off B4 64
+0: ch 0 on B5 59
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+22: ch 0 off B5 64
+0: ch 0 off B3 64
+0: ch 0 on B4 67
+0: ch 0 on G#3 67
+120: ch 0 off B4 64
+0: ch 0 on B5 59
+40: ch 0 off G#3 64
+0: ch 0 on G3 62
+80: ch 0 off B5 64
+0: ch 0 on B4 67
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+12: ch 0 off G3 64
+0: ch 0 on F3 62
+40: ch 0 off B4 64
+0: ch 0 on B5 60
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 off B5 64
+0: ch 0 off F3 64
+0: ch 0 on C5 67
+0: ch 0 on D#3 67
+12: ch 0 cntl 64 0
+80: ch 0 cntl 64 127
+28: ch 0 off C5 64
+0: ch 0 on C6 60
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+2: ch 0 off D#3 64
+0: ch 0 on F3 63
+80: ch 0 off C6 64
+0: ch 0 on C5 69
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+12: ch 0 off F3 64
+0: ch 0 on G3 63
+40: ch 0 off C5 64
+0: ch 0 on C6 62
+120: ch 0 off C6 64
+0: ch 0 off G3 64
+0: ch 0 on C5 71
+0: ch 0 on F3 67
+tempo 306122 msecs per qnote (196.0002874670883 bpm)
+112: ch 0 off C5 64
+0: ch 0 on C6 63
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+2: ch 0 off F3 64
+0: ch 0 on D#3 60
+80: ch 0 off C6 64
+0: ch 0 on C5 72
+tempo 303030 msecs per qnote (198.000198000198 bpm)
+42: ch 0 off D#3 64
+0: ch 0 on D3 60
+40: ch 0 off C5 64
+0: ch 0 on C6 67
+120: ch 0 off C6 64
+0: ch 0 off D3 64
+0: ch 0 on C5 75
+0: ch 0 on C3 70
+19: ch 0 cntl 64 0
+90: ch 0 cntl 64 127
+11: ch 0 off C5 64
+0: ch 0 on C6 67
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+32: ch 0 off C3 64
+0: ch 0 on A#2 63
+80: ch 0 off C6 64
+0: ch 0 on C5 77
+80: ch 0 off A#2 64
+0: ch 0 on G#2 66
+40: ch 0 off C5 64
+0: ch 0 on C6 69
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+22: ch 0 off C6 64
+0: ch 0 off G#2 64
+0: ch 0 on C5 80
+0: ch 0 on G2 74
+20: ch 0 cntl 64 0
+100: ch 0 off C5 64
+0: ch 0 on C6 71
+0: ch 0 cntl 64 127
+40: ch 0 off G2 64
+0: ch 0 on F2 67
+80: ch 0 off C6 64
+0: ch 0 on C5 81
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+12: ch 0 off F2 64
+0: ch 0 on D#2 67
+40: ch 0 off C5 64
+0: ch 0 on C6 73
+tempo 320856 msecs per qnote (186.9997756002693 bpm)
+0: ch 0 off C6 64
+0: ch 0 off D#2 64
+0: ch 0 on F1 73
+0: ch 0 on F2 73
+0: ch 0 cntl 64 0
+92: ch 0 cntl 64 127
+28: ch 0 on F5 71
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off F5 64
+0: ch 0 off F2 64
+0: ch 0 off F1 64
+0: ch 0 on G#5 76
+120: ch 0 off G#5 64
+0: ch 0 on D6 81
+120: ch 0 off D6 64
+0: ch 0 on F6 86
+16: ch 0 cntl 64 0
+224: ch 0 off F6 64
+0: ch 0 on F1 63
+0: ch 0 on F2 63
+120: ch 0 off F2 64
+0: ch 0 off F1 64
+tempo 318302 msecs per qnote (188.5002293419457 bpm)
+0: ch 0 on G1 70
+0: ch 0 on G2 70
+78: ch 0 cntl 64 127
+42: ch 0 on D5 75
+tempo 306905 msecs per qnote (195.5002362294521 bpm)
+0: ch 0 off D5 64
+0: ch 0 off G2 64
+0: ch 0 off G1 64
+0: ch 0 on F5 79
+120: ch 0 off F5 64
+0: ch 0 on B5 82
+120: ch 0 off B5 64
+0: ch 0 on D6 86
+14: ch 0 cntl 64 0
+tempo 324324 msecs per qnote (185.000185000185 bpm)
+0: ch 0 off D6 64
+0: ch 0 on G1 63
+0: ch 0 on G2 63
+120: ch 0 off G2 64
+0: ch 0 off G1 64
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 on C5 80
+0: ch 0 on G5 80
+0: ch 0 on D#5 80
+0: ch 0 on C6 94
+0: ch 0 on C2 59
+0: ch 0 on D#2 59
+0: ch 0 on G2 59
+0: ch 0 on C3 70
+tempo 297767 msecs per qnote (201.49983040430942 bpm)
+0: ch 0 off C3 64
+0: ch 0 off C5 64
+0: ch 0 off C2 64
+0: ch 0 off G5 64
+0: ch 0 off D#5 64
+0: ch 0 off C6 64
+0: ch 0 off D#2 64
+0: ch 0 off G2 64
+0: ch 0 on G5 63
+0: ch 0 on C#4 53
+0: ch 0 on E4 63
+120: ch 0 off E4 64
+0: ch 0 off C#4 64
+0: ch 0 off G5 64
+tempo 314136 msecs per qnote (191.00007640003057 bpm)
+0: ch 0 on G5 63
+0: ch 0 on C#4 53
+0: ch 0 on E4 63
+120: ch 0 off E4 64
+0: ch 0 off C#4 64
+0: ch 0 off G5 64
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+0: ch 0 on G5 70
+0: ch 0 on D4 59
+0: ch 0 on F4 70
+240: ch 0 off F4 64
+0: ch 0 off D4 64
+0: ch 0 off G5 64
+tempo 297767 msecs per qnote (201.49983040430942 bpm)
+0: ch 0 on G5 63
+0: ch 0 on C#4 53
+0: ch 0 on E4 63
+120: ch 0 off E4 64
+0: ch 0 off C#4 64
+0: ch 0 off G5 64
+tempo 314136 msecs per qnote (191.00007640003057 bpm)
+0: ch 0 on G5 63
+0: ch 0 on C#4 53
+0: ch 0 on E4 63
+120: ch 0 off E4 64
+0: ch 0 off C#4 64
+0: ch 0 off G5 64
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 on G5 69
+0: ch 0 on D4 59
+0: ch 0 on F4 70
+240: ch 0 off F4 64
+0: ch 0 off D4 64
+0: ch 0 off G5 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 on D3 60
+0: ch 0 on F3 60
+0: ch 0 on B3 72
+0: ch 0 on G1 63
+0: ch 0 on G2 74
+240: ch 0 off G2 64
+0: ch 0 off B3 64
+0: ch 0 off D3 64
+0: ch 0 off F3 64
+0: ch 0 off G1 64
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+0: ch 0 on D3 33
+0: ch 0 on F3 33
+0: ch 0 on B3 39
+0: ch 0 on G1 30
+0: ch 0 on G2 36
+120: ch 0 off G2 64
+0: ch 0 off B3 64
+0: ch 0 off D3 64
+0: ch 0 off F3 64
+0: ch 0 off G1 64
+tempo 305344 msecs per qnote (196.49968560050303 bpm)
+0: ch 0 on C3 37
+0: ch 0 on D#3 37
+0: ch 0 on C4 45
+0: ch 0 on G#1 32
+0: ch 0 on G#2 38
+120: ch 0 off G#2 64
+0: ch 0 off C4 64
+0: ch 0 off C3 64
+0: ch 0 off D#3 64
+0: ch 0 off G#1 64
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+0: ch 0 on A3 35
+0: ch 0 on C4 35
+0: ch 0 on D4 41
+0: ch 0 on F#1 30
+0: ch 0 on F#2 36
+120: ch 0 off F#2 64
+0: ch 0 off D4 64
+0: ch 0 off A3 64
+0: ch 0 off C4 64
+0: ch 0 off F#1 64
+360: ch 0 on G3 37
+0: ch 0 on C4 37
+0: ch 0 on D#4 45
+0: ch 0 on G1 32
+0: ch 0 on G2 38
+120: ch 0 off G2 64
+0: ch 0 off D#4 64
+0: ch 0 off G3 64
+0: ch 0 off C4 64
+0: ch 0 off G1 64
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+0: ch 0 on F3 33
+0: ch 0 on B3 33
+0: ch 0 on D4 39
+0: ch 0 on G1 27
+0: ch 0 on G2 33
+120: ch 0 off G2 64
+0: ch 0 off D4 64
+0: ch 0 off F3 64
+0: ch 0 off B3 64
+0: ch 0 off G1 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 on D#3 37
+0: ch 0 on G3 37
+0: ch 0 on C4 45
+0: ch 0 on C2 32
+0: ch 0 on C3 38
+120: ch 0 off C3 64
+0: ch 0 off C4 64
+0: ch 0 off D#3 64
+0: ch 0 off G3 64
+0: ch 0 off C2 64
+tempo 297767 msecs per qnote (201.49983040430942 bpm)
+0: ch 0 on G5 63
+0: ch 0 on C#4 53
+0: ch 0 on E4 63
+120: ch 0 off E4 64
+0: ch 0 off C#4 64
+0: ch 0 off G5 64
+0: ch 0 on G#5 59
+tempo 314136 msecs per qnote (191.00007640003057 bpm)
+0: ch 0 off G#5 64
+0: ch 0 on G5 63
+0: ch 0 on C#4 53
+0: ch 0 on E4 63
+120: ch 0 off E4 64
+0: ch 0 off C#4 64
+0: ch 0 off G5 64
+0: ch 0 on F#5 59
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+0: ch 0 off F#5 64
+0: ch 0 on G5 70
+0: ch 0 on D4 59
+0: ch 0 on F4 70
+240: ch 0 off F4 64
+0: ch 0 off D4 64
+0: ch 0 off G5 64
+tempo 297767 msecs per qnote (201.49983040430942 bpm)
+0: ch 0 on G5 63
+0: ch 0 on C#4 53
+0: ch 0 on E4 63
+120: ch 0 off E4 64
+0: ch 0 off C#4 64
+0: ch 0 off G5 64
+0: ch 0 on G#5 58
+tempo 314136 msecs per qnote (191.00007640003057 bpm)
+0: ch 0 off G#5 64
+0: ch 0 on G5 63
+0: ch 0 on E4 53
+0: ch 0 on C#4 63
+120: ch 0 off C#4 64
+0: ch 0 off E4 64
+0: ch 0 off G5 64
+0: ch 0 on F#5 57
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 off F#5 64
+0: ch 0 on G5 69
+0: ch 0 on D4 59
+0: ch 0 on F4 70
+240: ch 0 off F4 64
+0: ch 0 off D4 64
+0: ch 0 off G5 64
+tempo 320000 msecs per qnote (187.5 bpm)
+0: ch 0 on D3 60
+0: ch 0 on F3 60
+0: ch 0 on B3 72
+0: ch 0 on G1 63
+0: ch 0 on G2 74
+240: ch 0 off G2 64
+0: ch 0 off B3 64
+0: ch 0 off D3 64
+0: ch 0 off F3 64
+0: ch 0 off G1 64
+tempo 308483 msecs per qnote (194.50018315433914 bpm)
+0: ch 0 on C3 55
+0: ch 0 on D#3 55
+0: ch 0 on F#3 55
+0: ch 0 on C4 66
+0: ch 0 on G#1 55
+0: ch 0 on C2 55
+0: ch 0 on D#2 55
+0: ch 0 on G#2 65
+tempo 307692 msecs per qnote (195.000195000195 bpm)
+tempo 302267 msecs per qnote (198.50000165416668 bpm)
+0: ch 0 off G#2 64
+0: ch 0 off C3 64
+0: ch 0 off G#1 64
+0: ch 0 off D#3 64
+0: ch 0 off F#3 64
+0: ch 0 off C4 64
+0: ch 0 off C2 64
+0: ch 0 off D#2 64
+0: ch 0 on A3 35
+0: ch 0 on C4 35
+0: ch 0 on D4 41
+0: ch 0 on F#1 30
+0: ch 0 on F#2 36
+120: ch 0 off F#2 64
+0: ch 0 off D4 64
+0: ch 0 off A3 64
+0: ch 0 off C4 64
+0: ch 0 off F#1 64
+360: ch 0 on G3 37
+0: ch 0 on C4 37
+0: ch 0 on D#4 45
+0: ch 0 on G1 32
+0: ch 0 on G2 38
+120: ch 0 off G2 64
+0: ch 0 off D#4 64
+0: ch 0 off G3 64
+0: ch 0 off C4 64
+0: ch 0 off G1 64
+tempo 310881 msecs per qnote (192.99989385005838 bpm)
+0: ch 0 on F3 33
+0: ch 0 on B3 33
+0: ch 0 on D4 39
+0: ch 0 on G1 27
+0: ch 0 on G2 33
+120: ch 0 off G2 64
+0: ch 0 off D4 64
+0: ch 0 off F3 64
+0: ch 0 off B3 64
+0: ch 0 off G1 64
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 on D#3 37
+0: ch 0 on G3 37
+0: ch 0 on C4 45
+0: ch 0 on C2 32
+28: ch 0 cntl 64 127
+212: ch 0 off C2 64
+0: ch 0 off D#3 64
+0: ch 0 off G3 64
+0: ch 0 off C4 64
+0: ch 0 on C3 27
+tempo 300000 msecs per qnote (200.0 bpm)
+0: ch 0 off C3 64
+0: ch 0 on B3 30
+0: ch 0 on F4 36
+14: ch 0 cntl 64 0
+170: ch 0 cntl 64 127
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+0: ch 0 off F4 64
+0: ch 0 off B3 64
+0: ch 0 on C4 27
+0: ch 0 on D#4 32
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 off D#4 64
+0: ch 0 off C4 64
+0: ch 0 on C2 32
+12: ch 0 cntl 64 0
+144: ch 0 cntl 64 127
+84: ch 0 off C2 64
+0: ch 0 on C3 28
+tempo 296296 msecs per qnote (202.5002025002025 bpm)
+0: ch 0 off C3 64
+0: ch 0 on F4 31
+0: ch 0 on B4 37
+12: ch 0 cntl 64 0
+129: ch 0 cntl 64 127
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+0: ch 0 off B4 64
+0: ch 0 off F4 64
+0: ch 0 on D#4 27
+0: ch 0 on C5 32
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+0: ch 0 off C5 64
+0: ch 0 off D#4 64
+0: ch 0 on C2 32
+4: ch 0 cntl 64 0
+123: ch 0 cntl 64 127
+113: ch 0 off C2 64
+0: ch 0 on C3 28
+tempo 298507 msecs per qnote (201.0003115504829 bpm)
+0: ch 0 off C3 64
+0: ch 0 on F5 37
+0: ch 0 on B4 31
+14: ch 0 cntl 64 0
+113: ch 0 cntl 64 127
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+0: ch 0 off B4 64
+0: ch 0 off F5 64
+0: ch 0 on C5 27
+0: ch 0 on D#5 32
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+0: ch 0 off D#5 64
+0: ch 0 off C5 64
+0: ch 0 on C2 32
+12: ch 0 cntl 64 0
+129: ch 0 cntl 64 127
+99: ch 0 off C2 64
+0: ch 0 on C3 27
+tempo 300000 msecs per qnote (200.0 bpm)
+0: ch 0 off C3 64
+0: ch 0 on B5 43
+0: ch 0 on F5 36
+7: ch 0 cntl 64 0
+149: ch 0 cntl 64 127
+tempo 317460 msecs per qnote (189.000189000189 bpm)
+0: ch 0 off F5 64
+0: ch 0 off B5 64
+0: ch 0 on D#5 30
+0: ch 0 on C6 36
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 off C6 64
+0: ch 0 off D#5 64
+0: ch 0 on G#1 36
+0: ch 0 cntl 64 0
+28: ch 0 cntl 64 127
+212: ch 0 off G#1 64
+0: ch 0 on G#2 32
+tempo 300000 msecs per qnote (200.0 bpm)
+0: ch 0 off G#2 64
+0: ch 0 on C4 36
+0: ch 0 on F#4 44
+14: ch 0 cntl 64 0
+170: ch 0 cntl 64 127
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+0: ch 0 off F#4 64
+0: ch 0 off C4 64
+0: ch 0 on C#4 33
+0: ch 0 on F4 40
+tempo 304569 msecs per qnote (196.9996946504733 bpm)
+0: ch 0 off F4 64
+0: ch 0 off C#4 64
+0: ch 0 on G#1 42
+12: ch 0 cntl 64 0
+144: ch 0 cntl 64 127
+84: ch 0 off G#1 64
+0: ch 0 on G#2 38
+tempo 296296 msecs per qnote (202.5002025002025 bpm)
+0: ch 0 off G#2 64
+0: ch 0 on F4 43
+0: ch 0 on C#5 52
+12: ch 0 cntl 64 0
+129: ch 0 cntl 64 127
+tempo 309278 msecs per qnote (194.00021986691584 bpm)
+0: ch 0 off C#5 64
+0: ch 0 off F4 64
+0: ch 0 on F#4 38
+0: ch 0 on C5 45
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+0: ch 0 off C5 64
+0: ch 0 off F#4 64
+0: ch 0 on G#1 55
+4: ch 0 cntl 64 0
+123: ch 0 cntl 64 127
+113: ch 0 off G#1 64
+0: ch 0 on G#2 51
+tempo 298507 msecs per qnote (201.0003115504829 bpm)
+0: ch 0 off G#2 64
+0: ch 0 on F5 65
+0: ch 0 on C#5 54
+14: ch 0 cntl 64 0
+113: ch 0 cntl 64 127
+tempo 310078 msecs per qnote (193.4997000754649 bpm)
+0: ch 0 off C#5 64
+0: ch 0 off F5 64
+0: ch 0 on C5 47
+0: ch 0 on F#5 57
+tempo 303797 msecs per qnote (197.50030447963607 bpm)
+0: ch 0 off F#5 64
+0: ch 0 off C5 64
+0: ch 0 on G#1 64
+12: ch 0 cntl 64 0
+129: ch 0 cntl 64 127
+tempo 341880 msecs per qnote (175.5001755001755 bpm)
+0: ch 0 off G#1 64
+0: ch 0 on G#2 56
+tempo 326975 msecs per qnote (183.5002676045569 bpm)
+0: ch 0 off G#2 64
+0: ch 0 on C#6 76
+0: ch 0 on F5 63
+7: ch 0 cntl 64 0
+149: ch 0 cntl 64 127
+tempo 430108 msecs per qnote (139.4998465501688 bpm)
+0: ch 0 off F5 64
+0: ch 0 off C#6 64
+0: ch 0 on F#5 55
+0: ch 0 on C6 65
+tempo 323450 msecs per qnote (185.50007729169886 bpm)
+0: ch 0 off C6 64
+0: ch 0 off F#5 64
+0: ch 0 on D#6 84
+0: ch 0 on F#5 78
+0: ch 0 on G#1 65
+0: ch 0 on G#2 70
+0: ch 0 cntl 64 0
+400: ch 0 cntl 64 127
+tempo 334262 msecs per qnote (179.4999132417086 bpm)
+0: ch 0 off F#5 64
+0: ch 0 off D#6 64
+0: ch 0 on C#6 59
+0: ch 0 on D#5 40
+0: ch 0 cntl 64 0
+52: ch 0 cntl 64 127
+428: ch 0 off C#6 64
+0: ch 0 on C6 54
+tempo 351906 msecs per qnote (170.50007672503452 bpm)
+0: ch 0 off C6 64
+0: ch 0 off D#5 64
+0: ch 0 on A#5 57
+0: ch 0 on C5 40
+13: ch 0 cntl 64 0
+47: ch 0 cntl 64 127
+tempo 451128 msecs per qnote (132.9999468000213 bpm)
+0: ch 0 off A#5 64
+0: ch 0 on G#5 50
+tempo 404040 msecs per qnote (148.5001485001485 bpm)
+0: ch 0 off G#5 64
+0: ch 0 on F5 41
+80: ch 0 off F5 64
+0: ch 0 on F#5 36
+80: ch 0 off F#5 64
+0: ch 0 on G#5 36
+tempo 857143 msecs per qnote (69.99998833333528 bpm)
+0: ch 0 off G#5 64
+0: ch 0 on F#5 50
+0: ch 0 cntl 64 0
+267: ch 0 cntl 64 127
+693: ch 0 off F#5 64
+0: ch 0 off C5 64
+0: ch 0 off G#1 64
+0: ch 0 off G#2 64
+0: ch 0 cntl 64 0
+tempo 350877 msecs per qnote (171.00009405005173 bpm)
+0: ch 0 on G#3 34
+120: ch 0 off G#3 64
+120: ch 0 on A#3 31
+120: ch 0 off A#3 64
+120: ch 0 on C4 31
+120: ch 0 off C4 64
+120: ch 0 on F3 33
+0: ch 0 on G#3 33
+0: ch 0 on C#4 39
+0: ch 0 on C#2 21
+0: ch 0 on C#3 26
+120: ch 0 off C#4 64
+120: ch 0 on D#4 34
+120: ch 0 off D#4 64
+tempo 375000 msecs per qnote (160.0 bpm)
+0: ch 0 on F4 34
+120: ch 0 off F4 64
+tempo 360360 msecs per qnote (166.5001665001665 bpm)
+0: ch 0 off C#2 64
+0: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 off C#3 64
+0: ch 0 on G#3 32
+0: ch 0 on D#4 38
+0: ch 0 on F#2 20
+0: ch 0 on C3 25
+120: ch 0 off C3 64
+0: ch 0 off G#3 64
+0: ch 0 off D#4 64
+0: ch 0 off F#2 64
+360: ch 0 on G#3 27
+0: ch 0 on C#4 33
+0: ch 0 on F2 19
+0: ch 0 on C#3 23
+120: ch 0 off C#3 64
+0: ch 0 off G#3 64
+0: ch 0 off C#4 64
+0: ch 0 off F2 64
+tempo 495868 msecs per qnote (120.99994353335968 bpm)
+tempo 420964 msecs per qnote (142.53000256554006 bpm)
+0: ch 0 on F#3 31
+0: ch 0 on G#3 31
+0: ch 0 on C4 31
+0: ch 0 on F#4 37
+0: ch 0 on G#2 22
+0: ch 0 on D#3 27
+tempo 348837 msecs per qnote (172.00010320006191 bpm)
+0: ch 0 off D#3 64
+0: ch 0 off G#3 64
+0: ch 0 off C4 64
+0: ch 0 off F#3 64
+0: ch 0 off G#2 64
+0: ch 0 off F#4 64
+0: ch 0 on G#3 34
+120: ch 0 off G#3 64
+120: ch 0 on A#3 31
+120: ch 0 off A#3 64
+120: ch 0 on C4 31
+120: ch 0 off C4 64
+tempo 359281 msecs per qnote (167.00020318358054 bpm)
+0: ch 0 on F3 33
+0: ch 0 on G#3 33
+0: ch 0 on C#4 39
+0: ch 0 on C#2 21
+0: ch 0 on C#3 26
+120: ch 0 off C#4 64
+120: ch 0 on D#4 34
+120: ch 0 off D#4 64
+tempo 384615 msecs per qnote (156.000156000156 bpm)
+0: ch 0 on F4 34
+tempo 385852 msecs per qnote (155.50003628334179 bpm)
+0: ch 0 off F4 64
+tempo 376176 msecs per qnote (159.49980860022967 bpm)
+0: ch 0 off C#2 64
+0: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 off C#3 64
+0: ch 0 on D#3 32
+0: ch 0 on A#3 32
+0: ch 0 on D#4 38
+0: ch 0 on F#1 20
+0: ch 0 on F#2 25
+120: ch 0 off F#2 64
+0: ch 0 off D#4 64
+0: ch 0 off D#3 64
+0: ch 0 off A#3 64
+0: ch 0 off F#1 64
+360: ch 0 on A#3 27
+0: ch 0 on D#3 27
+0: ch 0 on C#4 33
+0: ch 0 on G1 19
+0: ch 0 on G2 23
+120: ch 0 off G2 64
+0: ch 0 off C#4 64
+0: ch 0 off A#3 64
+0: ch 0 off D#3 64
+0: ch 0 off G1 64
+tempo 527704 msecs per qnote (113.70010460409624 bpm)
+tempo 439464 msecs per qnote (136.52995467205506 bpm)
+0: ch 0 on C3 26
+0: ch 0 on D#3 26
+0: ch 0 on G#3 31
+0: ch 0 on G#1 18
+0: ch 0 on G#2 22
+960: ch 0 off G#2 64
+0: ch 0 off G#3 64
+0: ch 0 off C3 64
+0: ch 0 off D#3 64
+0: ch 0 off G#1 64
+tempo 364742 msecs per qnote (164.49983824182573 bpm)
+0: ch 0 on G#3 34
+120: ch 0 off G#3 64
+120: ch 0 on A#3 31
+120: ch 0 off A#3 64
+120: ch 0 on C4 31
+120: ch 0 off C4 64
+120: ch 0 on F3 33
+0: ch 0 on G#3 33
+0: ch 0 on C#4 39
+0: ch 0 on C#2 21
+0: ch 0 on C#3 26
+120: ch 0 off C#4 64
+120: ch 0 on D#4 34
+120: ch 0 off D#4 64
+tempo 394737 msecs per qnote (151.99993920002433 bpm)
+0: ch 0 on F4 34
+120: ch 0 off F4 64
+tempo 421941 msecs per qnote (142.1999758260041 bpm)
+0: ch 0 off C#2 64
+0: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 off C#3 64
+0: ch 0 on G#3 32
+0: ch 0 on D#4 38
+0: ch 0 on F#2 20
+0: ch 0 on C3 25
+120: ch 0 off C3 64
+0: ch 0 off G#3 64
+0: ch 0 off D#4 64
+0: ch 0 off F#2 64
+360: ch 0 on G#3 27
+0: ch 0 on C#4 33
+0: ch 0 on F2 19
+0: ch 0 on C#3 23
+120: ch 0 off C#3 64
+0: ch 0 off G#3 64
+0: ch 0 off C#4 64
+0: ch 0 off F2 64
+tempo 495868 msecs per qnote (120.99994353335968 bpm)
+tempo 413793 msecs per qnote (145.00003625000906 bpm)
+0: ch 0 on F#3 28
+0: ch 0 on G#3 28
+0: ch 0 on C4 28
+0: ch 0 on F#4 35
+0: ch 0 on G#2 24
+0: ch 0 on C3 24
+0: ch 0 on D#3 28
+0: ch 0 cntl 64 127
+tempo 449438 msecs per qnote (133.50006007502702 bpm)
+tempo 413793 msecs per qnote (145.00003625000906 bpm)
+0: ch 0 off F#4 64
+0: ch 0 on D#4 30
+238: ch 0 off C4 64
+tempo 685714 msecs per qnote (87.50003645834852 bpm)
+0: ch 0 off D#4 64
+0: ch 0 on C4 34
+time sig 6/4
+0: ch 0 off C4 64
+0: ch 0 off D#3 64
+0: ch 0 off G#2 64
+0: ch 0 off F#3 64
+0: ch 0 off G#3 64
+0: ch 0 off C3 64
+0: ch 0 on A1 30
+0: ch 0 cntl 64 0
+tempo 481928 msecs per qnote (124.49992530004482 bpm)
+tempo 480000 msecs per qnote (125.0 bpm)
+4: ch 0 cntl 64 127
+37: ch 0 off A1 64
+0: ch 0 on C2 32
+tempo 478088 msecs per qnote (125.49990796673416 bpm)
+tempo 476190 msecs per qnote (126.000126000126 bpm)
+1: ch 0 on D#2 33
+0: ch 0 off C2 64
+tempo 474308 msecs per qnote (126.50008011671741 bpm)
+51: ch 0 off D#2 64
+0: ch 0 on F#2 34
+tempo 472441 msecs per qnote (126.99998518333506 bpm)
+tempo 470588 msecs per qnote (127.50006375003187 bpm)
+10: ch 0 on A2 36
+1: ch 0 off F#2 64
+tempo 468750 msecs per qnote (128.0 bpm)
+tempo 466926 msecs per qnote (128.5000192750029 bpm)
+26: ch 0 on C3 37
+tempo 465116 msecs per qnote (129.00007740004645 bpm)
+tempo 463320 msecs per qnote (129.5001295001295 bpm)
+43: ch 0 on D#3 39
+tempo 461538 msecs per qnote (130.00013000013 bpm)
+tempo 459770 msecs per qnote (130.50003262500815 bpm)
+29: ch 0 on F#3 40
+tempo 458015 msecs per qnote (131.00007641671124 bpm)
+tempo 456274 msecs per qnote (131.49993205836844 bpm)
+46: ch 0 on A3 43
+tempo 454545 msecs per qnote (132.000132000132 bpm)
+tempo 452830 msecs per qnote (132.50005520835634 bpm)
+tempo 451128 msecs per qnote (132.9999468000213 bpm)
+2: ch 0 on C4 46
+tempo 504202 msecs per qnote (118.99992463338107 bpm)
+0: ch 0 on F#4 49
+tempo 652174 msecs per qnote (91.99998773333498 bpm)
+0: ch 0 off F#4 64
+0: ch 0 on D#4 30
+237: ch 0 off C4 64
+tempo 983607 msecs per qnote (60.99997255001235 bpm)
+0: ch 0 off D#4 64
+0: ch 0 on C4 34
+954: ch 0 off A2 64
+tempo 291928 msecs per qnote (205.53013071716313 bpm)
+0: ch 0 off D#3 64
+0: ch 0 off F#3 64
+0: ch 0 off C3 64
+0: ch 0 off C4 64
+0: ch 0 off A3 64
+0: ch 0 on G1 60
+0: ch 0 cntl 64 0
+64: ch 0 cntl 64 127
+43: ch 0 off G1 64
+0: ch 0 on C2 61
+106: ch 0 off C2 64
+0: ch 0 on D#2 62
+106: ch 0 on G2 63
+1: ch 0 off D#2 64
+106: ch 0 off G2 64
+0: ch 0 on C3 63
+106: ch 0 off C3 64
+0: ch 0 on D#3 64
+107: ch 0 off D#3 64
+0: ch 0 on G3 63
+106: ch 0 off G3 64
+0: ch 0 on C4 65
+106: ch 0 on D#4 67
+1: ch 0 off C4 64
+108: ch 0 off D#4 64
+0: ch 0 on G4 70
+12: ch 0 cntl 64 0
+108: ch 0 off G4 64
+120: ch 0 on D#4 63
+120: ch 0 off D#4 64
+120: ch 0 on C4 67
+120: ch 0 off C4 64
+120: ch 0 on G3 63
+120: ch 0 off G3 64
+120: ch 0 on D#3 70
+120: ch 0 off D#3 64
+120: ch 0 on C3 57
+120: ch 0 off C3 64
+120: ch 0 on G1 42
+0: ch 0 on G2 42
+0: ch 0 on B2 63
+120: ch 0 off B2 64
+tempo 314087 msecs per qnote (191.0298738884449 bpm)
+0: ch 0 on D3 53
+120: ch 0 off D3 64
+time sig 4/4
+tempo 309231 msecs per qnote (194.02970594798063 bpm)
+0: ch 0 off G2 64
+0: ch 0 off G1 64
+0: ch 0 on C3 43
+0: ch 0 on C2 64
+120: ch 0 off C2 64
+tempo 289813 msecs per qnote (207.03005041181729 bpm)
+0: ch 0 off C3 64
+0: ch 0 on C3 38
+120: ch 0 off C3 64
+120: ch 0 on C3 38
+120: ch 0 off C3 64
+120: ch 0 on C3 38
+120: ch 0 off C3 64
+tempo 301462 msecs per qnote (199.03006017342153 bpm)
+0: ch 0 on C3 41
+120: ch 0 off C3 64
+tempo 290515 msecs per qnote (206.52978331583566 bpm)
+0: ch 0 on C4 44
+0: ch 0 on A#3 37
+0: ch 0 on G3 31
+120: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off C4 64
+120: ch 0 on D4 47
+0: ch 0 on A#3 37
+0: ch 0 on G3 31
+120: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D4 64
+120: ch 0 on E4 51
+0: ch 0 on A#3 37
+0: ch 0 on G3 31
+120: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off E4 64
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 on F4 54
+0: ch 0 on C3 43
+120: ch 0 off C3 64
+0: ch 0 off F4 64
+120: ch 0 on G4 46
+0: ch 0 on F3 31
+0: ch 0 on G#3 36
+120: ch 0 off G#3 64
+0: ch 0 off F3 64
+0: ch 0 off G4 64
+120: ch 0 on G#4 47
+0: ch 0 on F3 31
+0: ch 0 on G#3 36
+120: ch 0 off G#3 64
+0: ch 0 off F3 64
+0: ch 0 off G#4 64
+120: ch 0 on C6 56
+0: ch 0 on F3 31
+0: ch 0 on G#3 36
+120: ch 0 off G#3 64
+0: ch 0 off F3 64
+tempo 295567 msecs per qnote (202.99965828390856 bpm)
+0: ch 0 off C6 64
+0: ch 0 on B5 65
+0: ch 0 on C3 41
+46: ch 0 cntl 64 127
+74: ch 0 off C3 64
+120: ch 0 off B5 64
+0: ch 0 on C6 55
+0: ch 0 on B3 36
+0: ch 0 on G#3 31
+0: ch 0 on F3 31
+12: ch 0 cntl 64 0
+108: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 off B3 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C6 64
+0: ch 0 on F6 66
+0: ch 0 on B3 36
+0: ch 0 on G#3 31
+0: ch 0 on F3 31
+120: ch 0 off F3 64
+0: ch 0 off F6 64
+0: ch 0 off B3 64
+0: ch 0 off G#3 64
+tempo 337079 msecs per qnote (177.99981606685674 bpm)
+0: ch 0 on F6 54
+0: ch 0 on B3 36
+0: ch 0 on G#3 31
+0: ch 0 on F3 31
+120: ch 0 off F3 64
+0: ch 0 off F6 64
+0: ch 0 off B3 64
+0: ch 0 off G#3 64
+tempo 309231 msecs per qnote (194.02970594798063 bpm)
+0: ch 0 on E6 66
+0: ch 0 on C3 43
+tempo 289813 msecs per qnote (207.03005041181729 bpm)
+0: ch 0 off C3 64
+0: ch 0 on E3 32
+0: ch 0 on G3 32
+0: ch 0 on C4 38
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+120: ch 0 off E6 64
+0: ch 0 on E3 32
+0: ch 0 on G3 32
+0: ch 0 on C4 38
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+120: ch 0 on E3 32
+0: ch 0 on G3 32
+0: ch 0 on C4 38
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+tempo 301462 msecs per qnote (199.03006017342153 bpm)
+0: ch 0 on C3 41
+120: ch 0 off C3 64
+tempo 290515 msecs per qnote (206.52978331583566 bpm)
+0: ch 0 on C4 44
+0: ch 0 on A#3 37
+0: ch 0 on G3 31
+120: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off C4 64
+120: ch 0 on D4 47
+0: ch 0 on A#3 37
+0: ch 0 on G3 31
+120: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off D4 64
+120: ch 0 on E4 51
+0: ch 0 on A#3 37
+0: ch 0 on G3 31
+120: ch 0 off G3 64
+0: ch 0 off A#3 64
+0: ch 0 off E4 64
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 on F4 54
+0: ch 0 on C3 43
+120: ch 0 off C3 64
+0: ch 0 off F4 64
+120: ch 0 on G4 46
+0: ch 0 on F3 31
+0: ch 0 on G#3 36
+120: ch 0 off G#3 64
+0: ch 0 off F3 64
+0: ch 0 off G4 64
+120: ch 0 on G#4 47
+0: ch 0 on F3 31
+0: ch 0 on G#3 36
+120: ch 0 off G#3 64
+0: ch 0 off F3 64
+0: ch 0 off G#4 64
+120: ch 0 on C6 56
+0: ch 0 on F3 31
+0: ch 0 on G#3 36
+120: ch 0 off G#3 64
+0: ch 0 off F3 64
+tempo 295567 msecs per qnote (202.99965828390856 bpm)
+0: ch 0 off C6 64
+0: ch 0 on B5 65
+0: ch 0 on C3 41
+46: ch 0 cntl 64 127
+74: ch 0 off C3 64
+120: ch 0 off B5 64
+0: ch 0 on C6 55
+0: ch 0 on B3 36
+0: ch 0 on G#3 31
+0: ch 0 on F3 31
+12: ch 0 cntl 64 0
+108: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 off B3 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C6 64
+0: ch 0 on F6 66
+0: ch 0 on B3 36
+0: ch 0 on G#3 31
+0: ch 0 on F3 31
+120: ch 0 off F3 64
+0: ch 0 off F6 64
+0: ch 0 off B3 64
+0: ch 0 off G#3 64
+tempo 337079 msecs per qnote (177.99981606685674 bpm)
+0: ch 0 on F6 54
+0: ch 0 on B3 36
+0: ch 0 on G#3 31
+0: ch 0 on F3 31
+120: ch 0 off F3 64
+0: ch 0 off F6 64
+0: ch 0 off B3 64
+0: ch 0 off G#3 64
+tempo 309231 msecs per qnote (194.02970594798063 bpm)
+0: ch 0 on E6 66
+0: ch 0 on C3 43
+tempo 289813 msecs per qnote (207.03005041181729 bpm)
+0: ch 0 off C3 64
+0: ch 0 on E3 32
+0: ch 0 on G3 32
+0: ch 0 on C4 38
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+120: ch 0 off E6 64
+0: ch 0 on E3 32
+0: ch 0 on G3 32
+0: ch 0 on C4 38
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 on C5 50
+0: ch 0 on E3 32
+0: ch 0 on G3 32
+0: ch 0 on C4 38
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+tempo 295567 msecs per qnote (202.99965828390856 bpm)
+0: ch 0 off C5 64
+0: ch 0 on B4 57
+0: ch 0 on C3 40
+46: ch 0 cntl 64 127
+74: ch 0 off C3 64
+120: ch 0 off B4 64
+0: ch 0 on C5 47
+0: ch 0 on B3 36
+0: ch 0 on G#3 30
+0: ch 0 on F3 30
+12: ch 0 cntl 64 0
+108: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 off B3 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C5 64
+0: ch 0 on F5 57
+0: ch 0 on B3 35
+0: ch 0 on G#3 29
+0: ch 0 on F3 29
+120: ch 0 off F3 64
+0: ch 0 off F5 64
+0: ch 0 off B3 64
+0: ch 0 off G#3 64
+tempo 337079 msecs per qnote (177.99981606685674 bpm)
+0: ch 0 on F5 45
+0: ch 0 on B3 34
+0: ch 0 on G#3 29
+0: ch 0 on F3 29
+120: ch 0 off F3 64
+0: ch 0 off F5 64
+0: ch 0 off B3 64
+0: ch 0 off G#3 64
+tempo 309231 msecs per qnote (194.02970594798063 bpm)
+0: ch 0 on E5 55
+0: ch 0 on C3 40
+tempo 289813 msecs per qnote (207.03005041181729 bpm)
+0: ch 0 off C3 64
+0: ch 0 on E3 29
+0: ch 0 on G3 29
+0: ch 0 on C4 35
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+120: ch 0 off E5 64
+0: ch 0 on E3 29
+0: ch 0 on G3 29
+0: ch 0 on C4 35
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 on C4 45
+0: ch 0 on E3 28
+0: ch 0 on G3 28
+0: ch 0 on C4 34
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+tempo 295567 msecs per qnote (202.99965828390856 bpm)
+0: ch 0 off C4 64
+0: ch 0 on B3 51
+0: ch 0 on C3 36
+46: ch 0 cntl 64 127
+74: ch 0 off C3 64
+118: ch 0 off B3 64
+2: ch 0 on C4 43
+0: ch 0 on B3 32
+0: ch 0 on G#3 27
+0: ch 0 on F3 27
+12: ch 0 cntl 64 0
+108: ch 0 off F3 64
+0: ch 0 off G#3 64
+0: ch 0 off B3 64
+tempo 292683 msecs per qnote (204.9999487500128 bpm)
+0: ch 0 off C4 64
+0: ch 0 on F4 51
+0: ch 0 on B3 31
+0: ch 0 on G#3 27
+0: ch 0 on F3 27
+120: ch 0 off F3 64
+0: ch 0 off F4 64
+0: ch 0 off B3 64
+0: ch 0 off G#3 64
+tempo 337079 msecs per qnote (177.99981606685674 bpm)
+0: ch 0 on F4 40
+0: ch 0 on B3 30
+0: ch 0 on G#3 26
+0: ch 0 on F3 26
+120: ch 0 off F3 64
+0: ch 0 off F4 64
+0: ch 0 off B3 64
+0: ch 0 off G#3 64
+tempo 309231 msecs per qnote (194.02970594798063 bpm)
+0: ch 0 on E4 49
+0: ch 0 on C3 32
+0: ch 0 cntl 64 127
+tempo 298463 msecs per qnote (201.02994341007093 bpm)
+0: ch 0 off C3 64
+0: ch 0 on E3 23
+0: ch 0 on G3 23
+0: ch 0 on C4 27
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+120: ch 0 off E4 64
+0: ch 0 on E3 23
+0: ch 0 on G3 23
+0: ch 0 on C4 27
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+tempo 293399 msecs per qnote (204.49967450468475 bpm)
+0: ch 0 on C2 30
+0: ch 0 on E3 22
+0: ch 0 on G3 22
+0: ch 0 on C4 27
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+118: ch 0 off C2 64
+tempo 372439 msecs per qnote (161.100207013766 bpm)
+0: ch 0 on C2 40
+0: ch 0 on C3 32
+15: ch 0 cntl 64 0
+214: ch 0 cntl 64 127
+tempo 350672 msecs per qnote (171.10005931468723 bpm)
+0: ch 0 off C3 64
+0: ch 0 on E3 22
+0: ch 0 on G3 22
+0: ch 0 on C4 26
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+120: ch 0 off C2 64
+0: ch 0 on E3 21
+0: ch 0 on G3 21
+0: ch 0 on C4 26
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+tempo 454201 msecs per qnote (132.10010545991753 bpm)
+0: ch 0 on C2 26
+0: ch 0 on E3 21
+0: ch 0 on G3 21
+0: ch 0 on C4 25
+120: ch 0 off C4 64
+0: ch 0 off G3 64
+0: ch 0 off E3 64
+tempo 360360 msecs per qnote (166.5001665001665 bpm)
+0: ch 0 off C2 64
+0: ch 0 on C2 33
+0: ch 0 on C3 20
+0: ch 0 on E3 20
+0: ch 0 on G3 24
+480: ch 0 off G3 64
+0: ch 0 off C2 64
+0: ch 0 off C3 64
+0: ch 0 off E3 64
+343: ch 0 cntl 64 0
